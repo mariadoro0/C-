@@ -1,0 +1,15 @@
+Z:\C#\Sequenza\FatturaLiberaProfessione\obj\Debug\net7.0\FatturaLiberaProfessione.csproj.AssemblyReference.cache
+Z:\C#\Sequenza\FatturaLiberaProfessione\obj\Debug\net7.0\FatturaLiberaProfessione.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\Sequenza\FatturaLiberaProfessione\obj\Debug\net7.0\FatturaLiberaProfessione.AssemblyInfoInputs.cache
+Z:\C#\Sequenza\FatturaLiberaProfessione\obj\Debug\net7.0\FatturaLiberaProfessione.AssemblyInfo.cs
+Z:\C#\Sequenza\FatturaLiberaProfessione\obj\Debug\net7.0\FatturaLiberaProfessione.csproj.CoreCompileInputs.cache
+Z:\C#\Sequenza\FatturaLiberaProfessione\bin\Debug\net7.0\FatturaLiberaProfessione.exe
+Z:\C#\Sequenza\FatturaLiberaProfessione\bin\Debug\net7.0\FatturaLiberaProfessione.deps.json
+Z:\C#\Sequenza\FatturaLiberaProfessione\bin\Debug\net7.0\FatturaLiberaProfessione.runtimeconfig.json
+Z:\C#\Sequenza\FatturaLiberaProfessione\bin\Debug\net7.0\FatturaLiberaProfessione.dll
+Z:\C#\Sequenza\FatturaLiberaProfessione\bin\Debug\net7.0\FatturaLiberaProfessione.pdb
+Z:\C#\Sequenza\FatturaLiberaProfessione\obj\Debug\net7.0\FatturaLiberaProfessione.dll
+Z:\C#\Sequenza\FatturaLiberaProfessione\obj\Debug\net7.0\refint\FatturaLiberaProfessione.dll
+Z:\C#\Sequenza\FatturaLiberaProfessione\obj\Debug\net7.0\FatturaLiberaProfessione.pdb
+Z:\C#\Sequenza\FatturaLiberaProfessione\obj\Debug\net7.0\FatturaLiberaProfessione.genruntimeconfig.cache
+Z:\C#\Sequenza\FatturaLiberaProfessione\obj\Debug\net7.0\ref\FatturaLiberaProfessione.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Somma2interi/1.0.0": {
+        "runtime": {
+          "Somma2interi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Somma2interi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+Z:\C#\Benvenuto\Benvenuto\bin\Debug\net7.0\Benvenuto.exe
+Z:\C#\Benvenuto\Benvenuto\bin\Debug\net7.0\Benvenuto.deps.json
+Z:\C#\Benvenuto\Benvenuto\bin\Debug\net7.0\Benvenuto.runtimeconfig.json
+Z:\C#\Benvenuto\Benvenuto\bin\Debug\net7.0\Benvenuto.dll
+Z:\C#\Benvenuto\Benvenuto\bin\Debug\net7.0\Benvenuto.pdb
+Z:\C#\Benvenuto\Benvenuto\obj\Debug\net7.0\Benvenuto.csproj.AssemblyReference.cache
+Z:\C#\Benvenuto\Benvenuto\obj\Debug\net7.0\Benvenuto.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\Benvenuto\Benvenuto\obj\Debug\net7.0\Benvenuto.AssemblyInfoInputs.cache
+Z:\C#\Benvenuto\Benvenuto\obj\Debug\net7.0\Benvenuto.AssemblyInfo.cs
+Z:\C#\Benvenuto\Benvenuto\obj\Debug\net7.0\Benvenuto.csproj.CoreCompileInputs.cache
+Z:\C#\Benvenuto\Benvenuto\obj\Debug\net7.0\Benvenuto.dll
+Z:\C#\Benvenuto\Benvenuto\obj\Debug\net7.0\refint\Benvenuto.dll
+Z:\C#\Benvenuto\Benvenuto\obj\Debug\net7.0\Benvenuto.pdb
+Z:\C#\Benvenuto\Benvenuto\obj\Debug\net7.0\Benvenuto.genruntimeconfig.cache
+Z:\C#\Benvenuto\Benvenuto\obj\Debug\net7.0\ref\Benvenuto.dll

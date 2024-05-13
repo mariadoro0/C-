@@ -1,0 +1,15 @@
+Z:\C#\Sequenza\Divisione2Interi\bin\Debug\net7.0\Divisione2Interi.exe
+Z:\C#\Sequenza\Divisione2Interi\bin\Debug\net7.0\Divisione2Interi.deps.json
+Z:\C#\Sequenza\Divisione2Interi\bin\Debug\net7.0\Divisione2Interi.runtimeconfig.json
+Z:\C#\Sequenza\Divisione2Interi\bin\Debug\net7.0\Divisione2Interi.dll
+Z:\C#\Sequenza\Divisione2Interi\bin\Debug\net7.0\Divisione2Interi.pdb
+Z:\C#\Sequenza\Divisione2Interi\obj\Debug\net7.0\Divisione2Interi.csproj.AssemblyReference.cache
+Z:\C#\Sequenza\Divisione2Interi\obj\Debug\net7.0\Divisione2Interi.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\Sequenza\Divisione2Interi\obj\Debug\net7.0\Divisione2Interi.AssemblyInfoInputs.cache
+Z:\C#\Sequenza\Divisione2Interi\obj\Debug\net7.0\Divisione2Interi.AssemblyInfo.cs
+Z:\C#\Sequenza\Divisione2Interi\obj\Debug\net7.0\Divisione2Interi.csproj.CoreCompileInputs.cache
+Z:\C#\Sequenza\Divisione2Interi\obj\Debug\net7.0\Divisione2Interi.dll
+Z:\C#\Sequenza\Divisione2Interi\obj\Debug\net7.0\refint\Divisione2Interi.dll
+Z:\C#\Sequenza\Divisione2Interi\obj\Debug\net7.0\Divisione2Interi.pdb
+Z:\C#\Sequenza\Divisione2Interi\obj\Debug\net7.0\Divisione2Interi.genruntimeconfig.cache
+Z:\C#\Sequenza\Divisione2Interi\obj\Debug\net7.0\ref\Divisione2Interi.dll

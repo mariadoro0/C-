@@ -1,0 +1,15 @@
+Z:\C#\Sequenza\PrezzoQuantita\bin\Debug\net7.0\PrezzoQuantita.exe
+Z:\C#\Sequenza\PrezzoQuantita\bin\Debug\net7.0\PrezzoQuantita.deps.json
+Z:\C#\Sequenza\PrezzoQuantita\bin\Debug\net7.0\PrezzoQuantita.runtimeconfig.json
+Z:\C#\Sequenza\PrezzoQuantita\bin\Debug\net7.0\PrezzoQuantita.dll
+Z:\C#\Sequenza\PrezzoQuantita\bin\Debug\net7.0\PrezzoQuantita.pdb
+Z:\C#\Sequenza\PrezzoQuantita\obj\Debug\net7.0\PrezzoQuantita.csproj.AssemblyReference.cache
+Z:\C#\Sequenza\PrezzoQuantita\obj\Debug\net7.0\PrezzoQuantita.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\Sequenza\PrezzoQuantita\obj\Debug\net7.0\PrezzoQuantita.AssemblyInfoInputs.cache
+Z:\C#\Sequenza\PrezzoQuantita\obj\Debug\net7.0\PrezzoQuantita.AssemblyInfo.cs
+Z:\C#\Sequenza\PrezzoQuantita\obj\Debug\net7.0\PrezzoQuantita.csproj.CoreCompileInputs.cache
+Z:\C#\Sequenza\PrezzoQuantita\obj\Debug\net7.0\PrezzoQuantita.dll
+Z:\C#\Sequenza\PrezzoQuantita\obj\Debug\net7.0\refint\PrezzoQuantita.dll
+Z:\C#\Sequenza\PrezzoQuantita\obj\Debug\net7.0\PrezzoQuantita.pdb
+Z:\C#\Sequenza\PrezzoQuantita\obj\Debug\net7.0\PrezzoQuantita.genruntimeconfig.cache
+Z:\C#\Sequenza\PrezzoQuantita\obj\Debug\net7.0\ref\PrezzoQuantita.dll

@@ -1,0 +1,15 @@
+Z:\C#\Sequenza\Somma2interi\bin\Debug\net7.0\Somma2interi.exe
+Z:\C#\Sequenza\Somma2interi\bin\Debug\net7.0\Somma2interi.deps.json
+Z:\C#\Sequenza\Somma2interi\bin\Debug\net7.0\Somma2interi.runtimeconfig.json
+Z:\C#\Sequenza\Somma2interi\bin\Debug\net7.0\Somma2interi.dll
+Z:\C#\Sequenza\Somma2interi\bin\Debug\net7.0\Somma2interi.pdb
+Z:\C#\Sequenza\Somma2interi\obj\Debug\net7.0\Somma2interi.csproj.AssemblyReference.cache
+Z:\C#\Sequenza\Somma2interi\obj\Debug\net7.0\Somma2interi.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\Sequenza\Somma2interi\obj\Debug\net7.0\Somma2interi.AssemblyInfoInputs.cache
+Z:\C#\Sequenza\Somma2interi\obj\Debug\net7.0\Somma2interi.AssemblyInfo.cs
+Z:\C#\Sequenza\Somma2interi\obj\Debug\net7.0\Somma2interi.csproj.CoreCompileInputs.cache
+Z:\C#\Sequenza\Somma2interi\obj\Debug\net7.0\Somma2interi.dll
+Z:\C#\Sequenza\Somma2interi\obj\Debug\net7.0\refint\Somma2interi.dll
+Z:\C#\Sequenza\Somma2interi\obj\Debug\net7.0\Somma2interi.pdb
+Z:\C#\Sequenza\Somma2interi\obj\Debug\net7.0\Somma2interi.genruntimeconfig.cache
+Z:\C#\Sequenza\Somma2interi\obj\Debug\net7.0\ref\Somma2interi.dll
