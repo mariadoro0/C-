@@ -1,0 +1,15 @@
+Z:\C#\2024_05_20\Iterazione\EstrazioneNumeriLotto\bin\Debug\net8.0\EstrazioneNumeriLotto.exe
+Z:\C#\2024_05_20\Iterazione\EstrazioneNumeriLotto\bin\Debug\net8.0\EstrazioneNumeriLotto.deps.json
+Z:\C#\2024_05_20\Iterazione\EstrazioneNumeriLotto\bin\Debug\net8.0\EstrazioneNumeriLotto.runtimeconfig.json
+Z:\C#\2024_05_20\Iterazione\EstrazioneNumeriLotto\bin\Debug\net8.0\EstrazioneNumeriLotto.dll
+Z:\C#\2024_05_20\Iterazione\EstrazioneNumeriLotto\bin\Debug\net8.0\EstrazioneNumeriLotto.pdb
+Z:\C#\2024_05_20\Iterazione\EstrazioneNumeriLotto\obj\Debug\net8.0\EstrazioneNumeriLotto.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\2024_05_20\Iterazione\EstrazioneNumeriLotto\obj\Debug\net8.0\EstrazioneNumeriLotto.AssemblyInfoInputs.cache
+Z:\C#\2024_05_20\Iterazione\EstrazioneNumeriLotto\obj\Debug\net8.0\EstrazioneNumeriLotto.AssemblyInfo.cs
+Z:\C#\2024_05_20\Iterazione\EstrazioneNumeriLotto\obj\Debug\net8.0\EstrazioneNumeriLotto.csproj.CoreCompileInputs.cache
+Z:\C#\2024_05_20\Iterazione\EstrazioneNumeriLotto\obj\Debug\net8.0\EstrazioneNumeriLotto.sourcelink.json
+Z:\C#\2024_05_20\Iterazione\EstrazioneNumeriLotto\obj\Debug\net8.0\EstrazioneNumeriLotto.dll
+Z:\C#\2024_05_20\Iterazione\EstrazioneNumeriLotto\obj\Debug\net8.0\refint\EstrazioneNumeriLotto.dll
+Z:\C#\2024_05_20\Iterazione\EstrazioneNumeriLotto\obj\Debug\net8.0\EstrazioneNumeriLotto.pdb
+Z:\C#\2024_05_20\Iterazione\EstrazioneNumeriLotto\obj\Debug\net8.0\EstrazioneNumeriLotto.genruntimeconfig.cache
+Z:\C#\2024_05_20\Iterazione\EstrazioneNumeriLotto\obj\Debug\net8.0\ref\EstrazioneNumeriLotto.dll

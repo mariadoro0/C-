@@ -1,0 +1,15 @@
+Z:\C#\2024_05_20\FrequenzaLancioDadi\FrequenzaLancioDadi\bin\Debug\net8.0\FrequenzaLancioDadi.exe
+Z:\C#\2024_05_20\FrequenzaLancioDadi\FrequenzaLancioDadi\bin\Debug\net8.0\FrequenzaLancioDadi.deps.json
+Z:\C#\2024_05_20\FrequenzaLancioDadi\FrequenzaLancioDadi\bin\Debug\net8.0\FrequenzaLancioDadi.runtimeconfig.json
+Z:\C#\2024_05_20\FrequenzaLancioDadi\FrequenzaLancioDadi\bin\Debug\net8.0\FrequenzaLancioDadi.dll
+Z:\C#\2024_05_20\FrequenzaLancioDadi\FrequenzaLancioDadi\bin\Debug\net8.0\FrequenzaLancioDadi.pdb
+Z:\C#\2024_05_20\FrequenzaLancioDadi\FrequenzaLancioDadi\obj\Debug\net8.0\FrequenzaLancioDadi.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\2024_05_20\FrequenzaLancioDadi\FrequenzaLancioDadi\obj\Debug\net8.0\FrequenzaLancioDadi.AssemblyInfoInputs.cache
+Z:\C#\2024_05_20\FrequenzaLancioDadi\FrequenzaLancioDadi\obj\Debug\net8.0\FrequenzaLancioDadi.AssemblyInfo.cs
+Z:\C#\2024_05_20\FrequenzaLancioDadi\FrequenzaLancioDadi\obj\Debug\net8.0\FrequenzaLancioDadi.csproj.CoreCompileInputs.cache
+Z:\C#\2024_05_20\FrequenzaLancioDadi\FrequenzaLancioDadi\obj\Debug\net8.0\FrequenzaLancioDadi.sourcelink.json
+Z:\C#\2024_05_20\FrequenzaLancioDadi\FrequenzaLancioDadi\obj\Debug\net8.0\FrequenzaLancioDadi.dll
+Z:\C#\2024_05_20\FrequenzaLancioDadi\FrequenzaLancioDadi\obj\Debug\net8.0\refint\FrequenzaLancioDadi.dll
+Z:\C#\2024_05_20\FrequenzaLancioDadi\FrequenzaLancioDadi\obj\Debug\net8.0\FrequenzaLancioDadi.pdb
+Z:\C#\2024_05_20\FrequenzaLancioDadi\FrequenzaLancioDadi\obj\Debug\net8.0\FrequenzaLancioDadi.genruntimeconfig.cache
+Z:\C#\2024_05_20\FrequenzaLancioDadi\FrequenzaLancioDadi\obj\Debug\net8.0\ref\FrequenzaLancioDadi.dll

@@ -1,0 +1,15 @@
+Z:\C#\2024_05_20\Selezione\SequenzaData\bin\Debug\net8.0\SequenzaData.exe
+Z:\C#\2024_05_20\Selezione\SequenzaData\bin\Debug\net8.0\SequenzaData.deps.json
+Z:\C#\2024_05_20\Selezione\SequenzaData\bin\Debug\net8.0\SequenzaData.runtimeconfig.json
+Z:\C#\2024_05_20\Selezione\SequenzaData\bin\Debug\net8.0\SequenzaData.dll
+Z:\C#\2024_05_20\Selezione\SequenzaData\bin\Debug\net8.0\SequenzaData.pdb
+Z:\C#\2024_05_20\Selezione\SequenzaData\obj\Debug\net8.0\SequenzaData.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\2024_05_20\Selezione\SequenzaData\obj\Debug\net8.0\SequenzaData.AssemblyInfoInputs.cache
+Z:\C#\2024_05_20\Selezione\SequenzaData\obj\Debug\net8.0\SequenzaData.AssemblyInfo.cs
+Z:\C#\2024_05_20\Selezione\SequenzaData\obj\Debug\net8.0\SequenzaData.csproj.CoreCompileInputs.cache
+Z:\C#\2024_05_20\Selezione\SequenzaData\obj\Debug\net8.0\SequenzaData.sourcelink.json
+Z:\C#\2024_05_20\Selezione\SequenzaData\obj\Debug\net8.0\SequenzaData.dll
+Z:\C#\2024_05_20\Selezione\SequenzaData\obj\Debug\net8.0\refint\SequenzaData.dll
+Z:\C#\2024_05_20\Selezione\SequenzaData\obj\Debug\net8.0\SequenzaData.pdb
+Z:\C#\2024_05_20\Selezione\SequenzaData\obj\Debug\net8.0\SequenzaData.genruntimeconfig.cache
+Z:\C#\2024_05_20\Selezione\SequenzaData\obj\Debug\net8.0\ref\SequenzaData.dll

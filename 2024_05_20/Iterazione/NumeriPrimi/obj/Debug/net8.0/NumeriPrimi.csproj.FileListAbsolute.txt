@@ -1,0 +1,15 @@
+Z:\C#\2024_05_20\Iterazione\NumeriPrimi\bin\Debug\net8.0\NumeriPrimi.exe
+Z:\C#\2024_05_20\Iterazione\NumeriPrimi\bin\Debug\net8.0\NumeriPrimi.deps.json
+Z:\C#\2024_05_20\Iterazione\NumeriPrimi\bin\Debug\net8.0\NumeriPrimi.runtimeconfig.json
+Z:\C#\2024_05_20\Iterazione\NumeriPrimi\bin\Debug\net8.0\NumeriPrimi.dll
+Z:\C#\2024_05_20\Iterazione\NumeriPrimi\bin\Debug\net8.0\NumeriPrimi.pdb
+Z:\C#\2024_05_20\Iterazione\NumeriPrimi\obj\Debug\net8.0\NumeriPrimi.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\2024_05_20\Iterazione\NumeriPrimi\obj\Debug\net8.0\NumeriPrimi.AssemblyInfoInputs.cache
+Z:\C#\2024_05_20\Iterazione\NumeriPrimi\obj\Debug\net8.0\NumeriPrimi.AssemblyInfo.cs
+Z:\C#\2024_05_20\Iterazione\NumeriPrimi\obj\Debug\net8.0\NumeriPrimi.csproj.CoreCompileInputs.cache
+Z:\C#\2024_05_20\Iterazione\NumeriPrimi\obj\Debug\net8.0\NumeriPrimi.sourcelink.json
+Z:\C#\2024_05_20\Iterazione\NumeriPrimi\obj\Debug\net8.0\NumeriPrimi.dll
+Z:\C#\2024_05_20\Iterazione\NumeriPrimi\obj\Debug\net8.0\refint\NumeriPrimi.dll
+Z:\C#\2024_05_20\Iterazione\NumeriPrimi\obj\Debug\net8.0\NumeriPrimi.pdb
+Z:\C#\2024_05_20\Iterazione\NumeriPrimi\obj\Debug\net8.0\NumeriPrimi.genruntimeconfig.cache
+Z:\C#\2024_05_20\Iterazione\NumeriPrimi\obj\Debug\net8.0\ref\NumeriPrimi.dll

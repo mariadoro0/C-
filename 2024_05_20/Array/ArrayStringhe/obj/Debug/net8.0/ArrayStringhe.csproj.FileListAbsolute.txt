@@ -1,0 +1,15 @@
+Z:\C#\2024_05_20\Array\ArrayStringhe\obj\Debug\net8.0\ArrayStringhe.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\2024_05_20\Array\ArrayStringhe\obj\Debug\net8.0\ArrayStringhe.AssemblyInfoInputs.cache
+Z:\C#\2024_05_20\Array\ArrayStringhe\obj\Debug\net8.0\ArrayStringhe.AssemblyInfo.cs
+Z:\C#\2024_05_20\Array\ArrayStringhe\obj\Debug\net8.0\ArrayStringhe.csproj.CoreCompileInputs.cache
+Z:\C#\2024_05_20\Array\ArrayStringhe\obj\Debug\net8.0\ArrayStringhe.sourcelink.json
+Z:\C#\2024_05_20\Array\ArrayStringhe\bin\Debug\net8.0\ArrayStringhe.exe
+Z:\C#\2024_05_20\Array\ArrayStringhe\bin\Debug\net8.0\ArrayStringhe.deps.json
+Z:\C#\2024_05_20\Array\ArrayStringhe\bin\Debug\net8.0\ArrayStringhe.runtimeconfig.json
+Z:\C#\2024_05_20\Array\ArrayStringhe\bin\Debug\net8.0\ArrayStringhe.dll
+Z:\C#\2024_05_20\Array\ArrayStringhe\bin\Debug\net8.0\ArrayStringhe.pdb
+Z:\C#\2024_05_20\Array\ArrayStringhe\obj\Debug\net8.0\ArrayStringhe.dll
+Z:\C#\2024_05_20\Array\ArrayStringhe\obj\Debug\net8.0\refint\ArrayStringhe.dll
+Z:\C#\2024_05_20\Array\ArrayStringhe\obj\Debug\net8.0\ArrayStringhe.pdb
+Z:\C#\2024_05_20\Array\ArrayStringhe\obj\Debug\net8.0\ArrayStringhe.genruntimeconfig.cache
+Z:\C#\2024_05_20\Array\ArrayStringhe\obj\Debug\net8.0\ref\ArrayStringhe.dll

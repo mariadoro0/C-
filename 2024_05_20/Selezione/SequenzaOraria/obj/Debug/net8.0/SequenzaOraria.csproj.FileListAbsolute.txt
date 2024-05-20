@@ -1,0 +1,15 @@
+Z:\C#\2024_05_20\Selezione\SequenzaOraria\bin\Debug\net8.0\SequenzaOraria.exe
+Z:\C#\2024_05_20\Selezione\SequenzaOraria\bin\Debug\net8.0\SequenzaOraria.deps.json
+Z:\C#\2024_05_20\Selezione\SequenzaOraria\bin\Debug\net8.0\SequenzaOraria.runtimeconfig.json
+Z:\C#\2024_05_20\Selezione\SequenzaOraria\bin\Debug\net8.0\SequenzaOraria.dll
+Z:\C#\2024_05_20\Selezione\SequenzaOraria\bin\Debug\net8.0\SequenzaOraria.pdb
+Z:\C#\2024_05_20\Selezione\SequenzaOraria\obj\Debug\net8.0\SequenzaOraria.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\2024_05_20\Selezione\SequenzaOraria\obj\Debug\net8.0\SequenzaOraria.AssemblyInfoInputs.cache
+Z:\C#\2024_05_20\Selezione\SequenzaOraria\obj\Debug\net8.0\SequenzaOraria.AssemblyInfo.cs
+Z:\C#\2024_05_20\Selezione\SequenzaOraria\obj\Debug\net8.0\SequenzaOraria.csproj.CoreCompileInputs.cache
+Z:\C#\2024_05_20\Selezione\SequenzaOraria\obj\Debug\net8.0\SequenzaOraria.sourcelink.json
+Z:\C#\2024_05_20\Selezione\SequenzaOraria\obj\Debug\net8.0\SequenzaOraria.dll
+Z:\C#\2024_05_20\Selezione\SequenzaOraria\obj\Debug\net8.0\refint\SequenzaOraria.dll
+Z:\C#\2024_05_20\Selezione\SequenzaOraria\obj\Debug\net8.0\SequenzaOraria.pdb
+Z:\C#\2024_05_20\Selezione\SequenzaOraria\obj\Debug\net8.0\SequenzaOraria.genruntimeconfig.cache
+Z:\C#\2024_05_20\Selezione\SequenzaOraria\obj\Debug\net8.0\ref\SequenzaOraria.dll

@@ -1,0 +1,15 @@
+Z:\C#\2024_05_20\Array\ArrayNumeriInteri\bin\Debug\net8.0\ArrayNumeriInteri.exe
+Z:\C#\2024_05_20\Array\ArrayNumeriInteri\bin\Debug\net8.0\ArrayNumeriInteri.deps.json
+Z:\C#\2024_05_20\Array\ArrayNumeriInteri\bin\Debug\net8.0\ArrayNumeriInteri.runtimeconfig.json
+Z:\C#\2024_05_20\Array\ArrayNumeriInteri\bin\Debug\net8.0\ArrayNumeriInteri.dll
+Z:\C#\2024_05_20\Array\ArrayNumeriInteri\bin\Debug\net8.0\ArrayNumeriInteri.pdb
+Z:\C#\2024_05_20\Array\ArrayNumeriInteri\obj\Debug\net8.0\ArrayNumeriInteri.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\2024_05_20\Array\ArrayNumeriInteri\obj\Debug\net8.0\ArrayNumeriInteri.AssemblyInfoInputs.cache
+Z:\C#\2024_05_20\Array\ArrayNumeriInteri\obj\Debug\net8.0\ArrayNumeriInteri.AssemblyInfo.cs
+Z:\C#\2024_05_20\Array\ArrayNumeriInteri\obj\Debug\net8.0\ArrayNumeriInteri.csproj.CoreCompileInputs.cache
+Z:\C#\2024_05_20\Array\ArrayNumeriInteri\obj\Debug\net8.0\ArrayNumeriInteri.sourcelink.json
+Z:\C#\2024_05_20\Array\ArrayNumeriInteri\obj\Debug\net8.0\ArrayNumeriInteri.dll
+Z:\C#\2024_05_20\Array\ArrayNumeriInteri\obj\Debug\net8.0\refint\ArrayNumeriInteri.dll
+Z:\C#\2024_05_20\Array\ArrayNumeriInteri\obj\Debug\net8.0\ArrayNumeriInteri.pdb
+Z:\C#\2024_05_20\Array\ArrayNumeriInteri\obj\Debug\net8.0\ArrayNumeriInteri.genruntimeconfig.cache
+Z:\C#\2024_05_20\Array\ArrayNumeriInteri\obj\Debug\net8.0\ref\ArrayNumeriInteri.dll

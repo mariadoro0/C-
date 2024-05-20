@@ -1,0 +1,15 @@
+Z:\C#\2024_05_20\Selezione\PariDispari\bin\Debug\net8.0\PariDispari.exe
+Z:\C#\2024_05_20\Selezione\PariDispari\bin\Debug\net8.0\PariDispari.deps.json
+Z:\C#\2024_05_20\Selezione\PariDispari\bin\Debug\net8.0\PariDispari.runtimeconfig.json
+Z:\C#\2024_05_20\Selezione\PariDispari\bin\Debug\net8.0\PariDispari.dll
+Z:\C#\2024_05_20\Selezione\PariDispari\bin\Debug\net8.0\PariDispari.pdb
+Z:\C#\2024_05_20\Selezione\PariDispari\obj\Debug\net8.0\PariDispari.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\2024_05_20\Selezione\PariDispari\obj\Debug\net8.0\PariDispari.AssemblyInfoInputs.cache
+Z:\C#\2024_05_20\Selezione\PariDispari\obj\Debug\net8.0\PariDispari.AssemblyInfo.cs
+Z:\C#\2024_05_20\Selezione\PariDispari\obj\Debug\net8.0\PariDispari.csproj.CoreCompileInputs.cache
+Z:\C#\2024_05_20\Selezione\PariDispari\obj\Debug\net8.0\PariDispari.sourcelink.json
+Z:\C#\2024_05_20\Selezione\PariDispari\obj\Debug\net8.0\PariDispari.dll
+Z:\C#\2024_05_20\Selezione\PariDispari\obj\Debug\net8.0\refint\PariDispari.dll
+Z:\C#\2024_05_20\Selezione\PariDispari\obj\Debug\net8.0\PariDispari.pdb
+Z:\C#\2024_05_20\Selezione\PariDispari\obj\Debug\net8.0\PariDispari.genruntimeconfig.cache
+Z:\C#\2024_05_20\Selezione\PariDispari\obj\Debug\net8.0\ref\PariDispari.dll
