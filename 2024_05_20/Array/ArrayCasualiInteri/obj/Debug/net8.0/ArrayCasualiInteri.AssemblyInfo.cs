@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArrayCasualiInteri")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c1aac6501403cd5148d4da93e904a7a22509baa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+314cce465d51ae61ce2e2c7f0f66b7456532a160")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArrayCasualiInteri")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArrayCasualiInteri")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+Z:\C#\2024_05_20\Array\ArrayCasualiInteri\bin\Debug\net8.0\ArrayCasualiInteri.exe
+Z:\C#\2024_05_20\Array\ArrayCasualiInteri\bin\Debug\net8.0\ArrayCasualiInteri.deps.json
+Z:\C#\2024_05_20\Array\ArrayCasualiInteri\bin\Debug\net8.0\ArrayCasualiInteri.runtimeconfig.json
+Z:\C#\2024_05_20\Array\ArrayCasualiInteri\bin\Debug\net8.0\ArrayCasualiInteri.dll
+Z:\C#\2024_05_20\Array\ArrayCasualiInteri\bin\Debug\net8.0\ArrayCasualiInteri.pdb
+Z:\C#\2024_05_20\Array\ArrayCasualiInteri\obj\Debug\net8.0\ArrayCasualiInteri.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\2024_05_20\Array\ArrayCasualiInteri\obj\Debug\net8.0\ArrayCasualiInteri.AssemblyInfoInputs.cache
+Z:\C#\2024_05_20\Array\ArrayCasualiInteri\obj\Debug\net8.0\ArrayCasualiInteri.AssemblyInfo.cs
+Z:\C#\2024_05_20\Array\ArrayCasualiInteri\obj\Debug\net8.0\ArrayCasualiInteri.csproj.CoreCompileInputs.cache
+Z:\C#\2024_05_20\Array\ArrayCasualiInteri\obj\Debug\net8.0\ArrayCasualiInteri.sourcelink.json
+Z:\C#\2024_05_20\Array\ArrayCasualiInteri\obj\Debug\net8.0\ArrayCasualiInteri.dll
+Z:\C#\2024_05_20\Array\ArrayCasualiInteri\obj\Debug\net8.0\refint\ArrayCasualiInteri.dll
+Z:\C#\2024_05_20\Array\ArrayCasualiInteri\obj\Debug\net8.0\ArrayCasualiInteri.pdb
+Z:\C#\2024_05_20\Array\ArrayCasualiInteri\obj\Debug\net8.0\ArrayCasualiInteri.genruntimeconfig.cache
+Z:\C#\2024_05_20\Array\ArrayCasualiInteri\obj\Debug\net8.0\ref\ArrayCasualiInteri.dll

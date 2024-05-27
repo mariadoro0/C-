@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{6DBDBE0A-B2CB-4790-AE3D-4BC1AC56A119}|ArrayCasualiInteri\\ArrayCasualiInteri.csproj|solutionrelative:arraycasualiinteri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9FDFD165-A1D8-4565-9C2F-6B1CE90DB402}|ArrayNumeriInteri\\ArrayNumeriInteri.csproj|z:\\c#\\2024_05_20\\array\\arraynumeriinteri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FDFD165-A1D8-4565-9C2F-6B1CE90DB402}|ArrayNumeriInteri\\ArrayNumeriInteri.csproj|solutionrelative:arraynumeriinteri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2EC05CE1-0DD7-4BB9-947E-E41FC557790A}|ArrayStringhe\\ArrayStringhe.csproj|z:\\c#\\2024_05_20\\array\\arraystringhe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EC05CE1-0DD7-4BB9-947E-E41FC557790A}|ArrayStringhe\\ArrayStringhe.csproj|solutionrelative:arraystringhe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FDFD165-A1D8-4565-9C2F-6B1CE90DB402}|ArrayNumeriInteri\\ArrayNumeriInteri.csproj|z:\\c#\\2024_05_20\\array\\arraynumeriinteri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FDFD165-A1D8-4565-9C2F-6B1CE90DB402}|ArrayNumeriInteri\\ArrayNumeriInteri.csproj|solutionrelative:arraynumeriinteri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,14 +32,14 @@
               "RelativeDocumentMoniker": "ArrayCasualiInteri\\Program.cs",
               "ToolTip": "Z:\\C#\\2024_05_20\\Array\\ArrayCasualiInteri\\Program.cs",
               "RelativeToolTip": "ArrayCasualiInteri\\Program.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAQwCIAAAAMAAAA",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAwwGkAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T10:33:18.667Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "Z:\\C#\\2024_05_20\\Array\\ArrayStringhe\\Program.cs",
               "RelativeDocumentMoniker": "ArrayStringhe\\Program.cs",
@@ -52,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "Z:\\C#\\2024_05_20\\Array\\ArrayNumeriInteri\\Program.cs",
               "RelativeDocumentMoniker": "ArrayNumeriInteri\\Program.cs",
