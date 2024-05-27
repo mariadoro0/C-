@@ -1,0 +1,15 @@
+Z:\C#\2024_05_27\FigureGeometriche\FigureGeometriche\bin\Debug\net8.0\FigureGeometriche.exe
+Z:\C#\2024_05_27\FigureGeometriche\FigureGeometriche\bin\Debug\net8.0\FigureGeometriche.deps.json
+Z:\C#\2024_05_27\FigureGeometriche\FigureGeometriche\bin\Debug\net8.0\FigureGeometriche.runtimeconfig.json
+Z:\C#\2024_05_27\FigureGeometriche\FigureGeometriche\bin\Debug\net8.0\FigureGeometriche.dll
+Z:\C#\2024_05_27\FigureGeometriche\FigureGeometriche\bin\Debug\net8.0\FigureGeometriche.pdb
+Z:\C#\2024_05_27\FigureGeometriche\FigureGeometriche\obj\Debug\net8.0\FigureGeometriche.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\2024_05_27\FigureGeometriche\FigureGeometriche\obj\Debug\net8.0\FigureGeometriche.AssemblyInfoInputs.cache
+Z:\C#\2024_05_27\FigureGeometriche\FigureGeometriche\obj\Debug\net8.0\FigureGeometriche.AssemblyInfo.cs
+Z:\C#\2024_05_27\FigureGeometriche\FigureGeometriche\obj\Debug\net8.0\FigureGeometriche.csproj.CoreCompileInputs.cache
+Z:\C#\2024_05_27\FigureGeometriche\FigureGeometriche\obj\Debug\net8.0\FigureGeometriche.sourcelink.json
+Z:\C#\2024_05_27\FigureGeometriche\FigureGeometriche\obj\Debug\net8.0\FigureGeometriche.dll
+Z:\C#\2024_05_27\FigureGeometriche\FigureGeometriche\obj\Debug\net8.0\refint\FigureGeometriche.dll
+Z:\C#\2024_05_27\FigureGeometriche\FigureGeometriche\obj\Debug\net8.0\FigureGeometriche.pdb
+Z:\C#\2024_05_27\FigureGeometriche\FigureGeometriche\obj\Debug\net8.0\FigureGeometriche.genruntimeconfig.cache
+Z:\C#\2024_05_27\FigureGeometriche\FigureGeometriche\obj\Debug\net8.0\ref\FigureGeometriche.dll
