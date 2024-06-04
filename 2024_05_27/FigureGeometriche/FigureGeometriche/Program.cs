@@ -42,6 +42,9 @@
 
             Punto z = new Punto(1,6);
             Console.WriteLine(z);
+
+            Triangolo t1 = new Triangolo(a, b, z);
+            Console.WriteLine(t1);
         }
 
     }

@@ -1,0 +1,15 @@
+Z:\C#\2024_06_04\Ereditarieta\Quadrilateri\bin\Debug\net8.0\Quadrilateri.exe
+Z:\C#\2024_06_04\Ereditarieta\Quadrilateri\bin\Debug\net8.0\Quadrilateri.deps.json
+Z:\C#\2024_06_04\Ereditarieta\Quadrilateri\bin\Debug\net8.0\Quadrilateri.runtimeconfig.json
+Z:\C#\2024_06_04\Ereditarieta\Quadrilateri\bin\Debug\net8.0\Quadrilateri.dll
+Z:\C#\2024_06_04\Ereditarieta\Quadrilateri\bin\Debug\net8.0\Quadrilateri.pdb
+Z:\C#\2024_06_04\Ereditarieta\Quadrilateri\obj\Debug\net8.0\Quadrilateri.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\2024_06_04\Ereditarieta\Quadrilateri\obj\Debug\net8.0\Quadrilateri.AssemblyInfoInputs.cache
+Z:\C#\2024_06_04\Ereditarieta\Quadrilateri\obj\Debug\net8.0\Quadrilateri.AssemblyInfo.cs
+Z:\C#\2024_06_04\Ereditarieta\Quadrilateri\obj\Debug\net8.0\Quadrilateri.csproj.CoreCompileInputs.cache
+Z:\C#\2024_06_04\Ereditarieta\Quadrilateri\obj\Debug\net8.0\Quadrilateri.sourcelink.json
+Z:\C#\2024_06_04\Ereditarieta\Quadrilateri\obj\Debug\net8.0\Quadrilateri.dll
+Z:\C#\2024_06_04\Ereditarieta\Quadrilateri\obj\Debug\net8.0\refint\Quadrilateri.dll
+Z:\C#\2024_06_04\Ereditarieta\Quadrilateri\obj\Debug\net8.0\Quadrilateri.pdb
+Z:\C#\2024_06_04\Ereditarieta\Quadrilateri\obj\Debug\net8.0\Quadrilateri.genruntimeconfig.cache
+Z:\C#\2024_06_04\Ereditarieta\Quadrilateri\obj\Debug\net8.0\ref\Quadrilateri.dll

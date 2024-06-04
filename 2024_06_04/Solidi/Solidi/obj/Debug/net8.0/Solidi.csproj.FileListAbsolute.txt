@@ -1,0 +1,15 @@
+Z:\C#\2024_06_04\Solidi\Solidi\bin\Debug\net8.0\Solidi.exe
+Z:\C#\2024_06_04\Solidi\Solidi\bin\Debug\net8.0\Solidi.deps.json
+Z:\C#\2024_06_04\Solidi\Solidi\bin\Debug\net8.0\Solidi.runtimeconfig.json
+Z:\C#\2024_06_04\Solidi\Solidi\bin\Debug\net8.0\Solidi.dll
+Z:\C#\2024_06_04\Solidi\Solidi\bin\Debug\net8.0\Solidi.pdb
+Z:\C#\2024_06_04\Solidi\Solidi\obj\Debug\net8.0\Solidi.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\2024_06_04\Solidi\Solidi\obj\Debug\net8.0\Solidi.AssemblyInfoInputs.cache
+Z:\C#\2024_06_04\Solidi\Solidi\obj\Debug\net8.0\Solidi.AssemblyInfo.cs
+Z:\C#\2024_06_04\Solidi\Solidi\obj\Debug\net8.0\Solidi.csproj.CoreCompileInputs.cache
+Z:\C#\2024_06_04\Solidi\Solidi\obj\Debug\net8.0\Solidi.sourcelink.json
+Z:\C#\2024_06_04\Solidi\Solidi\obj\Debug\net8.0\Solidi.dll
+Z:\C#\2024_06_04\Solidi\Solidi\obj\Debug\net8.0\refint\Solidi.dll
+Z:\C#\2024_06_04\Solidi\Solidi\obj\Debug\net8.0\Solidi.pdb
+Z:\C#\2024_06_04\Solidi\Solidi\obj\Debug\net8.0\Solidi.genruntimeconfig.cache
+Z:\C#\2024_06_04\Solidi\Solidi\obj\Debug\net8.0\ref\Solidi.dll

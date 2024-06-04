@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\C#\\2024_06_04\\Solidi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3CDC474-B479-4148-B390-70B779D9EB32}|Solidi\\Solidi.csproj|z:\\c#\\2024_06_04\\solidi\\solidi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3CDC474-B479-4148-B390-70B779D9EB32}|Solidi\\Solidi.csproj|solutionrelative:solidi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3CDC474-B479-4148-B390-70B779D9EB32}|Solidi\\Solidi.csproj|z:\\c#\\2024_06_04\\solidi\\solidi\\solido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3CDC474-B479-4148-B390-70B779D9EB32}|Solidi\\Solidi.csproj|solutionrelative:solidi\\solido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3CDC474-B479-4148-B390-70B779D9EB32}|Solidi\\Solidi.csproj|z:\\c#\\2024_06_04\\solidi\\solidi\\cilindro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3CDC474-B479-4148-B390-70B779D9EB32}|Solidi\\Solidi.csproj|solutionrelative:solidi\\cilindro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3CDC474-B479-4148-B390-70B779D9EB32}|Solidi\\Solidi.csproj|z:\\c#\\2024_06_04\\solidi\\solidi\\materiale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3CDC474-B479-4148-B390-70B779D9EB32}|Solidi\\Solidi.csproj|solutionrelative:solidi\\materiale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3CDC474-B479-4148-B390-70B779D9EB32}|Solidi\\Solidi.csproj|z:\\c#\\2024_06_04\\solidi\\solidi\\tipomateriale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3CDC474-B479-4148-B390-70B779D9EB32}|Solidi\\Solidi.csproj|solutionrelative:solidi\\tipomateriale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3CDC474-B479-4148-B390-70B779D9EB32}|Solidi\\Solidi.csproj|z:\\c#\\2024_06_04\\solidi\\solidi\\sfera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3CDC474-B479-4148-B390-70B779D9EB32}|Solidi\\Solidi.csproj|solutionrelative:solidi\\sfera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3CDC474-B479-4148-B390-70B779D9EB32}|Solidi\\Solidi.csproj|z:\\c#\\2024_06_04\\solidi\\solidi\\cubo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3CDC474-B479-4148-B390-70B779D9EB32}|Solidi\\Solidi.csproj|solutionrelative:solidi\\cubo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cilindro.cs",
+              "DocumentMoniker": "Z:\\C#\\2024_06_04\\Solidi\\Solidi\\Cilindro.cs",
+              "RelativeDocumentMoniker": "Solidi\\Cilindro.cs",
+              "ToolTip": "Z:\\C#\\2024_06_04\\Solidi\\Solidi\\Cilindro.cs",
+              "RelativeToolTip": "Solidi\\Cilindro.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAhwBwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T15:37:10.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TipoMateriale.cs",
+              "DocumentMoniker": "Z:\\C#\\2024_06_04\\Solidi\\Solidi\\TipoMateriale.cs",
+              "RelativeDocumentMoniker": "Solidi\\TipoMateriale.cs",
+              "ToolTip": "Z:\\C#\\2024_06_04\\Solidi\\Solidi\\TipoMateriale.cs",
+              "RelativeToolTip": "Solidi\\TipoMateriale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T15:19:43.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Materiale.cs",
+              "DocumentMoniker": "Z:\\C#\\2024_06_04\\Solidi\\Solidi\\Materiale.cs",
+              "RelativeDocumentMoniker": "Solidi\\Materiale.cs",
+              "ToolTip": "Z:\\C#\\2024_06_04\\Solidi\\Solidi\\Materiale.cs",
+              "RelativeToolTip": "Solidi\\Materiale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T15:04:51.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sfera.cs",
+              "DocumentMoniker": "Z:\\C#\\2024_06_04\\Solidi\\Solidi\\Sfera.cs",
+              "RelativeDocumentMoniker": "Solidi\\Sfera.cs",
+              "ToolTip": "Z:\\C#\\2024_06_04\\Solidi\\Solidi\\Sfera.cs",
+              "RelativeToolTip": "Solidi\\Sfera.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T14:45:37.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cubo.cs",
+              "DocumentMoniker": "Z:\\C#\\2024_06_04\\Solidi\\Solidi\\Cubo.cs",
+              "RelativeDocumentMoniker": "Solidi\\Cubo.cs",
+              "ToolTip": "Z:\\C#\\2024_06_04\\Solidi\\Solidi\\Cubo.cs",
+              "RelativeToolTip": "Solidi\\Cubo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T14:38:42.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Solido.cs",
+              "DocumentMoniker": "Z:\\C#\\2024_06_04\\Solidi\\Solidi\\Solido.cs",
+              "RelativeDocumentMoniker": "Solidi\\Solido.cs",
+              "ToolTip": "Z:\\C#\\2024_06_04\\Solidi\\Solidi\\Solido.cs",
+              "RelativeToolTip": "Solidi\\Solido.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwB4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T14:31:05.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\C#\\2024_06_04\\Solidi\\Solidi\\Program.cs",
+              "RelativeDocumentMoniker": "Solidi\\Program.cs",
+              "ToolTip": "Z:\\C#\\2024_06_04\\Solidi\\Solidi\\Program.cs",
+              "RelativeToolTip": "Solidi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T14:30:23.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -12,6 +12,23 @@ namespace FigureGeometriche
         public double Lato2 { get; set; }
         public double Lato3 { get; set; }
 
+        public Triangolo()
+        {
+        }
+
+        public Triangolo(double lato1, double lato2, double lato3)
+        {
+            Lato1 = lato1;
+            Lato2 = lato2;
+            Lato3 = lato3;
+        }
+
+        public Triangolo(Punto punto1, Punto punto2, Punto punto3)
+        {
+            Lato1 = punto1.Distanza(punto2);
+            Lato2 = punto2.Distanza(punto3);
+            Lato3 = punto3.Distanza(punto1);
+        }
 
         public double Perimetro() { return Lato1 + Lato2 + Lato3; }
         public double Area() { //formula di erone
