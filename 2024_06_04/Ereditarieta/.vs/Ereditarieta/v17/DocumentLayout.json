@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{BC390A21-D845-47B3-97EA-CF6E6177F96A}|Quadrilateri\\Quadrilateri.csproj|solutionrelative:quadrilateri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC390A21-D845-47B3-97EA-CF6E6177F96A}|Quadrilateri\\Quadrilateri.csproj|z:\\c#\\2024_06_04\\ereditarieta\\quadrilateri\\quadrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC390A21-D845-47B3-97EA-CF6E6177F96A}|Quadrilateri\\Quadrilateri.csproj|solutionrelative:quadrilateri\\quadrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC390A21-D845-47B3-97EA-CF6E6177F96A}|Quadrilateri\\Quadrilateri.csproj|z:\\c#\\2024_06_04\\ereditarieta\\quadrilateri\\quadrilatero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC390A21-D845-47B3-97EA-CF6E6177F96A}|Quadrilateri\\Quadrilateri.csproj|solutionrelative:quadrilateri\\quadrilatero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC390A21-D845-47B3-97EA-CF6E6177F96A}|Quadrilateri\\Quadrilateri.csproj|z:\\c#\\2024_06_04\\ereditarieta\\quadrilateri\\rettangolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC390A21-D845-47B3-97EA-CF6E6177F96A}|Quadrilateri\\Quadrilateri.csproj|solutionrelative:quadrilateri\\rettangolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC390A21-D845-47B3-97EA-CF6E6177F96A}|Quadrilateri\\Quadrilateri.csproj|z:\\c#\\2024_06_04\\ereditarieta\\quadrilateri\\quadrilatero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC390A21-D845-47B3-97EA-CF6E6177F96A}|Quadrilateri\\Quadrilateri.csproj|solutionrelative:quadrilateri\\quadrilatero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC390A21-D845-47B3-97EA-CF6E6177F96A}|Quadrilateri\\Quadrilateri.csproj|z:\\c#\\2024_06_04\\ereditarieta\\quadrilateri\\quadrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC390A21-D845-47B3-97EA-CF6E6177F96A}|Quadrilateri\\Quadrilateri.csproj|solutionrelative:quadrilateri\\quadrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Quadrato.cs",
               "DocumentMoniker": "Z:\\C#\\2024_06_04\\Ereditarieta\\Quadrilateri\\Quadrato.cs",
               "RelativeDocumentMoniker": "Quadrilateri\\Quadrato.cs",
@@ -56,13 +56,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Quadrilatero.cs",
               "DocumentMoniker": "Z:\\C#\\2024_06_04\\Ereditarieta\\Quadrilateri\\Quadrilatero.cs",
               "RelativeDocumentMoniker": "Quadrilateri\\Quadrilatero.cs",
               "ToolTip": "Z:\\C#\\2024_06_04\\Ereditarieta\\Quadrilateri\\Quadrilatero.cs",
               "RelativeToolTip": "Quadrilateri\\Quadrilatero.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAA0wCMAAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T13:02:06.441Z",
               "EditorCaption": ""

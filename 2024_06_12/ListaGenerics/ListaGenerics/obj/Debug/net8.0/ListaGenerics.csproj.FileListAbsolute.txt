@@ -1,0 +1,15 @@
+Z:\C#\2024_06_12\ListaGenerics\ListaGenerics\bin\Debug\net8.0\ListaGenerics.exe
+Z:\C#\2024_06_12\ListaGenerics\ListaGenerics\bin\Debug\net8.0\ListaGenerics.deps.json
+Z:\C#\2024_06_12\ListaGenerics\ListaGenerics\bin\Debug\net8.0\ListaGenerics.runtimeconfig.json
+Z:\C#\2024_06_12\ListaGenerics\ListaGenerics\bin\Debug\net8.0\ListaGenerics.dll
+Z:\C#\2024_06_12\ListaGenerics\ListaGenerics\bin\Debug\net8.0\ListaGenerics.pdb
+Z:\C#\2024_06_12\ListaGenerics\ListaGenerics\obj\Debug\net8.0\ListaGenerics.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\2024_06_12\ListaGenerics\ListaGenerics\obj\Debug\net8.0\ListaGenerics.AssemblyInfoInputs.cache
+Z:\C#\2024_06_12\ListaGenerics\ListaGenerics\obj\Debug\net8.0\ListaGenerics.AssemblyInfo.cs
+Z:\C#\2024_06_12\ListaGenerics\ListaGenerics\obj\Debug\net8.0\ListaGenerics.csproj.CoreCompileInputs.cache
+Z:\C#\2024_06_12\ListaGenerics\ListaGenerics\obj\Debug\net8.0\ListaGenerics.sourcelink.json
+Z:\C#\2024_06_12\ListaGenerics\ListaGenerics\obj\Debug\net8.0\ListaGenerics.dll
+Z:\C#\2024_06_12\ListaGenerics\ListaGenerics\obj\Debug\net8.0\refint\ListaGenerics.dll
+Z:\C#\2024_06_12\ListaGenerics\ListaGenerics\obj\Debug\net8.0\ListaGenerics.pdb
+Z:\C#\2024_06_12\ListaGenerics\ListaGenerics\obj\Debug\net8.0\ListaGenerics.genruntimeconfig.cache
+Z:\C#\2024_06_12\ListaGenerics\ListaGenerics\obj\Debug\net8.0\ref\ListaGenerics.dll

@@ -1,0 +1,15 @@
+Z:\C#\2024_06_11\Lista\Lista\bin\Debug\net8.0\Lista.exe
+Z:\C#\2024_06_11\Lista\Lista\bin\Debug\net8.0\Lista.deps.json
+Z:\C#\2024_06_11\Lista\Lista\bin\Debug\net8.0\Lista.runtimeconfig.json
+Z:\C#\2024_06_11\Lista\Lista\bin\Debug\net8.0\Lista.dll
+Z:\C#\2024_06_11\Lista\Lista\bin\Debug\net8.0\Lista.pdb
+Z:\C#\2024_06_11\Lista\Lista\obj\Debug\net8.0\Lista.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\2024_06_11\Lista\Lista\obj\Debug\net8.0\Lista.AssemblyInfoInputs.cache
+Z:\C#\2024_06_11\Lista\Lista\obj\Debug\net8.0\Lista.AssemblyInfo.cs
+Z:\C#\2024_06_11\Lista\Lista\obj\Debug\net8.0\Lista.csproj.CoreCompileInputs.cache
+Z:\C#\2024_06_11\Lista\Lista\obj\Debug\net8.0\Lista.sourcelink.json
+Z:\C#\2024_06_11\Lista\Lista\obj\Debug\net8.0\Lista.dll
+Z:\C#\2024_06_11\Lista\Lista\obj\Debug\net8.0\refint\Lista.dll
+Z:\C#\2024_06_11\Lista\Lista\obj\Debug\net8.0\Lista.pdb
+Z:\C#\2024_06_11\Lista\Lista\obj\Debug\net8.0\Lista.genruntimeconfig.cache
+Z:\C#\2024_06_11\Lista\Lista\obj\Debug\net8.0\ref\Lista.dll

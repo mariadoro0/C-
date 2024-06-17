@@ -1,0 +1,15 @@
+Z:\C#\2024_06_11\Azienda\Azienda\bin\Debug\net8.0\Azienda.exe
+Z:\C#\2024_06_11\Azienda\Azienda\bin\Debug\net8.0\Azienda.deps.json
+Z:\C#\2024_06_11\Azienda\Azienda\bin\Debug\net8.0\Azienda.runtimeconfig.json
+Z:\C#\2024_06_11\Azienda\Azienda\bin\Debug\net8.0\Azienda.dll
+Z:\C#\2024_06_11\Azienda\Azienda\bin\Debug\net8.0\Azienda.pdb
+Z:\C#\2024_06_11\Azienda\Azienda\obj\Debug\net8.0\Azienda.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\2024_06_11\Azienda\Azienda\obj\Debug\net8.0\Azienda.AssemblyInfoInputs.cache
+Z:\C#\2024_06_11\Azienda\Azienda\obj\Debug\net8.0\Azienda.AssemblyInfo.cs
+Z:\C#\2024_06_11\Azienda\Azienda\obj\Debug\net8.0\Azienda.csproj.CoreCompileInputs.cache
+Z:\C#\2024_06_11\Azienda\Azienda\obj\Debug\net8.0\Azienda.sourcelink.json
+Z:\C#\2024_06_11\Azienda\Azienda\obj\Debug\net8.0\Azienda.dll
+Z:\C#\2024_06_11\Azienda\Azienda\obj\Debug\net8.0\refint\Azienda.dll
+Z:\C#\2024_06_11\Azienda\Azienda\obj\Debug\net8.0\Azienda.pdb
+Z:\C#\2024_06_11\Azienda\Azienda\obj\Debug\net8.0\Azienda.genruntimeconfig.cache
+Z:\C#\2024_06_11\Azienda\Azienda\obj\Debug\net8.0\ref\Azienda.dll

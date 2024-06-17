@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Solidi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+637db748404ceec01ab32283ee83b3aa8aa8288c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d8a7e0a75a61311fc680dd3f793de27bd53606d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Solidi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Solidi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+Z:\C#\2024_06_12\Atleti\Atleti\bin\Debug\net8.0\Atleti.exe
+Z:\C#\2024_06_12\Atleti\Atleti\bin\Debug\net8.0\Atleti.deps.json
+Z:\C#\2024_06_12\Atleti\Atleti\bin\Debug\net8.0\Atleti.runtimeconfig.json
+Z:\C#\2024_06_12\Atleti\Atleti\bin\Debug\net8.0\Atleti.dll
+Z:\C#\2024_06_12\Atleti\Atleti\bin\Debug\net8.0\Atleti.pdb
+Z:\C#\2024_06_12\Atleti\Atleti\obj\Debug\net8.0\Atleti.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\2024_06_12\Atleti\Atleti\obj\Debug\net8.0\Atleti.AssemblyInfoInputs.cache
+Z:\C#\2024_06_12\Atleti\Atleti\obj\Debug\net8.0\Atleti.AssemblyInfo.cs
+Z:\C#\2024_06_12\Atleti\Atleti\obj\Debug\net8.0\Atleti.csproj.CoreCompileInputs.cache
+Z:\C#\2024_06_12\Atleti\Atleti\obj\Debug\net8.0\Atleti.sourcelink.json
+Z:\C#\2024_06_12\Atleti\Atleti\obj\Debug\net8.0\Atleti.dll
+Z:\C#\2024_06_12\Atleti\Atleti\obj\Debug\net8.0\refint\Atleti.dll
+Z:\C#\2024_06_12\Atleti\Atleti\obj\Debug\net8.0\Atleti.pdb
+Z:\C#\2024_06_12\Atleti\Atleti\obj\Debug\net8.0\Atleti.genruntimeconfig.cache
+Z:\C#\2024_06_12\Atleti\Atleti\obj\Debug\net8.0\ref\Atleti.dll

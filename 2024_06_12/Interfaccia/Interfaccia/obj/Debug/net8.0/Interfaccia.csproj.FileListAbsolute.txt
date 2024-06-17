@@ -1,0 +1,15 @@
+Z:\C#\2024_06_12\Interfaccia\Interfaccia\bin\Debug\net8.0\Interfaccia.exe
+Z:\C#\2024_06_12\Interfaccia\Interfaccia\bin\Debug\net8.0\Interfaccia.deps.json
+Z:\C#\2024_06_12\Interfaccia\Interfaccia\bin\Debug\net8.0\Interfaccia.runtimeconfig.json
+Z:\C#\2024_06_12\Interfaccia\Interfaccia\bin\Debug\net8.0\Interfaccia.dll
+Z:\C#\2024_06_12\Interfaccia\Interfaccia\bin\Debug\net8.0\Interfaccia.pdb
+Z:\C#\2024_06_12\Interfaccia\Interfaccia\obj\Debug\net8.0\Interfaccia.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\2024_06_12\Interfaccia\Interfaccia\obj\Debug\net8.0\Interfaccia.AssemblyInfoInputs.cache
+Z:\C#\2024_06_12\Interfaccia\Interfaccia\obj\Debug\net8.0\Interfaccia.AssemblyInfo.cs
+Z:\C#\2024_06_12\Interfaccia\Interfaccia\obj\Debug\net8.0\Interfaccia.csproj.CoreCompileInputs.cache
+Z:\C#\2024_06_12\Interfaccia\Interfaccia\obj\Debug\net8.0\Interfaccia.sourcelink.json
+Z:\C#\2024_06_12\Interfaccia\Interfaccia\obj\Debug\net8.0\Interfaccia.dll
+Z:\C#\2024_06_12\Interfaccia\Interfaccia\obj\Debug\net8.0\refint\Interfaccia.dll
+Z:\C#\2024_06_12\Interfaccia\Interfaccia\obj\Debug\net8.0\Interfaccia.pdb
+Z:\C#\2024_06_12\Interfaccia\Interfaccia\obj\Debug\net8.0\Interfaccia.genruntimeconfig.cache
+Z:\C#\2024_06_12\Interfaccia\Interfaccia\obj\Debug\net8.0\ref\Interfaccia.dll

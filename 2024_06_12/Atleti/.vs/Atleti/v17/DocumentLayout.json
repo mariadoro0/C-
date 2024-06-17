@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\C#\\2024_06_12\\Atleti\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A73AD4E8-5FF1-43BE-BAFE-04F0A352322A}|Atleti\\Atleti.csproj|z:\\c#\\2024_06_12\\atleti\\atleti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A73AD4E8-5FF1-43BE-BAFE-04F0A352322A}|Atleti\\Atleti.csproj|solutionrelative:atleti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A73AD4E8-5FF1-43BE-BAFE-04F0A352322A}|Atleti\\Atleti.csproj|z:\\c#\\2024_06_12\\atleti\\atleti\\atleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A73AD4E8-5FF1-43BE-BAFE-04F0A352322A}|Atleti\\Atleti.csproj|solutionrelative:atleti\\atleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A73AD4E8-5FF1-43BE-BAFE-04F0A352322A}|Atleti\\Atleti.csproj|z:\\c#\\2024_06_12\\atleti\\atleti\\calciatore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A73AD4E8-5FF1-43BE-BAFE-04F0A352322A}|Atleti\\Atleti.csproj|solutionrelative:atleti\\calciatore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A73AD4E8-5FF1-43BE-BAFE-04F0A352322A}|Atleti\\Atleti.csproj|z:\\c#\\2024_06_12\\atleti\\atleti\\iatleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A73AD4E8-5FF1-43BE-BAFE-04F0A352322A}|Atleti\\Atleti.csproj|solutionrelative:atleti\\iatleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calciatore.cs",
+              "DocumentMoniker": "Z:\\C#\\2024_06_12\\Atleti\\Atleti\\Calciatore.cs",
+              "RelativeDocumentMoniker": "Atleti\\Calciatore.cs",
+              "ToolTip": "Z:\\C#\\2024_06_12\\Atleti\\Atleti\\Calciatore.cs",
+              "RelativeToolTip": "Atleti\\Calciatore.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:09:12.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAtleta.cs",
+              "DocumentMoniker": "Z:\\C#\\2024_06_12\\Atleti\\Atleti\\IAtleta.cs",
+              "RelativeDocumentMoniker": "Atleti\\IAtleta.cs",
+              "ToolTip": "Z:\\C#\\2024_06_12\\Atleti\\Atleti\\IAtleta.cs",
+              "RelativeToolTip": "Atleti\\IAtleta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:03:46.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Atleta.cs",
+              "DocumentMoniker": "Z:\\C#\\2024_06_12\\Atleti\\Atleti\\Atleta.cs",
+              "RelativeDocumentMoniker": "Atleti\\Atleta.cs",
+              "ToolTip": "Z:\\C#\\2024_06_12\\Atleti\\Atleti\\Atleta.cs",
+              "RelativeToolTip": "Atleti\\Atleta.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwBkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:58:41.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\C#\\2024_06_12\\Atleti\\Atleti\\Program.cs",
+              "RelativeDocumentMoniker": "Atleti\\Program.cs",
+              "ToolTip": "Z:\\C#\\2024_06_12\\Atleti\\Atleti\\Program.cs",
+              "RelativeToolTip": "Atleti\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwB8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:57:30.246Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

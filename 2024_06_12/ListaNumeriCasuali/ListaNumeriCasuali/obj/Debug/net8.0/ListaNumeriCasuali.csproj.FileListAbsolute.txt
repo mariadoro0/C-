@@ -1,0 +1,15 @@
+Z:\C#\2024_06_12\ListaNumeriCasuali\ListaNumeriCasuali\bin\Debug\net8.0\ListaNumeriCasuali.exe
+Z:\C#\2024_06_12\ListaNumeriCasuali\ListaNumeriCasuali\bin\Debug\net8.0\ListaNumeriCasuali.deps.json
+Z:\C#\2024_06_12\ListaNumeriCasuali\ListaNumeriCasuali\bin\Debug\net8.0\ListaNumeriCasuali.runtimeconfig.json
+Z:\C#\2024_06_12\ListaNumeriCasuali\ListaNumeriCasuali\bin\Debug\net8.0\ListaNumeriCasuali.dll
+Z:\C#\2024_06_12\ListaNumeriCasuali\ListaNumeriCasuali\bin\Debug\net8.0\ListaNumeriCasuali.pdb
+Z:\C#\2024_06_12\ListaNumeriCasuali\ListaNumeriCasuali\obj\Debug\net8.0\ListaNumeriCasuali.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\2024_06_12\ListaNumeriCasuali\ListaNumeriCasuali\obj\Debug\net8.0\ListaNumeriCasuali.AssemblyInfoInputs.cache
+Z:\C#\2024_06_12\ListaNumeriCasuali\ListaNumeriCasuali\obj\Debug\net8.0\ListaNumeriCasuali.AssemblyInfo.cs
+Z:\C#\2024_06_12\ListaNumeriCasuali\ListaNumeriCasuali\obj\Debug\net8.0\ListaNumeriCasuali.csproj.CoreCompileInputs.cache
+Z:\C#\2024_06_12\ListaNumeriCasuali\ListaNumeriCasuali\obj\Debug\net8.0\ListaNumeriCasuali.sourcelink.json
+Z:\C#\2024_06_12\ListaNumeriCasuali\ListaNumeriCasuali\obj\Debug\net8.0\ListaNumeriCasuali.dll
+Z:\C#\2024_06_12\ListaNumeriCasuali\ListaNumeriCasuali\obj\Debug\net8.0\refint\ListaNumeriCasuali.dll
+Z:\C#\2024_06_12\ListaNumeriCasuali\ListaNumeriCasuali\obj\Debug\net8.0\ListaNumeriCasuali.pdb
+Z:\C#\2024_06_12\ListaNumeriCasuali\ListaNumeriCasuali\obj\Debug\net8.0\ListaNumeriCasuali.genruntimeconfig.cache
+Z:\C#\2024_06_12\ListaNumeriCasuali\ListaNumeriCasuali\obj\Debug\net8.0\ref\ListaNumeriCasuali.dll
