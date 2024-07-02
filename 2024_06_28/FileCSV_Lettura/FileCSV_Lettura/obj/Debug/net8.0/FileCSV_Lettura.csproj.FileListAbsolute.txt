@@ -1,0 +1,15 @@
+Z:\C#\2024_06_28\FileCSV_Lettura\FileCSV_Lettura\bin\Debug\net8.0\FileCSV_Lettura.exe
+Z:\C#\2024_06_28\FileCSV_Lettura\FileCSV_Lettura\bin\Debug\net8.0\FileCSV_Lettura.deps.json
+Z:\C#\2024_06_28\FileCSV_Lettura\FileCSV_Lettura\bin\Debug\net8.0\FileCSV_Lettura.runtimeconfig.json
+Z:\C#\2024_06_28\FileCSV_Lettura\FileCSV_Lettura\bin\Debug\net8.0\FileCSV_Lettura.dll
+Z:\C#\2024_06_28\FileCSV_Lettura\FileCSV_Lettura\bin\Debug\net8.0\FileCSV_Lettura.pdb
+Z:\C#\2024_06_28\FileCSV_Lettura\FileCSV_Lettura\obj\Debug\net8.0\FileCSV_Lettura.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\2024_06_28\FileCSV_Lettura\FileCSV_Lettura\obj\Debug\net8.0\FileCSV_Lettura.AssemblyInfoInputs.cache
+Z:\C#\2024_06_28\FileCSV_Lettura\FileCSV_Lettura\obj\Debug\net8.0\FileCSV_Lettura.AssemblyInfo.cs
+Z:\C#\2024_06_28\FileCSV_Lettura\FileCSV_Lettura\obj\Debug\net8.0\FileCSV_Lettura.csproj.CoreCompileInputs.cache
+Z:\C#\2024_06_28\FileCSV_Lettura\FileCSV_Lettura\obj\Debug\net8.0\FileCSV_Lettura.sourcelink.json
+Z:\C#\2024_06_28\FileCSV_Lettura\FileCSV_Lettura\obj\Debug\net8.0\FileCSV_Lettura.dll
+Z:\C#\2024_06_28\FileCSV_Lettura\FileCSV_Lettura\obj\Debug\net8.0\refint\FileCSV_Lettura.dll
+Z:\C#\2024_06_28\FileCSV_Lettura\FileCSV_Lettura\obj\Debug\net8.0\FileCSV_Lettura.pdb
+Z:\C#\2024_06_28\FileCSV_Lettura\FileCSV_Lettura\obj\Debug\net8.0\FileCSV_Lettura.genruntimeconfig.cache
+Z:\C#\2024_06_28\FileCSV_Lettura\FileCSV_Lettura\obj\Debug\net8.0\ref\FileCSV_Lettura.dll

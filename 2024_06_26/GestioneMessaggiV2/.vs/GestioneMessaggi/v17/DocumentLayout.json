@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\C#\\2024_06_26\\GestioneMessaggiV2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAD61BA-EFAA-4435-A194-3E45D26866B1}|GestioneMessaggi\\GestioneMessaggi.csproj|z:\\c#\\2024_06_26\\gestionemessaggiv2\\gestionemessaggi\\messaggio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAD61BA-EFAA-4435-A194-3E45D26866B1}|GestioneMessaggi\\GestioneMessaggi.csproj|solutionrelative:gestionemessaggi\\messaggio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAD61BA-EFAA-4435-A194-3E45D26866B1}|GestioneMessaggi\\GestioneMessaggi.csproj|z:\\c#\\2024_06_26\\gestionemessaggiv2\\gestionemessaggi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAD61BA-EFAA-4435-A194-3E45D26866B1}|GestioneMessaggi\\GestioneMessaggi.csproj|solutionrelative:gestionemessaggi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAD61BA-EFAA-4435-A194-3E45D26866B1}|GestioneMessaggi\\GestioneMessaggi.csproj|z:\\c#\\2024_06_26\\gestionemessaggiv2\\gestionemessaggi\\messaggibiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAD61BA-EFAA-4435-A194-3E45D26866B1}|GestioneMessaggi\\GestioneMessaggi.csproj|solutionrelative:gestionemessaggi\\messaggibiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAD61BA-EFAA-4435-A194-3E45D26866B1}|GestioneMessaggi\\GestioneMessaggi.csproj|z:\\c#\\2024_06_26\\gestionemessaggiv2\\gestionemessaggi\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAD61BA-EFAA-4435-A194-3E45D26866B1}|GestioneMessaggi\\GestioneMessaggi.csproj|solutionrelative:gestionemessaggi\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAD61BA-EFAA-4435-A194-3E45D26866B1}|GestioneMessaggi\\GestioneMessaggi.csproj|z:\\c#\\2024_06_26\\gestionemessaggiv2\\gestionemessaggi\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAD61BA-EFAA-4435-A194-3E45D26866B1}|GestioneMessaggi\\GestioneMessaggi.csproj|solutionrelative:gestionemessaggi\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Utente.cs",
+              "DocumentMoniker": "Z:\\C#\\2024_06_26\\GestioneMessaggiV2\\GestioneMessaggi\\Utente.cs",
+              "RelativeDocumentMoniker": "GestioneMessaggi\\Utente.cs",
+              "ToolTip": "Z:\\C#\\2024_06_26\\GestioneMessaggiV2\\GestioneMessaggi\\Utente.cs",
+              "RelativeToolTip": "GestioneMessaggi\\Utente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T12:49:48.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessaggiBiz.cs",
+              "DocumentMoniker": "Z:\\C#\\2024_06_26\\GestioneMessaggiV2\\GestioneMessaggi\\MessaggiBiz.cs",
+              "RelativeDocumentMoniker": "GestioneMessaggi\\MessaggiBiz.cs",
+              "ToolTip": "Z:\\C#\\2024_06_26\\GestioneMessaggiV2\\GestioneMessaggi\\MessaggiBiz.cs",
+              "RelativeToolTip": "GestioneMessaggi\\MessaggiBiz.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T14:34:41.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PRIORITY.cs",
+              "DocumentMoniker": "Z:\\C#\\2024_06_26\\GestioneMessaggiV2\\GestioneMessaggi\\PRIORITY.cs",
+              "RelativeDocumentMoniker": "GestioneMessaggi\\PRIORITY.cs",
+              "ToolTip": "Z:\\C#\\2024_06_26\\GestioneMessaggiV2\\GestioneMessaggi\\PRIORITY.cs",
+              "RelativeToolTip": "GestioneMessaggi\\PRIORITY.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T14:32:24.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Messaggio.cs",
+              "DocumentMoniker": "Z:\\C#\\2024_06_26\\GestioneMessaggiV2\\GestioneMessaggi\\Messaggio.cs",
+              "RelativeDocumentMoniker": "GestioneMessaggi\\Messaggio.cs",
+              "ToolTip": "Z:\\C#\\2024_06_26\\GestioneMessaggiV2\\GestioneMessaggi\\Messaggio.cs",
+              "RelativeToolTip": "GestioneMessaggi\\Messaggio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T14:30:31.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\C#\\2024_06_26\\GestioneMessaggiV2\\GestioneMessaggi\\Program.cs",
+              "RelativeDocumentMoniker": "GestioneMessaggi\\Program.cs",
+              "ToolTip": "Z:\\C#\\2024_06_26\\GestioneMessaggiV2\\GestioneMessaggi\\Program.cs",
+              "RelativeToolTip": "GestioneMessaggi\\Program.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAowGMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T14:23:20.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

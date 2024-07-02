@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\C#\\2024_06_28\\FileCSV_Scrittura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B4FDCA-A2B9-48A0-BD73-B787137495BB}|FileCSV_Scrittura\\FileCSV_Scrittura.csproj|z:\\c#\\2024_06_28\\filecsv_scrittura\\filecsv_scrittura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B4FDCA-A2B9-48A0-BD73-B787137495BB}|FileCSV_Scrittura\\FileCSV_Scrittura.csproj|solutionrelative:filecsv_scrittura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B4FDCA-A2B9-48A0-BD73-B787137495BB}|FileCSV_Scrittura\\FileCSV_Scrittura.csproj|z:\\c#\\2024_06_28\\filecsv_scrittura\\filecsv_scrittura\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B4FDCA-A2B9-48A0-BD73-B787137495BB}|FileCSV_Scrittura\\FileCSV_Scrittura.csproj|solutionrelative:filecsv_scrittura\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B4FDCA-A2B9-48A0-BD73-B787137495BB}|FileCSV_Scrittura\\FileCSV_Scrittura.csproj|z:\\c#\\2024_06_28\\filecsv_scrittura\\filecsv_scrittura\\file\\persona.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D4B4FDCA-A2B9-48A0-BD73-B787137495BB}|FileCSV_Scrittura\\FileCSV_Scrittura.csproj|solutionrelative:filecsv_scrittura\\file\\persona.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B4FDCA-A2B9-48A0-BD73-B787137495BB}|FileCSV_Scrittura\\FileCSV_Scrittura.csproj|z:\\c#\\2024_06_28\\filecsv_scrittura\\filecsv_scrittura\\sesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B4FDCA-A2B9-48A0-BD73-B787137495BB}|FileCSV_Scrittura\\FileCSV_Scrittura.csproj|solutionrelative:filecsv_scrittura\\sesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.csv",
+              "DocumentMoniker": "Z:\\C#\\2024_06_28\\FileCSV_Scrittura\\FileCSV_Scrittura\\file\\Persona.csv",
+              "RelativeDocumentMoniker": "FileCSV_Scrittura\\file\\Persona.csv",
+              "ToolTip": "Z:\\C#\\2024_06_28\\FileCSV_Scrittura\\FileCSV_Scrittura\\file\\Persona.csv",
+              "RelativeToolTip": "FileCSV_Scrittura\\file\\Persona.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-06-28T15:19:08.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SESSO.cs",
+              "DocumentMoniker": "Z:\\C#\\2024_06_28\\FileCSV_Scrittura\\FileCSV_Scrittura\\SESSO.cs",
+              "RelativeDocumentMoniker": "FileCSV_Scrittura\\SESSO.cs",
+              "ToolTip": "Z:\\C#\\2024_06_28\\FileCSV_Scrittura\\FileCSV_Scrittura\\SESSO.cs",
+              "RelativeToolTip": "FileCSV_Scrittura\\SESSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T14:55:47.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "Z:\\C#\\2024_06_28\\FileCSV_Scrittura\\FileCSV_Scrittura\\Persona.cs",
+              "RelativeDocumentMoniker": "FileCSV_Scrittura\\Persona.cs",
+              "ToolTip": "Z:\\C#\\2024_06_28\\FileCSV_Scrittura\\FileCSV_Scrittura\\Persona.cs",
+              "RelativeToolTip": "FileCSV_Scrittura\\Persona.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwB8AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T14:53:40.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\C#\\2024_06_28\\FileCSV_Scrittura\\FileCSV_Scrittura\\Program.cs",
+              "RelativeDocumentMoniker": "FileCSV_Scrittura\\Program.cs",
+              "ToolTip": "Z:\\C#\\2024_06_28\\FileCSV_Scrittura\\FileCSV_Scrittura\\Program.cs",
+              "RelativeToolTip": "FileCSV_Scrittura\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwB4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T14:52:07.983Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

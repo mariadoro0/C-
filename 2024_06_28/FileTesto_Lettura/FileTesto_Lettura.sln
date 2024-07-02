@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileTesto_Lettura", "FileTesto_Lettura\FileTesto_Lettura.csproj", "{2A8B5509-9133-4292-A89F-28697AF73D0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A8B5509-9133-4292-A89F-28697AF73D0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A8B5509-9133-4292-A89F-28697AF73D0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A8B5509-9133-4292-A89F-28697AF73D0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A8B5509-9133-4292-A89F-28697AF73D0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C08117B-89AE-4210-B25F-2B7075BC74FD}
+	EndGlobalSection
+EndGlobal

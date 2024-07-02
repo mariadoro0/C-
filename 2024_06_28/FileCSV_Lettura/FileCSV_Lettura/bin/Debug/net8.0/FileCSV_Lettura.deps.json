@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FileCSV_Lettura/1.0.0": {
+        "runtime": {
+          "FileCSV_Lettura.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FileCSV_Lettura/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
