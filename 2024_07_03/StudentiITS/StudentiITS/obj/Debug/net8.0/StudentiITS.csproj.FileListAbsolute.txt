@@ -1,0 +1,15 @@
+Z:\C#\2024_07_03\StudentiITS\StudentiITS\obj\Debug\net8.0\StudentiITS.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\2024_07_03\StudentiITS\StudentiITS\obj\Debug\net8.0\StudentiITS.AssemblyInfoInputs.cache
+Z:\C#\2024_07_03\StudentiITS\StudentiITS\obj\Debug\net8.0\StudentiITS.AssemblyInfo.cs
+Z:\C#\2024_07_03\StudentiITS\StudentiITS\obj\Debug\net8.0\StudentiITS.csproj.CoreCompileInputs.cache
+Z:\C#\2024_07_03\StudentiITS\StudentiITS\obj\Debug\net8.0\StudentiITS.sourcelink.json
+Z:\C#\2024_07_03\StudentiITS\StudentiITS\bin\Debug\net8.0\StudentiITS.exe
+Z:\C#\2024_07_03\StudentiITS\StudentiITS\bin\Debug\net8.0\StudentiITS.deps.json
+Z:\C#\2024_07_03\StudentiITS\StudentiITS\bin\Debug\net8.0\StudentiITS.runtimeconfig.json
+Z:\C#\2024_07_03\StudentiITS\StudentiITS\bin\Debug\net8.0\StudentiITS.dll
+Z:\C#\2024_07_03\StudentiITS\StudentiITS\bin\Debug\net8.0\StudentiITS.pdb
+Z:\C#\2024_07_03\StudentiITS\StudentiITS\obj\Debug\net8.0\StudentiITS.dll
+Z:\C#\2024_07_03\StudentiITS\StudentiITS\obj\Debug\net8.0\refint\StudentiITS.dll
+Z:\C#\2024_07_03\StudentiITS\StudentiITS\obj\Debug\net8.0\StudentiITS.pdb
+Z:\C#\2024_07_03\StudentiITS\StudentiITS\obj\Debug\net8.0\StudentiITS.genruntimeconfig.cache
+Z:\C#\2024_07_03\StudentiITS\StudentiITS\obj\Debug\net8.0\ref\StudentiITS.dll

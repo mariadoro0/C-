@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "Z:\\C#\\2024_06_28\\FileCSV_Lettura\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A69C8434-CC3D-451A-AE3B-70B2EC5C4A13}|FileCSV_Lettura\\FileCSV_Lettura.csproj|z:\\c#\\2024_06_28\\filecsv_lettura\\filecsv_lettura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A69C8434-CC3D-451A-AE3B-70B2EC5C4A13}|FileCSV_Lettura\\FileCSV_Lettura.csproj|solutionrelative:filecsv_lettura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Z:\\C#\\2024_06_28\\FileCSV_Lettura\\FileCSV_Lettura\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileCSV_Lettura\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A69C8434-CC3D-451A-AE3B-70B2EC5C4A13}|FileCSV_Lettura\\FileCSV_Lettura.csproj|z:\\c#\\2024_06_28\\filecsv_lettura\\filecsv_lettura\\sesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A69C8434-CC3D-451A-AE3B-70B2EC5C4A13}|FileCSV_Lettura\\FileCSV_Lettura.csproj|solutionrelative:filecsv_lettura\\sesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Z:\\C#\\2024_06_28\\FileCSV_Lettura\\FileCSV_Lettura\\Persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileCSV_Lettura\\Persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A69C8434-CC3D-451A-AE3B-70B2EC5C4A13}|FileCSV_Lettura\\FileCSV_Lettura.csproj|z:\\c#\\2024_06_28\\filecsv_lettura\\filecsv_lettura\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A69C8434-CC3D-451A-AE3B-70B2EC5C4A13}|FileCSV_Lettura\\FileCSV_Lettura.csproj|solutionrelative:filecsv_lettura\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Z:\\C#\\2024_06_28\\FileCSV_Lettura\\FileCSV_Lettura\\SESSO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileCSV_Lettura\\SESSO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,14 +32,14 @@
               "RelativeDocumentMoniker": "FileCSV_Lettura\\Program.cs",
               "ToolTip": "Z:\\C#\\2024_06_28\\FileCSV_Lettura\\FileCSV_Lettura\\Program.cs",
               "RelativeToolTip": "FileCSV_Lettura\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA4AAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-28T15:26:45.267Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Persona.cs",
               "DocumentMoniker": "Z:\\C#\\2024_06_28\\FileCSV_Lettura\\FileCSV_Lettura\\Persona.cs",
               "RelativeDocumentMoniker": "FileCSV_Lettura\\Persona.cs",
@@ -47,12 +47,11 @@
               "RelativeToolTip": "FileCSV_Lettura\\Persona.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAIwB0AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T15:24:52.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-28T15:24:52.28Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SESSO.cs",
               "DocumentMoniker": "Z:\\C#\\2024_06_28\\FileCSV_Lettura\\FileCSV_Lettura\\SESSO.cs",
               "RelativeDocumentMoniker": "FileCSV_Lettura\\SESSO.cs",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "FileCSV_Lettura\\SESSO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T15:24:40.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-28T15:24:40.719Z"
             }
           ]
         }

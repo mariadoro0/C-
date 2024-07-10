@@ -1,0 +1,1502 @@
+﻿Matricola;Cognome;Nome;DataNascita;LuogoNascita;Via;Cap;Citta;SiglaProvincia;Telefono;Email;TitoloStudio
+10000;Sacchet;Gabriele;01/01/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000000;sacchet.gabriele@studenti.its.net;Diploma
+10001;Schutt;Daniele;02/01/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000001;schutt.daniele@studenti.its.net;Diploma
+10002;Pietrapertosa;Fabio;03/01/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000002;pietrapertosa.fabio@studenti.its.net;Diploma
+10003;Buscema;Antonio;04/01/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000003;buscema.antonio@studenti.its.net;Diploma
+10004;Gregoricchio;Matteo;05/01/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000004;gregoricchio.matteo@studenti.its.net;Diploma
+10005;Laurenti;Diana;06/01/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000005;laurenti.diana@studenti.its.net;Diploma
+10006;Velocci;Giuseppe;07/01/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000006;velocci.giuseppe@studenti.its.net;Diploma
+10007;Reale;Andrea;08/01/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000007;reale.andrea@studenti.its.net;Diploma
+10008;Cella;Marco;09/01/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000008;cella.marco@studenti.its.net;Diploma
+10009;Sartori;Alessandro;10/01/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000009;sartori.alessandro@studenti.its.net;Diploma
+10010;Gomes Macedo;Anielle;11/01/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000010;gomesmacedo.anielle@studenti.its.net;Diploma
+10011;Bert;Lorenzo;12/01/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000011;bert.lorenzo@studenti.its.net;Diploma
+10012;Vellano;Marco;13/01/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000012;vellano.marco@studenti.its.net;Diploma
+10013;Fornaro;Roberto;14/01/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000013;fornaro.roberto@studenti.its.net;Diploma
+10014;Sinatra;Gianpaolo;15/01/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000014;sinatra.gianpaolo@studenti.its.net;Diploma
+10015;Dumitru;Adrian;16/01/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000015;dumitru.adrian@studenti.its.net;Diploma
+10016;Soncin;Erika;17/01/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000016;soncin.erika@studenti.its.net;Diploma
+10017;Iacobelli;Sara;18/01/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000017;iacobelli.sara@studenti.its.net;Diploma
+10018;Presutti;Edoardo;19/01/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000018;presutti.edoardo@studenti.its.net;Diploma
+10019;Linari;Matteo;20/01/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000019;linari.matteo@studenti.its.net;Diploma
+10020;Faoro;Claudio;21/01/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000020;faoro.claudio@studenti.its.net;Diploma
+10021;D'Augelli;Mario Alex;22/01/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000021;daugelli.marioalex@studenti.its.net;Diploma
+10022;Morales Guevara;Yusdel;23/01/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000022;moralesguevara.yusdel@studenti.its.net;Diploma
+10023;Lo Presti;Ilaria;24/01/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000023;lopresti.ilaria@studenti.its.net;Diploma
+10024;Mason;Alessandro;25/01/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000024;mason.alessandro@studenti.its.net;Diploma
+10025;Quasimodo;Daniele;26/01/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000025;quasimodo.daniele@studenti.its.net;Diploma
+10026;Morritti;Sara;27/01/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000026;morritti.sara@studenti.its.net;Diploma
+10027;Squarotti;Matteo;28/01/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000027;squarotti.matteo@studenti.its.net;Diploma
+10028;Chiartano;Pietro;29/01/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000028;chiartano.pietro@studenti.its.net;Diploma
+10029;Oliva;Simone;30/01/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000029;oliva.simone@studenti.its.net;Diploma
+10030;Capulong;Lois Ira Maniulit;31/01/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000030;capulong.loisiramaniulit@studenti.its.net;Diploma
+10031;Carena;Paolo;01/02/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000031;carena.paolo@studenti.its.net;Diploma
+10032;Avondo;Lorenzo;02/02/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000032;avondo.lorenzo@studenti.its.net;Diploma
+10033;Cionchi;Leonardo;03/02/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000033;cionchi.leonardo@studenti.its.net;Diploma
+10034;Cat-Genova;Elisa;04/02/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000034;cat-genova.elisa@studenti.its.net;Diploma
+10035;Maldera;Riccardo;05/02/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000035;maldera.riccardo@studenti.its.net;Diploma
+10036;Quaglia;Giacomo;06/02/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000036;quaglia.giacomo@studenti.its.net;Diploma
+10037;Borio;Marcello;07/02/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000037;borio.marcello@studenti.its.net;Diploma
+10038;Alineri;Alberto;08/02/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000038;alineri.alberto@studenti.its.net;Diploma
+10039;Marziano;Matteo;09/02/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000039;marziano.matteo@studenti.its.net;Diploma
+10040;Nicolotti;Cristian;10/02/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000040;nicolotti.cristian@studenti.its.net;Diploma
+10041;Parisi;Lorenzo Giuseppe;11/02/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000041;parisi.lorenzogiuseppe@studenti.its.net;Diploma
+10042;Samime;Assia;12/02/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000042;samime.assia@studenti.its.net;Diploma
+10043;Aimino;Alex Enrico;13/02/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000043;aimino.alexenrico@studenti.its.net;Diploma
+10044;Saldana Moreno;Stefano Enanias;14/02/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000044;saldanamoreno.stefanoenanias@studenti.its.net;Diploma
+10045;Stella;Simone;15/02/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000045;stella.simone@studenti.its.net;Diploma
+10046;Cirillo;Andrea;16/02/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000046;cirillo.andrea@studenti.its.net;Diploma
+10047;Astolfi;Marco;17/02/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000047;astolfi.marco@studenti.its.net;Diploma
+10048;Giudilli;Matteo;18/02/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000048;giudilli.matteo@studenti.its.net;Diploma
+10049;Crivellari;Marika;19/02/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000049;crivellari.marika@studenti.its.net;Diploma
+10050;Niero;Dario;20/02/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000050;niero.dario@studenti.its.net;Diploma
+10051;Rapelli;Riccardo;21/02/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000051;rapelli.riccardo@studenti.its.net;Diploma
+10052;Jicmon;Paul Sebastian;22/02/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000052;jicmon.paulsebastian@studenti.its.net;Diploma
+10053;Tullio;Alessia;23/02/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000053;tullio.alessia@studenti.its.net;Diploma
+10054;Addesa;Umberto;24/02/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000054;addesa.umberto@studenti.its.net;Diploma
+10055;Cipolletta;Ludovico;25/02/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000055;cipolletta.ludovico@studenti.its.net;Diploma
+10056;Frau;Andrea;26/02/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000056;frau.andrea@studenti.its.net;Diploma
+10057;Mainardi;Luca;27/02/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000057;mainardi.luca@studenti.its.net;Diploma
+10058;Antal;Andrei Iulian;28/02/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000058;antal.andreiiulian@studenti.its.net;Diploma
+10059;Marabiso;Matteo;29/02/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000059;marabiso.matteo@studenti.its.net;Diploma
+10060;Toso;Federico;01/03/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000060;toso.federico@studenti.its.net;Diploma
+10061;Dedekbayeva;Damira;02/03/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000061;dedekbayeva.damira@studenti.its.net;Diploma
+10062;Accossato;Daniele;03/03/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000062;accossato.daniele@studenti.its.net;Diploma
+10063;Sommer;Matteo Sebastian;04/03/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000063;sommer.matteosebastian@studenti.its.net;Diploma
+10064;Caria;Simone;05/03/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000064;caria.simone@studenti.its.net;Diploma
+10065;Leoni;Fabio;06/03/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000065;leoni.fabio@studenti.its.net;Diploma
+10066;Potosi Ccuno;Brian Junior;07/03/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000066;potosiccuno.brianjunior@studenti.its.net;Diploma
+10067;Revelli;Alessandro;08/03/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000067;revelli.alessandro@studenti.its.net;Diploma
+10068;Furio;Antonio Marco;09/03/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000068;furio.antoniomarco@studenti.its.net;Diploma
+10069;Cangialosi;Francesco;10/03/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000069;cangialosi.francesco@studenti.its.net;Diploma
+10070;Bertolino;Alessandro;11/03/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000070;bertolino.alessandro@studenti.its.net;Diploma
+10071;Caglioti;Andrea;12/03/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000071;caglioti.andrea@studenti.its.net;Diploma
+10072;Femia;Rossella;13/03/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000072;femia.rossella@studenti.its.net;Diploma
+10073;Gai;Giorgio;14/03/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000073;gai.giorgio@studenti.its.net;Diploma
+10074;Cafasso;Giovanni;15/03/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000074;cafasso.giovanni@studenti.its.net;Diploma
+10075;Russo;Giada;16/03/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000075;russo.giada@studenti.its.net;Diploma
+10076;Boero;Francesco;17/03/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000076;boero.francesco@studenti.its.net;Diploma
+10077;Palmisano;Alberto;18/03/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000077;palmisano.alberto@studenti.its.net;Diploma
+10078;Olivero;Alessandro;19/03/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000078;olivero.alessandro@studenti.its.net;Diploma
+10079;Tosetto;Matteo;20/03/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000079;tosetto.matteo@studenti.its.net;Diploma
+10080;Benedetto;Luca;21/03/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000080;benedetto.luca@studenti.its.net;Diploma
+10081;Carrieri;Riccardo;22/03/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000081;carrieri.riccardo@studenti.its.net;Diploma
+10082;Drago;Timothy;23/03/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000082;drago.timothy@studenti.its.net;Diploma
+10083;Luttati;Stefano;24/03/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000083;luttati.stefano@studenti.its.net;Diploma
+10084;Marteddu;Mattia;25/03/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000084;marteddu.mattia@studenti.its.net;Diploma
+10085;Peccerella;Mattia;26/03/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000085;peccerella.mattia@studenti.its.net;Diploma
+10086;Cataldo;Francesco;27/03/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000086;cataldo.francesco@studenti.its.net;Diploma
+10087;Vacca;Mattia;28/03/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000087;vacca.mattia@studenti.its.net;Diploma
+10088;Castellano;Alessandro;29/03/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000088;castellano.alessandro@studenti.its.net;Diploma
+10089;Zanotti;Alberto;30/03/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000089;zanotti.alberto@studenti.its.net;Diploma
+10090;Murta;Alessio;31/03/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000090;murta.alessio@studenti.its.net;Diploma
+10091;Fenutza;Virginia;01/04/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000091;fenutza.virginia@studenti.its.net;Diploma
+10092;Biancalana;Alessio;02/04/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000092;biancalana.alessio@studenti.its.net;Diploma
+10093;Di lorenzo;Giulia;03/04/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000093;dilorenzo.giulia@studenti.its.net;Diploma
+10094;Notarrigo;Clelia;04/04/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000094;notarrigo.clelia@studenti.its.net;Diploma
+10095;Santo;Federico;05/04/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000095;santo.federico@studenti.its.net;Diploma
+10096;Massimo;Rebecca;06/04/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000096;massimo.rebecca@studenti.its.net;Diploma
+10097;Ruscigno;Francesca;07/04/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000097;ruscigno.francesca@studenti.its.net;Diploma
+10098;Toffanello;Lorenzo;08/04/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000098;toffanello.lorenzo@studenti.its.net;Diploma
+10099;Bisi;Roberta;09/04/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000099;bisi.roberta@studenti.its.net;Diploma
+10100;Edelman;Yael;10/04/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000100;edelman.yael@studenti.its.net;Diploma
+10101;Libro;Nicole;11/04/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000101;libro.nicole@studenti.its.net;Diploma
+10102;Libro;Sofia;12/04/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000102;libro.sofia@studenti.its.net;Diploma
+10103;Galluzzi;Andrea Nives;13/04/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000103;galluzzi.andreanives@studenti.its.net;Diploma
+10104;Aurigemma;Alessio;14/04/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000104;aurigemma.alessio@studenti.its.net;Diploma
+10105;Celenta;Giulio;15/04/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000105;celenta.giulio@studenti.its.net;Diploma
+10106;D'ascanio;Sophie;16/04/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000106;dascanio.sophie@studenti.its.net;Diploma
+10107;Gulino;Diego;17/04/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000107;gulino.diego@studenti.its.net;Diploma
+10108;Pisciottano;Jacopo;18/04/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000108;pisciottano.jacopo@studenti.its.net;Diploma
+10109;Paladino;Andrea;19/04/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000109;paladino.andrea@studenti.its.net;Diploma
+10110;Ceretto giannone;Greta;20/04/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000110;cerettogiannone.greta@studenti.its.net;Diploma
+10111;Sivolapova;Alisa;21/04/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000111;sivolapova.alisa@studenti.its.net;Diploma
+10112;Binello;Giorgio;22/04/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000112;binello.giorgio@studenti.its.net;Diploma
+10113;Bottoni;Gabriele;23/04/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000113;bottoni.gabriele@studenti.its.net;Diploma
+10114;De stefano;Christian;24/04/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000114;destefano.christian@studenti.its.net;Diploma
+10115;Farruggia;Andrea;25/04/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000115;farruggia.andrea@studenti.its.net;Diploma
+10116;Garcia pereira;Aaron Enrique;26/04/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000116;garciapereira.aaronenrique@studenti.its.net;Diploma
+10117;Milazzo;Beatrice;27/04/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000117;milazzo.beatrice@studenti.its.net;Diploma
+10118;Pereira diaz;Julio Alfonzo;28/04/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000118;pereiradiaz.julioalfonzo@studenti.its.net;Diploma
+10119;Ricauda aimonino;Francesco;29/04/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000119;ricaudaaimonino.francesco@studenti.its.net;Diploma
+10120;Devers;Greta;30/04/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000120;devers.greta@studenti.its.net;Diploma
+10121;Di virgilio;Morena;01/05/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000121;divirgilio.morena@studenti.its.net;Diploma
+10122;Lazzarin;Mattia;02/05/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000122;lazzarin.mattia@studenti.its.net;Diploma
+10123;Loggetta;Emma;03/05/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000123;loggetta.emma@studenti.its.net;Diploma
+10124;Maffei;Alessio;04/05/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000124;maffei.alessio@studenti.its.net;Diploma
+10125;Mosso;Mattia;05/05/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000125;mosso.mattia@studenti.its.net;Diploma
+10126;Pavalean;Stefan;06/05/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000126;pavalean.stefan@studenti.its.net;Diploma
+10127;Pignataro;Chiara;07/05/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000127;pignataro.chiara@studenti.its.net;Diploma
+10128;Ricauda aimonino;Anna;08/05/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000128;ricaudaaimonino.anna@studenti.its.net;Diploma
+10129;Rossi;Benedetta;09/05/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000129;rossi.benedetta@studenti.its.net;Diploma
+10130;Santo;Beatrice;10/05/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000130;santo.beatrice@studenti.its.net;Diploma
+10131;Vasii;Lucas Nicolas;11/05/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000131;vasii.lucasnicolas@studenti.its.net;Diploma
+10132;Zaza;Alysia;12/05/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000132;zaza.alysia@studenti.its.net;Diploma
+10133;Artino;Linda;13/05/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000133;artino.linda@studenti.its.net;Diploma
+10134;Capuzzo;Rebecca;14/05/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000134;capuzzo.rebecca@studenti.its.net;Diploma
+10135;Crisafi;Sofia;15/05/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000135;crisafi.sofia@studenti.its.net;Diploma
+10136;D'amuri;Matteo;16/05/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000136;damuri.matteo@studenti.its.net;Diploma
+10137;Kchimi;Adem;17/05/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000137;kchimi.adem@studenti.its.net;Diploma
+10138;Muzzioli;Viola;18/05/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000138;muzzioli.viola@studenti.its.net;Diploma
+10139;Bevilacqua;Chiara;19/05/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000139;bevilacqua.chiara@studenti.its.net;Diploma
+10140;Curatolo;Sofia Sole;20/05/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000140;curatolo.sofiasole@studenti.its.net;Diploma
+10141;Listello;Federico;21/05/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000141;listello.federico@studenti.its.net;Diploma
+10142;Matera;Elia;22/05/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000142;matera.elia@studenti.its.net;Diploma
+10143;Vogogna;Aurora;23/05/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000143;vogogna.aurora@studenti.its.net;Diploma
+10144;Ciocatto;Giorgia;24/05/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000144;ciocatto.giorgia@studenti.its.net;Diploma
+10145;De cristofaro;Beatrice;25/05/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000145;decristofaro.beatrice@studenti.its.net;Diploma
+10146;Foco;Tommaso;26/05/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000146;foco.tommaso@studenti.its.net;Diploma
+10147;Viarengo;Nicolo;27/05/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000147;viarengo.nicolo@studenti.its.net;Diploma
+10148;Bruno;Edoardo;28/05/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000148;bruno.edoardo@studenti.its.net;Diploma
+10149;Cosa;Denis Dimitrie;29/05/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000149;cosa.denisdimitrie@studenti.its.net;Diploma
+10150;Kuci malygin;Emanuel;30/05/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000150;kucimalygin.emanuel@studenti.its.net;Diploma
+10151;Perri;Pietro;31/05/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000151;perri.pietro@studenti.its.net;Diploma
+10152;Savarino;Alessio;01/06/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000152;savarino.alessio@studenti.its.net;Diploma
+10153;Celenta;Chiara;02/06/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000153;celenta.chiara@studenti.its.net;Diploma
+10154;Giribuola;Martina;03/06/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000154;giribuola.martina@studenti.its.net;Diploma
+10155;Gregna;Leandra;04/06/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000155;gregna.leandra@studenti.its.net;Diploma
+10156;Marchitiello;Beatrice;05/06/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000156;marchitiello.beatrice@studenti.its.net;Diploma
+10157;Pisciottano;Olivia;06/06/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000157;pisciottano.olivia@studenti.its.net;Diploma
+10158;Tancorre;Edoardo;07/06/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000158;tancorre.edoardo@studenti.its.net;Diploma
+10159;Villano;Emma;08/06/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000159;villano.emma@studenti.its.net;Diploma
+10160;Viterbo;Federico;09/06/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000160;viterbo.federico@studenti.its.net;Diploma
+10161;Codispoti;Alessia;10/06/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000161;codispoti.alessia@studenti.its.net;Diploma
+10162;Agazzi;Rachele;11/06/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000162;agazzi.rachele@studenti.its.net;Diploma
+10163;Abbate;Antonina;12/06/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000163;abbate.antonina@studenti.its.net;Diploma
+10164;Agliassa;Alessandro;13/06/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000164;agliassa.alessandro@studenti.its.net;Diploma
+10165;Bolognino;Sole;14/06/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000165;bolognino.sole@studenti.its.net;Diploma
+10166;Alemanno;Enea;15/06/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000166;alemanno.enea@studenti.its.net;Diploma
+10167;Agasso;Maria Ausilia;16/06/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000167;agasso.mariaausilia@studenti.its.net;Diploma
+10168;Aimassi;Valentina;17/06/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000168;aimassi.valentina@studenti.its.net;Diploma
+10169;Albano;Martina;18/06/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000169;albano.martina@studenti.its.net;Diploma
+10170;Amabene;Greta;19/06/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000170;amabene.greta@studenti.its.net;Diploma
+10171;Arattano;Alberto;20/06/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000171;arattano.alberto@studenti.its.net;Diploma
+10172;Ambrosini;Eleonora Vittoria;21/06/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000172;ambrosini.eleonoravittoria@studenti.its.net;Diploma
+10173;Arini;Denise;22/06/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000173;arini.denise@studenti.its.net;Diploma
+10174;Badalamenti;Mario;23/06/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000174;badalamenti.mario@studenti.its.net;Diploma
+10175;Alecce;Leonardo;24/06/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000175;alecce.leonardo@studenti.its.net;Diploma
+10176;Billeci;Giada;25/06/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000176;billeci.giada@studenti.its.net;Diploma
+10177;Allasia;Marina;26/06/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000177;allasia.marina@studenti.its.net;Diploma
+10178;Brunatto;Matilde;27/06/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000178;brunatto.matilde@studenti.its.net;Diploma
+10179;Alloggio;Noemi;28/06/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000179;alloggio.noemi@studenti.its.net;Diploma
+10180;Albrile;Giorgio;29/06/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000180;albrile.giorgio@studenti.its.net;Diploma
+10181;Arattano;Simone;30/06/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000181;arattano.simone@studenti.its.net;Diploma
+10182;Bertolotto;Diawaka;01/07/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000182;bertolotto.diawaka@studenti.its.net;Diploma
+10183;Avena;Ines;02/07/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000183;avena.ines@studenti.its.net;Diploma
+10184;Antoniazzi;Alessio;03/07/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000184;antoniazzi.alessio@studenti.its.net;Diploma
+10185;Barbero;Samuele;04/07/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000185;barbero.samuele@studenti.its.net;Diploma
+10186;Amedeo;Daniela;05/07/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000186;amedeo.daniela@studenti.its.net;Diploma
+10187;Baietto;Rebecca;06/07/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000187;baietto.rebecca@studenti.its.net;Diploma
+10188;Barbarossa;Alessandro Salvatore;07/07/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000188;barbarossa.alessandrosalvatore@studenti.its.net;Diploma
+10189;Amato;Azzurra;08/07/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000189;amato.azzurra@studenti.its.net;Diploma
+10190;Botnariuc;Cristian;09/07/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000190;botnariuc.cristian@studenti.its.net;Diploma
+10191;Astori;Martina;10/07/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000191;astori.martina@studenti.its.net;Diploma
+10192;Baietto;Davide;11/07/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000192;baietto.davide@studenti.its.net;Diploma
+10193;Barbara;Gioele Francesco;12/07/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000193;barbara.gioelefrancesco@studenti.its.net;Diploma
+10194;Bulgarelli;Giacomo;13/07/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000194;bulgarelli.giacomo@studenti.its.net;Diploma
+10195;Botnariuc;Desire;14/07/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000195;botnariuc.desire@studenti.its.net;Diploma
+10196;Artino;Gabriele;15/07/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000196;artino.gabriele@studenti.its.net;Diploma
+10197;Barberis;Mattia Mauro Giuseppe;16/07/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000197;barberis.mattiamaurogiuseppe@studenti.its.net;Diploma
+10198;Amodeo;Elisa;17/07/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000198;amodeo.elisa@studenti.its.net;Diploma
+10199;Bonatti;Viola;18/07/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000199;bonatti.viola@studenti.its.net;Diploma
+10200;Apuzzo;Michele;19/07/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000200;apuzzo.michele@studenti.its.net;Diploma
+10201;Berca;Veronica;20/07/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000201;berca.veronica@studenti.its.net;Diploma
+10202;Borello;Erika;21/07/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000202;borello.erika@studenti.its.net;Diploma
+10203;Bertaglia;Vanessa;22/07/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000203;bertaglia.vanessa@studenti.its.net;Diploma
+10204;Canale;Alessia;23/07/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000204;canale.alessia@studenti.its.net;Diploma
+10205;Ambrosini;Letizia Micol;24/07/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000205;ambrosini.letiziamicol@studenti.its.net;Diploma
+10206;Danila;Arianna Giorgiana;25/07/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000206;danila.ariannagiorgiana@studenti.its.net;Diploma
+10207;Bontiempo;Martina;26/07/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000207;bontiempo.martina@studenti.its.net;Diploma
+10208;Besso;Yari;27/07/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000208;besso.yari@studenti.its.net;Diploma
+10209;Balta;Eliza Florentina;28/07/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000209;balta.elizaflorentina@studenti.its.net;Diploma
+10210;Ariotti;Paola;29/07/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000210;ariotti.paola@studenti.its.net;Diploma
+10211;Manfredi;Alexandro;30/07/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000211;manfredi.alexandro@studenti.its.net;Diploma
+10212;Bindi;Elena;31/07/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000212;bindi.elena@studenti.its.net;Diploma
+10213;Bergamo;Edoardo;01/08/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000213;bergamo.edoardo@studenti.its.net;Diploma
+10214;Brandt;Ruben;02/08/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000214;brandt.ruben@studenti.its.net;Diploma
+10215;Bourguet;Giulio;03/08/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000215;bourguet.giulio@studenti.its.net;Diploma
+10216;Bertaglia;Giulia;04/08/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000216;bertaglia.giulia@studenti.its.net;Diploma
+10217;Colombatto;Giada;05/08/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000217;colombatto.giada@studenti.its.net;Diploma
+10218;Castrale;Anna;06/08/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000218;castrale.anna@studenti.its.net;Diploma
+10219;Gallo;Cecilia Natali;07/08/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000219;gallo.cecilianatali@studenti.its.net;Diploma
+10220;Cario;Sally;08/08/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000220;cario.sally@studenti.its.net;Diploma
+10221;Bolognino;Elia;09/08/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000221;bolognino.elia@studenti.its.net;Diploma
+10222;Cerrano;Alessandra;10/08/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000222;cerrano.alessandra@studenti.its.net;Diploma
+10223;Baschirotto;Giulia;11/08/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000223;baschirotto.giulia@studenti.its.net;Diploma
+10224;Bortone;Allegra;12/08/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000224;bortone.allegra@studenti.its.net;Diploma
+10225;Ferraina;Allison;13/08/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000225;ferraina.allison@studenti.its.net;Diploma
+10226;Cerrano;Eleonora;14/08/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000226;cerrano.eleonora@studenti.its.net;Laurea
+10227;Arras;Massimo;15/08/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000227;arras.massimo@studenti.its.net;Diploma
+10228;Bosio;Edoardo;16/08/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000228;bosio.edoardo@studenti.its.net;Diploma
+10229;Capogreco;Diego;17/08/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000229;capogreco.diego@studenti.its.net;Diploma
+10230;Ferraina;Meghan;18/08/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000230;ferraina.meghan@studenti.its.net;Diploma
+10231;Allione;Anastasia;19/08/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000231;allione.anastasia@studenti.its.net;Diploma
+10232;Agliassa;Arianna;20/08/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000232;agliassa.arianna@studenti.its.net;Diploma
+10233;Brunatto;Anastasia;21/08/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000233;brunatto.anastasia@studenti.its.net;Diploma
+10234;Frisoni;Anastasia;22/08/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000234;frisoni.anastasia@studenti.its.net;Laurea
+10235;Avanzo;Noemi;23/08/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000235;avanzo.noemi@studenti.its.net;Diploma
+10236;Cullino;Emma Anna;24/08/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000236;cullino.emmaanna@studenti.its.net;Diploma
+10237;Bellopede;Andrea;25/08/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000237;bellopede.andrea@studenti.its.net;Diploma
+10238;Cannella;Luca;26/08/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000238;cannella.luca@studenti.its.net;Diploma
+10239;Corongiu;Sofia;27/08/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000239;corongiu.sofia@studenti.its.net;Diploma
+10240;Caposiena;Francesca Pia;28/08/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000240;caposiena.francescapia@studenti.its.net;Diploma
+10241;Bertoli;Edoardo;29/08/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000241;bertoli.edoardo@studenti.its.net;Diploma
+10242;Ascolto;Sportello;30/08/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000242;ascolto.sportello@studenti.its.net;Diploma
+10243;Capogreco;Sara;31/08/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000243;capogreco.sara@studenti.its.net;Diploma
+10244;Astori;Margareth;01/09/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000244;astori.margareth@studenti.its.net;Laurea
+10245;Cannella;Alice;02/09/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000245;cannella.alice@studenti.its.net;Diploma
+10246;Criscenti;Andrea;03/09/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000246;criscenti.andrea@studenti.its.net;Diploma
+10247;Bosticco;Andrea;04/09/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000247;bosticco.andrea@studenti.its.net;Diploma
+10248;Biancorosso;Michelle;05/09/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000248;biancorosso.michelle@studenti.its.net;Diploma
+10249;Berardi;Andrea Mela;06/09/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000249;berardi.andreamela@studenti.its.net;Diploma
+10250;Alberti;Aurora;07/09/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000250;alberti.aurora@studenti.its.net;Diploma
+10251;Brandt;Greta;08/09/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000251;brandt.greta@studenti.its.net;Diploma
+10252;Assom;Laura;09/09/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000252;assom.laura@studenti.its.net;Diploma
+10253;Prima;Giulia;10/09/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000253;prima.giulia@studenti.its.net;Diploma
+10254;Attina';Antonella;11/09/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000254;attina.antonella@studenti.its.net;Diploma
+10255;Coratella;Katie;12/09/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000255;coratella.katie@studenti.its.net;Diploma
+10256;Bagetto;Emanuela;13/09/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000256;bagetto.emanuela@studenti.its.net;Diploma
+10257;Baglieri;Mery;14/09/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000257;baglieri.mery@studenti.its.net;Diploma
+10258;Balducci;Giulia;15/09/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000258;balducci.giulia@studenti.its.net;Diploma
+10259;Cuccolo;Serena;16/09/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000259;cuccolo.serena@studenti.its.net;Diploma
+10260;Barbagallo;Carmela;17/09/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000260;barbagallo.carmela@studenti.its.net;Diploma
+10261;Barbizzi;Patrizia;18/09/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000261;barbizzi.patrizia@studenti.its.net;Diploma
+10262;Bertoli;Lorena;19/09/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000262;bertoli.lorena@studenti.its.net;Diploma
+10263;Bertolino;Tiziana;20/09/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000263;bertolino.tiziana@studenti.its.net;Diploma
+10264;De colombi;Edwuard;21/09/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000264;decolombi.edwuard@studenti.its.net;Diploma
+10265;Bertolotto;Ada;22/09/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000265;bertolotto.ada@studenti.its.net;Diploma
+10266;Coratella;Michelle Mimma;23/09/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000266;coratella.michellemimma@studenti.its.net;Diploma
+10267;Bertolotto;Luisa;24/09/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000267;bertolotto.luisa@studenti.its.net;Diploma
+10268;Bianco;Claudia;25/09/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000268;bianco.claudia@studenti.its.net;Diploma
+10269;Biancolli;Simona;26/09/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000269;biancolli.simona@studenti.its.net;Diploma
+10270;Bignone;Adriana;27/09/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000270;bignone.adriana@studenti.its.net;Diploma
+10271;Bisceglia;Daniela;28/09/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000271;bisceglia.daniela@studenti.its.net;Diploma
+10272;Boero;Andrea;29/09/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000272;boero.andrea@studenti.its.net;Diploma
+10273;Bombardieri;Cristina;30/09/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000273;bombardieri.cristina@studenti.its.net;Diploma
+10274;Bongiovanni;Pasquale;01/10/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000274;bongiovanni.pasquale@studenti.its.net;Diploma
+10275;Baldi;Diego;02/10/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000275;baldi.diego@studenti.its.net;Diploma
+10276;Bonparola;Domenica;03/10/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000276;bonparola.domenica@studenti.its.net;Diploma
+10277;Bonatti;Nicolo';04/10/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000277;bonatti.nicolo@studenti.its.net;Diploma
+10278;Danesi;Arianna;05/10/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000278;danesi.arianna@studenti.its.net;Diploma
+10279;Carrera;Alice;06/10/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000279;carrera.alice@studenti.its.net;Diploma
+10280;Agazzi;Rayan;07/10/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000280;agazzi.rayan@studenti.its.net;Diploma
+10281;Calascione;Sofia;08/10/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000281;calascione.sofia@studenti.its.net;Diploma
+10282;Gentile;Arianna;09/10/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000282;gentile.arianna@studenti.its.net;Diploma
+10283;Frisoni;Riccardo;10/10/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000283;frisoni.riccardo@studenti.its.net;Laurea
+10284;Bolla;Riccardo;11/10/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000284;bolla.riccardo@studenti.its.net;Diploma
+10285;Gallo;Samuele;12/10/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000285;gallo.samuele@studenti.its.net;Diploma
+10286;D'amico;Christian;13/10/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000286;damico.christian@studenti.its.net;Diploma
+10287;D'amico;Nicole;14/10/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000287;damico.nicole@studenti.its.net;Diploma
+10288;Farina;Thiago;15/10/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000288;farina.thiago@studenti.its.net;Diploma
+10289;Agharese edebiri;Christian;16/10/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000289;aghareseedebiri.christian@studenti.its.net;Diploma
+10290;Barros carli;Marina Rosa;17/10/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000290;barroscarli.marinarosa@studenti.its.net;Diploma
+10291;D'alessandro;Elisa;18/10/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000291;dalessandro.elisa@studenti.its.net;Diploma
+10292;Di marco;Miriam;19/10/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000292;dimarco.miriam@studenti.its.net;Diploma
+10293;Cordoba bonilla;Diana Sofia;20/10/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000293;cordobabonilla.dianasofia@studenti.its.net;Diploma
+10294;Lazzeretti;Daniele;21/10/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000294;lazzeretti.daniele@studenti.its.net;Diploma
+10295;Dacomo;Ettore Antonio;22/10/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000295;dacomo.ettoreantonio@studenti.its.net;Diploma
+10296;D'urso;Aurora Sandra;23/10/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000296;durso.aurorasandra@studenti.its.net;Diploma
+10297;Briglia;Vincenzo;24/10/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000297;briglia.vincenzo@studenti.its.net;Diploma
+10298;Cavaliere;Katia;25/10/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000298;cavaliere.katia@studenti.its.net;Diploma
+10299;Chiaberge;Irene;26/10/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000299;chiaberge.irene@studenti.its.net;Diploma
+10300;D'amico;Andrea;27/10/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000300;damico.andrea@studenti.its.net;Diploma
+10301;Bertoli;Luca;28/10/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000301;bertoli.luca@studenti.its.net;Diploma
+10302;Bufo;Francesca;29/10/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000302;bufo.francesca@studenti.its.net;Diploma
+10303;Bortone;Beatrice;30/10/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000303;bortone.beatrice@studenti.its.net;Diploma
+10304;Galluzzo;Samuel;31/10/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000304;galluzzo.samuel@studenti.its.net;Diploma
+10305;Di scala;Alice;01/11/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000305;discala.alice@studenti.its.net;Diploma
+10306;Cicirello;Rebecca;02/11/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000306;cicirello.rebecca@studenti.its.net;Diploma
+10307;Moratto;Beatriz;03/11/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000307;moratto.beatriz@studenti.its.net;Diploma
+10308;Donvito;Stefano;04/11/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000308;donvito.stefano@studenti.its.net;Diploma
+10309;Fiore;Federica;05/11/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000309;fiore.federica@studenti.its.net;Diploma
+10310;Coratella;Gabriel;06/11/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000310;coratella.gabriel@studenti.its.net;Diploma
+10311;Chiaberge;Giulio;07/11/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000311;chiaberge.giulio@studenti.its.net;Diploma
+10312;Pacca;Camilla;08/11/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000312;pacca.camilla@studenti.its.net;Diploma
+10313;Chiaberge;Ambra;09/11/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000313;chiaberge.ambra@studenti.its.net;Diploma
+10314;Dogliotti;Beatrice;10/11/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000314;dogliotti.beatrice@studenti.its.net;Diploma
+10315;Bunino;Sabrina Paola;11/11/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000315;bunino.sabrinapaola@studenti.its.net;Diploma
+10316;Cela;Samuele;12/11/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000316;cela.samuele@studenti.its.net;Diploma
+10317;D'anna;Alice;13/11/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000317;danna.alice@studenti.its.net;Diploma
+10318;Giorda;Lavinia;14/11/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000318;giorda.lavinia@studenti.its.net;Diploma
+10319;Caboni;Federica;15/11/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000319;caboni.federica@studenti.its.net;Diploma
+10320;Cacciola;Giovanna;16/11/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000320;cacciola.giovanna@studenti.its.net;Diploma
+10321;Criscenti;Noemi;17/11/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000321;criscenti.noemi@studenti.its.net;Diploma
+10322;De cillis;Christian;18/11/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000322;decillis.christian@studenti.its.net;Diploma
+10323;Chiribici;Ester Elena;19/11/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000323;chiribici.esterelena@studenti.its.net;Diploma
+10324;Giacometto;Emma;20/11/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000324;giacometto.emma@studenti.its.net;Diploma
+10325;Lucco borlera;Edoardo;21/11/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000325;luccoborlera.edoardo@studenti.its.net;Diploma
+10326;Costanzo;Emma;22/11/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000326;costanzo.emma@studenti.its.net;Diploma
+10327;Cadegiani;Elena;23/11/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000327;cadegiani.elena@studenti.its.net;Diploma
+10328;Bassi;Eleonora;24/11/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000328;bassi.eleonora@studenti.its.net;Diploma
+10329;Bassi;Cristina;25/11/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000329;bassi.cristina@studenti.its.net;Diploma
+10330;Corongiu;Edoardo;26/11/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000330;corongiu.edoardo@studenti.its.net;Diploma
+10331;Cannarsa;Mattia Ryan;27/11/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000331;cannarsa.mattiaryan@studenti.its.net;Diploma
+10332;Cafasso;Rebecca;28/11/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000332;cafasso.rebecca@studenti.its.net;Diploma
+10333;De palma;Francesca;29/11/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000333;depalma.francesca@studenti.its.net;Diploma
+10334;Cittadino;Lorenzo;30/11/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000334;cittadino.lorenzo@studenti.its.net;Diploma
+10335;Canuto;Susanna;01/12/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000335;canuto.susanna@studenti.its.net;Diploma
+10336;Graziano;Cecilia;02/12/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000336;graziano.cecilia@studenti.its.net;Diploma
+10337;Bonatesta;Edoardo;03/12/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000337;bonatesta.edoardo@studenti.its.net;Diploma
+10338;Canfora;Christian;04/12/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000338;canfora.christian@studenti.its.net;Diploma
+10339;Grillo;Lorenzo Pietro;05/12/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000339;grillo.lorenzopietro@studenti.its.net;Laurea
+10340;Curro';Mattia;06/12/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000340;curro.mattia@studenti.its.net;Diploma
+10341;Esposito pellegrino;Cesare;07/12/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000341;espositopellegrino.cesare@studenti.its.net;Diploma
+10342;Fedini;Gabriele;08/12/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000342;fedini.gabriele@studenti.its.net;Diploma
+10343;Evangelista;Martina;09/12/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000343;evangelista.martina@studenti.its.net;Diploma
+10344;Cannarsa;Sofia Sade;10/12/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000344;cannarsa.sofiasade@studenti.its.net;Diploma
+10345;Daria;Christian;11/12/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000345;daria.christian@studenti.its.net;Diploma
+10346;D'anna;Gaia;12/12/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000346;danna.gaia@studenti.its.net;Diploma
+10347;Chiaberge;Luca;13/12/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000347;chiaberge.luca@studenti.its.net;Diploma
+10348;Cottone;Christian Claudio;14/12/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000348;cottone.christianclaudio@studenti.its.net;Diploma
+10349;Cacciotto;Edoardo;15/12/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000349;cacciotto.edoardo@studenti.its.net;Diploma
+10350;Ieluzzi;Chrystian;16/12/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000350;ieluzzi.chrystian@studenti.its.net;Diploma
+10351;Capra;Laura;17/12/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000351;capra.laura@studenti.its.net;Diploma
+10352;Donadio;Nicolo';18/12/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000352;donadio.nicolo@studenti.its.net;Diploma
+10353;Carbone;Alessandra;19/12/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000353;carbone.alessandra@studenti.its.net;Diploma
+10354;Catalano;Giulio;20/12/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000354;catalano.giulio@studenti.its.net;Diploma
+10355;Cavallini;Maximiliano;21/12/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000355;cavallini.maximiliano@studenti.its.net;Diploma
+10356;Cavallo;Anna;22/12/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000356;cavallo.anna@studenti.its.net;Diploma
+10357;Cavallo;Ivana;23/12/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000357;cavallo.ivana@studenti.its.net;Diploma
+10358;Cerro;Maria Teresa;24/12/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000358;cerro.mariateresa@studenti.its.net;Diploma
+10359;Ciampolillo;Maria;25/12/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000359;ciampolillo.maria@studenti.its.net;Diploma
+10360;Di domenico;Emma;26/12/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000360;didomenico.emma@studenti.its.net;Diploma
+10361;Ginesci;Olimpia;27/12/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000361;ginesci.olimpia@studenti.its.net;Diploma
+10362;Fanutza;Virginia;28/12/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000362;fanutza.virginia@studenti.its.net;Diploma
+10363;Chiarulli;Greta;29/12/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000363;chiarulli.greta@studenti.its.net;Diploma
+10364;Cioni;Silvia Antonella;30/12/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000364;cioni.silviaantonella@studenti.its.net;Diploma
+10365;Centrella;Alessio;31/12/2000;Torino;Via Cibrario, NN;10143;Torino;TO;3300000365;centrella.alessio@studenti.its.net;Diploma
+10366;Chiarulli;Matteo;01/01/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000366;chiarulli.matteo@studenti.its.net;Diploma
+10367;Circiello;Anna;02/01/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000367;circiello.anna@studenti.its.net;Diploma
+10368;Brandi;Mariasole;03/01/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000368;brandi.mariasole@studenti.its.net;Diploma
+10369;Colucci;Cloe Violante;04/01/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000369;colucci.cloeviolante@studenti.its.net;Diploma
+10370;Della malva;Aurora;05/01/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000370;dellamalva.aurora@studenti.its.net;Diploma
+10371;Cirio;Sonia;06/01/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000371;cirio.sonia@studenti.its.net;Diploma
+10372;Diglio;Christian Giuseppe;07/01/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000372;diglio.christiangiuseppe@studenti.its.net;Diploma
+10373;Colombatto;Ian;08/01/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000373;colombatto.ian@studenti.its.net;Diploma
+10374;Daria;Daniele;09/01/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000374;daria.daniele@studenti.its.net;Diploma
+10375;Biasco;Stefano;10/01/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000375;biasco.stefano@studenti.its.net;Diploma
+10376;Ismailaj;Aurora;11/01/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000376;ismailaj.aurora@studenti.its.net;Diploma
+10377;Collura;Emanuele;12/01/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000377;collura.emanuele@studenti.its.net;Diploma
+10378;Consoli;Valentina;13/01/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000378;consoli.valentina@studenti.its.net;Diploma
+10379;Costa;Lorena;14/01/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000379;costa.lorena@studenti.its.net;Diploma
+10380;Nicastro;Nives;15/01/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000380;nicastro.nives@studenti.its.net;Diploma
+10381;Donalisio;Viola;16/01/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000381;donalisio.viola@studenti.its.net;Diploma
+10382;Erdenechimeg;Khulan;17/01/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000382;erdenechimeg.khulan@studenti.its.net;Diploma
+10383;Devers;Matilde;18/01/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000383;devers.matilde@studenti.its.net;Diploma
+10384;El bahja;Ihab;19/01/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000384;elbahja.ihab@studenti.its.net;Diploma
+10385;Catania;Ilary;20/01/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000385;catania.ilary@studenti.its.net;Diploma
+10386;Di virgilio;Thomas;21/01/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000386;divirgilio.thomas@studenti.its.net;Diploma
+10387;Grijincu;Magdalena;22/01/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000387;grijincu.magdalena@studenti.its.net;Diploma
+10388;Galluzzo;Desiree;23/01/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000388;galluzzo.desiree@studenti.its.net;Laurea
+10389;Curro';Manuel;24/01/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000389;curro.manuel@studenti.its.net;Diploma
+10390;Focarazzo;Leonardo;25/01/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000390;focarazzo.leonardo@studenti.its.net;Diploma
+10391;Giuffreda;Elia;26/01/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000391;giuffreda.elia@studenti.its.net;Diploma
+10392;De cristofaro;Aurora;27/01/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000392;decristofaro.aurora@studenti.its.net;Diploma
+10393;Di scala;Andrea;28/01/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000393;discala.andrea@studenti.its.net;Diploma
+10394;Ferrero;Michela;29/01/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000394;ferrero.michela@studenti.its.net;Diploma
+10395;Comito;Elena;30/01/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000395;comito.elena@studenti.its.net;Diploma
+10396;Bunino;Federico;31/01/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000396;bunino.federico@studenti.its.net;Diploma
+10397;Gisondi;Gaia;01/02/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000397;gisondi.gaia@studenti.its.net;Diploma
+10398;Gregna;Ercole;02/02/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000398;gregna.ercole@studenti.its.net;Diploma
+10399;Lacarbonara;Aurora;03/02/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000399;lacarbonara.aurora@studenti.its.net;Diploma
+10400;Caglieris;Matilde;04/02/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000400;caglieris.matilde@studenti.its.net;Diploma
+10401;Donalisio;Jacopo;05/02/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000401;donalisio.jacopo@studenti.its.net;Diploma
+10402;Clemente;Diego;06/02/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000402;clemente.diego@studenti.its.net;Diploma
+10403;Bevilacqua;Giulia;07/02/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000403;bevilacqua.giulia@studenti.its.net;Diploma
+10404;Grimaldi;Alessandro;08/02/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000404;grimaldi.alessandro@studenti.its.net;Diploma
+10405;Giolo;Diego;09/02/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000405;giolo.diego@studenti.its.net;Diploma
+10406;Costa;Stefania;10/02/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000406;costa.stefania@studenti.its.net;Diploma
+10407;Cristaldi;Alessia;11/02/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000407;cristaldi.alessia@studenti.its.net;Diploma
+10408;Daniele;Clarissa;12/02/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000408;daniele.clarissa@studenti.its.net;Diploma
+10409;Paciolla;Mia;13/02/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000409;paciolla.mia@studenti.its.net;Diploma
+10410;Ferraris;Nicolo';14/02/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000410;ferraris.nicolo@studenti.its.net;Diploma
+10411;Flore;Edoardo;15/02/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000411;flore.edoardo@studenti.its.net;Diploma
+10412;Gjumsi;Rejan;16/02/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000412;gjumsi.rejan@studenti.its.net;Diploma
+10413;Lauricella;Andrea;17/02/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000413;lauricella.andrea@studenti.its.net;Diploma
+10414;Fantino;Viviana Daria;18/02/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000414;fantino.vivianadaria@studenti.its.net;Laurea
+10415;Mancuso;Reika;19/02/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000415;mancuso.reika@studenti.its.net;Diploma
+10416;Esposito pellegrino;Fulvio;20/02/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000416;espositopellegrino.fulvio@studenti.its.net;Diploma
+10417;Farci;Nicolo';21/02/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000417;farci.nicolo@studenti.its.net;Diploma
+10418;Devivo;Elisa;22/02/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000418;devivo.elisa@studenti.its.net;Diploma
+10419;Ferrero;Christian;23/02/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000419;ferrero.christian@studenti.its.net;Diploma
+10420;El bahja;Nadir;24/02/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000420;elbahja.nadir@studenti.its.net;Diploma
+10421;Gardenal;Gabriele;25/02/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000421;gardenal.gabriele@studenti.its.net;Diploma
+10422;Furnari;Massimiliano;26/02/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000422;furnari.massimiliano@studenti.its.net;Diploma
+10423;Danielle;Clarissa;27/02/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000423;danielle.clarissa@studenti.its.net;Diploma
+10424;Fichera;Lorenzo;28/02/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000424;fichera.lorenzo@studenti.its.net;Diploma
+10425;Fedini;Leonardo;01/03/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000425;fedini.leonardo@studenti.its.net;Diploma
+10426;Granero;Martina;02/03/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000426;granero.martina@studenti.its.net;Diploma
+10427;D'alessio;Samuele;03/03/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000427;dalessio.samuele@studenti.its.net;Diploma
+10428;Gabutti;Elisa;04/03/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000428;gabutti.elisa@studenti.its.net;Laurea
+10429;De angeli;Maddalena;05/03/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000429;deangeli.maddalena@studenti.its.net;Diploma
+10430;Mangione;Riccardo;06/03/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000430;mangione.riccardo@studenti.its.net;Diploma
+10431;Gino;Aurora;07/03/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000431;gino.aurora@studenti.its.net;Diploma
+10432;Foti;Giorgia;08/03/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000432;foti.giorgia@studenti.its.net;Diploma
+10433;Dosio;Viola;09/03/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000433;dosio.viola@studenti.its.net;Diploma
+10434;Dicuonzo;Elena;10/03/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000434;dicuonzo.elena@studenti.its.net;Diploma
+10435;Mazzer;Elia;11/03/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000435;mazzer.elia@studenti.its.net;Diploma
+10436;Hristea;Claudiu Nicolas;12/03/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000436;hristea.claudiunicolas@studenti.its.net;Diploma
+10437;Incampo;Thomas Pierluigi;13/03/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000437;incampo.thomaspierluigi@studenti.its.net;Laurea
+10438;De marco;Maria;14/03/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000438;demarco.maria@studenti.its.net;Diploma
+10439;Fadda;Eleonora Venusta;15/03/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000439;fadda.eleonoravenusta@studenti.its.net;Diploma
+10440;Della porta;Rita;16/03/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000440;dellaporta.rita@studenti.its.net;Diploma
+10441;Derinaldis;Chiara;17/03/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000441;derinaldis.chiara@studenti.its.net;Diploma
+10442;Di brisco;Gabriella Delfina;18/03/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000442;dibrisco.gabrielladelfina@studenti.its.net;Diploma
+10443;Murgo;Leonardo;19/03/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000443;murgo.leonardo@studenti.its.net;Diploma
+10444;Boghean;Giorgia Lucrezia;20/03/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000444;boghean.giorgialucrezia@studenti.its.net;Diploma
+10445;Gabutti;Giorgia;21/03/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000445;gabutti.giorgia@studenti.its.net;Diploma
+10446;Ferraris;Lorenzo;22/03/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000446;ferraris.lorenzo@studenti.its.net;Diploma
+10447;Italiano;Christian;23/03/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000447;italiano.christian@studenti.its.net;Diploma
+10448;Malandrino;Mirko;24/03/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000448;malandrino.mirko@studenti.its.net;Diploma
+10449;Giorda;Eva;25/03/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000449;giorda.eva@studenti.its.net;Diploma
+10450;Gabutti;Giulia;26/03/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000450;gabutti.giulia@studenti.its.net;Diploma
+10451;Di paola;Adriana Agata;27/03/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000451;dipaola.adrianaagata@studenti.its.net;Diploma
+10452;Dimilito;Elisa;28/03/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000452;dimilito.elisa@studenti.its.net;Diploma
+10453;Dipietro;Letizia;29/03/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000453;dipietro.letizia@studenti.its.net;Diploma
+10454;Dosio;Luisella;30/03/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000454;dosio.luisella@studenti.its.net;Diploma
+10455;Dicuonzo;Massimo;31/03/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000455;dicuonzo.massimo@studenti.its.net;Diploma
+10456;Dosio;Roberta;01/04/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000456;dosio.roberta@studenti.its.net;Diploma
+10457;Farag;Sofia;02/04/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000457;farag.sofia@studenti.its.net;Diploma
+10458;Grandi;Margherita;03/04/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000458;grandi.margherita@studenti.its.net;Diploma
+10459;Ghione;Luca Aleksander;04/04/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000459;ghione.lucaaleksander@studenti.its.net;Diploma
+10460;Gallo;Emilio Leonardo;05/04/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000460;gallo.emilioleonardo@studenti.its.net;Diploma
+10461;Lagani;Chiara;06/04/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000461;lagani.chiara@studenti.its.net;Diploma
+10462;Dontu;Adelin;07/04/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000462;dontu.adelin@studenti.its.net;Laurea
+10463;Lombardo;Marco;08/04/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000463;lombardo.marco@studenti.its.net;Diploma
+10464;Ismailaj;Celeste;09/04/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000464;ismailaj.celeste@studenti.its.net;Diploma
+10465;Gamba;Gabriele;10/04/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000465;gamba.gabriele@studenti.its.net;Diploma
+10466;Maciulli;Emma;11/04/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000466;maciulli.emma@studenti.its.net;Diploma
+10467;Pairetti;Gaia;12/04/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000467;pairetti.gaia@studenti.its.net;Diploma
+10468;Petrillo;Thomas;13/04/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000468;petrillo.thomas@studenti.its.net;Diploma
+10469;Giuffreda;Giorgia;14/04/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000469;giuffreda.giorgia@studenti.its.net;Diploma
+10470;Mason;Giada;15/04/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000470;mason.giada@studenti.its.net;Diploma
+10471;Grijincu;Sofia;16/04/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000471;grijincu.sofia@studenti.its.net;Diploma
+10472;Nenci;Alice;17/04/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000472;nenci.alice@studenti.its.net;Diploma
+10473;Dumitru;Giorgia;18/04/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000473;dumitru.giorgia@studenti.its.net;Diploma
+10474;Italiano;Stella;19/04/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000474;italiano.stella@studenti.its.net;Diploma
+10475;Gjumsi;Elvis;20/04/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000475;gjumsi.elvis@studenti.its.net;Diploma
+10476;Lettieri;Alice;21/04/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000476;lettieri.alice@studenti.its.net;Diploma
+10477;Gjumsi;Alex;22/04/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000477;gjumsi.alex@studenti.its.net;Diploma
+10478;Drocco;Francesco;23/04/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000478;drocco.francesco@studenti.its.net;Laurea
+10479;Collura;Desiree;24/04/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000479;collura.desiree@studenti.its.net;Diploma
+10480;Fadda;Beatrice Rita;25/04/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000480;fadda.beatricerita@studenti.its.net;Diploma
+10481;Eliza balta;Florentin;26/04/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000481;elizabalta.florentin@studenti.its.net;Diploma
+10482;Palumbo;Nicolo';27/04/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000482;palumbo.nicolo@studenti.its.net;Diploma
+10483;Giudice;Morena;28/04/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000483;giudice.morena@studenti.its.net;Diploma
+10484;Mussa;David;29/04/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000484;mussa.david@studenti.its.net;Diploma
+10485;Guelekoumaga;Anas;30/04/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000485;guelekoumaga.anas@studenti.its.net;Diploma
+10486;Cortis;Sabrina;01/05/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000486;cortis.sabrina@studenti.its.net;Diploma
+10487;Grillo;Giulia Angelica;02/05/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000487;grillo.giuliaangelica@studenti.its.net;Diploma
+10488;Dattilo;Andrea;03/05/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000488;dattilo.andrea@studenti.its.net;Diploma
+10489;Chiad� rana;Vittoria;04/05/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000489;chiad�rana.vittoria@studenti.its.net;Diploma
+10490;Bonatti;Arianna;05/05/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000490;bonatti.arianna@studenti.its.net;Diploma
+10491;Cammarere;Veronica;06/05/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000491;cammarere.veronica@studenti.its.net;Diploma
+10492;Emmanuello;Ausilia;07/05/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000492;emmanuello.ausilia@studenti.its.net;Diploma
+10493;Grimaldi;Lorenzo;08/05/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000493;grimaldi.lorenzo@studenti.its.net;Laurea
+10494;Fadda;Veronica;09/05/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000494;fadda.veronica@studenti.its.net;Diploma
+10495;Ferraro;Francesco;10/05/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000495;ferraro.francesco@studenti.its.net;Diploma
+10496;Ferrotti;Riccardo;11/05/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000496;ferrotti.riccardo@studenti.its.net;Diploma
+10497;Giacometto;Gioele;12/05/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000497;giacometto.gioele@studenti.its.net;Diploma
+10498;Emanuele;Mathias;13/05/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000498;emanuele.mathias@studenti.its.net;Diploma
+10499;Filippo;Anna;14/05/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000499;filippo.anna@studenti.its.net;Diploma
+10500;Casanova;Matteo;15/05/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000500;casanova.matteo@studenti.its.net;Diploma
+10501;Fino;Ivana;16/05/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000501;fino.ivana@studenti.its.net;Diploma
+10502;Fiorini;Daniela;17/05/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000502;fiorini.daniela@studenti.its.net;Diploma
+10503;Parussa;Lorenzo;18/05/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000503;parussa.lorenzo@studenti.its.net;Diploma
+10504;Italiano;Giovanni;19/05/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000504;italiano.giovanni@studenti.its.net;Diploma
+10505;Gentile;Christian;20/05/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000505;gentile.christian@studenti.its.net;Diploma
+10506;Carnovale;Francesco;21/05/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000506;carnovale.francesco@studenti.its.net;Diploma
+10507;Formazione ata;Rete;22/05/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000507;formazioneata.rete@studenti.its.net;Diploma
+10508;Francalanza;Amalia;23/05/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000508;francalanza.amalia@studenti.its.net;Diploma
+10509;Fucilli;Floriana;24/05/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000509;fucilli.floriana@studenti.its.net;Diploma
+10510;Modica;Pietro Lorenzo;25/05/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000510;modica.pietrolorenzo@studenti.its.net;Diploma
+10511;Gaetani;Maria;26/05/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000511;gaetani.maria@studenti.its.net;Diploma
+10512;Nasanbat;Burtesofia;27/05/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000512;nasanbat.burtesofia@studenti.its.net;Diploma
+10513;Latorre;Gabriele;28/05/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000513;latorre.gabriele@studenti.its.net;Diploma
+10514;Gay;Giacomo;29/05/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000514;gay.giacomo@studenti.its.net;Diploma
+10515;Mangione;Francesco;30/05/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000515;mangione.francesco@studenti.its.net;Diploma
+10516;Gamba;Clarissa;31/05/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000516;gamba.clarissa@studenti.its.net;Diploma
+10517;Lo re;Alyssa;01/06/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000517;lore.alyssa@studenti.its.net;Diploma
+10518;Lucco borlera;Federico;02/06/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000518;luccoborlera.federico@studenti.its.net;Diploma
+10519;Gulino;Sole;03/06/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000519;gulino.sole@studenti.its.net;Diploma
+10520;Gilli;Riccardo;04/06/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000520;gilli.riccardo@studenti.its.net;Diploma
+10521;La padula;Gabriel - M;05/06/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000521;lapadula.gabriel-m@studenti.its.net;Diploma
+10522;La padula;Gabriel - P;06/06/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000522;lapadula.gabriel-p@studenti.its.net;Diploma
+10523;Mangano;Gaia;07/06/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000523;mangano.gaia@studenti.its.net;Diploma
+10524;Crisafi;Kevin;08/06/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000524;crisafi.kevin@studenti.its.net;Diploma
+10525;Paolillo;Melissa;09/06/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000525;paolillo.melissa@studenti.its.net;Diploma
+10526;Gagliardi;Annalisa;10/06/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000526;gagliardi.annalisa@studenti.its.net;Diploma
+10527;Cusimano;Gabriele;11/06/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000527;cusimano.gabriele@studenti.its.net;Diploma
+10528;Cibrario fra;Simone Andrea;12/06/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000528;cibrariofra.simoneandrea@studenti.its.net;Diploma
+10529;Pellegrino;Melissa;13/06/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000529;pellegrino.melissa@studenti.its.net;Diploma
+10530;Ientile;Gabriele;14/06/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000530;ientile.gabriele@studenti.its.net;Diploma
+10531;Multari;Gaia;15/06/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000531;multari.gaia@studenti.its.net;Diploma
+10532;Grasso;Martina;16/06/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000532;grasso.martina@studenti.its.net;Diploma
+10533;Listello;Francesco;17/06/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000533;listello.francesco@studenti.its.net;Diploma
+10534;Di lorenzo;Gioele Antonio;18/06/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000534;dilorenzo.gioeleantonio@studenti.its.net;Diploma
+10535;Girardi;Aurora;19/06/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000535;girardi.aurora@studenti.its.net;Diploma
+10536;Gagliardi;Antonella;20/06/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000536;gagliardi.antonella@studenti.its.net;Diploma
+10537;Galasso;Lucia;21/06/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000537;galasso.lucia@studenti.its.net;Diploma
+10538;Martinengo;Diego;22/06/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000538;martinengo.diego@studenti.its.net;Diploma
+10539;Grumeza anais;Maria;23/06/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000539;grumezaanais.maria@studenti.its.net;Diploma
+10540;Gueli;Rebecca;24/06/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000540;gueli.rebecca@studenti.its.net;Diploma
+10541;Italiano;Daniele;25/06/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000541;italiano.daniele@studenti.its.net;Diploma
+10542;Pairetti;Tommaso;26/06/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000542;pairetti.tommaso@studenti.its.net;Diploma
+10543;La fata;Laura;27/06/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000543;lafata.laura@studenti.its.net;Diploma
+10544;Pavanello;Beatrice;28/06/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000544;pavanello.beatrice@studenti.its.net;Diploma
+10545;Marchitiello;Chiara;29/06/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000545;marchitiello.chiara@studenti.its.net;Diploma
+10546;Murgo;Christian;30/06/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000546;murgo.christian@studenti.its.net;Diploma
+10547;Lanzarotta;Mattia;01/07/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000547;lanzarotta.mattia@studenti.its.net;Diploma
+10548;Colombatto;Guenda;02/07/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000548;colombatto.guenda@studenti.its.net;Diploma
+10549;Gallana;Emanuela;03/07/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000549;gallana.emanuela@studenti.its.net;Diploma
+10550;Pellegrino;Tommaso;04/07/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000550;pellegrino.tommaso@studenti.its.net;Diploma
+10551;Monaco;Jonathan;05/07/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000551;monaco.jonathan@studenti.its.net;Diploma
+10552;Monterosso;Rebecca;06/07/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000552;monterosso.rebecca@studenti.its.net;Diploma
+10553;Perlo;Francesco;07/07/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000553;perlo.francesco@studenti.its.net;Diploma
+10554;Mazzolari;Giada;08/07/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000554;mazzolari.giada@studenti.its.net;Diploma
+10555;Nesci;Ginevra;09/07/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000555;nesci.ginevra@studenti.its.net;Diploma
+10556;Palermo;Federico;10/07/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000556;palermo.federico@studenti.its.net;Diploma
+10557;Milici;Simone;11/07/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000557;milici.simone@studenti.its.net;Diploma
+10558;Galli;Giulia;12/07/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000558;galli.giulia@studenti.its.net;Diploma
+10559;Dosio;Greta;13/07/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000559;dosio.greta@studenti.its.net;Diploma
+10560;Laudani;Nicole;14/07/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000560;laudani.nicole@studenti.its.net;Diploma
+10561;Oria;Francesco;15/07/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000561;oria.francesco@studenti.its.net;Diploma
+10562;Lagani;Mattia;16/07/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000562;lagani.mattia@studenti.its.net;Diploma
+10563;Mancin;Mattia;17/07/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000563;mancin.mattia@studenti.its.net;Diploma
+10564;Bolognino;Gioele;18/07/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000564;bolognino.gioele@studenti.its.net;Diploma
+10565;Devers;Martina;19/07/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000565;devers.martina@studenti.its.net;Diploma
+10566;Marchetti;Sara;20/07/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000566;marchetti.sara@studenti.its.net;Diploma
+10567;Giura;Andrea Kai;21/07/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000567;giura.andreakai@studenti.its.net;Diploma
+10568;Fraschetti;Arianna;22/07/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000568;fraschetti.arianna@studenti.its.net;Diploma
+10569;Lanzillotta;Greta;23/07/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000569;lanzillotta.greta@studenti.its.net;Diploma
+10570;Nepote;Alessandro;24/07/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000570;nepote.alessandro@studenti.its.net;Diploma
+10571;Pivato;Silvano;25/07/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000571;pivato.silvano@studenti.its.net;Diploma
+10572;Picco;Giorgia;26/07/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000572;picco.giorgia@studenti.its.net;Diploma
+10573;Gallo;Wilma;27/07/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000573;gallo.wilma@studenti.its.net;Diploma
+10574;Maciulli;Edoardo;28/07/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000574;maciulli.edoardo@studenti.its.net;Diploma
+10575;Ponce de leon;Liliana;29/07/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000575;poncedeleon.liliana@studenti.its.net;Diploma
+10576;Manzato;Giorgia;30/07/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000576;manzato.giorgia@studenti.its.net;Diploma
+10577;Raimondo;Bianca;31/07/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000577;raimondo.bianca@studenti.its.net;Diploma
+10578;Iacobone;Tommaso;01/08/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000578;iacobone.tommaso@studenti.its.net;Diploma
+10579;Di miceli;Leonardo;02/08/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000579;dimiceli.leonardo@studenti.its.net;Diploma
+10580;Martini;Ester;03/08/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000580;martini.ester@studenti.its.net;Diploma
+10581;Gallo;Wilma;04/08/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000581;gallo.wilma@studenti.its.net;Diploma
+10582;Garzello;Carolina;05/08/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000582;garzello.carolina@studenti.its.net;Diploma
+10583;Giacomelli;Elisa;06/08/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000583;giacomelli.elisa@studenti.its.net;Diploma
+10584;Piacentino;Alice;07/08/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000584;piacentino.alice@studenti.its.net;Diploma
+10585;Pasetto;Alice;08/08/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000585;pasetto.alice@studenti.its.net;Diploma
+10586;Mastrocinque;Thomas;09/08/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000586;mastrocinque.thomas@studenti.its.net;Diploma
+10587;Giacosa;Marta;10/08/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000587;giacosa.marta@studenti.its.net;Diploma
+10588;Janni;Nicolo';11/08/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000588;janni.nicolo@studenti.its.net;Diploma
+10589;Lucco borlera;Igor;12/08/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000589;luccoborlera.igor@studenti.its.net;Laurea
+10590;Giai;Ivan;13/08/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000590;giai.ivan@studenti.its.net;Laurea
+10591;Piemonte;Matteo Antonio;14/08/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000591;piemonte.matteoantonio@studenti.its.net;Diploma
+10592;Monterossi;Edoardo;15/08/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000592;monterossi.edoardo@studenti.its.net;Diploma
+10593;Evangelista;Filippo;16/08/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000593;evangelista.filippo@studenti.its.net;Diploma
+10594;Farruggia;Sabrina;17/08/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000594;farruggia.sabrina@studenti.its.net;Laurea
+10595;Gioi;Angela;18/08/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000595;gioi.angela@studenti.its.net;Diploma
+10596;Manta;Agnese;19/08/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000596;manta.agnese@studenti.its.net;Diploma
+10597;Pisano;Francesco;20/08/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000597;pisano.francesco@studenti.its.net;Diploma
+10598;Fantino;Mattia Pietro;21/08/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000598;fantino.mattiapietro@studenti.its.net;Diploma
+10599;Giorgio;Emanuela;22/08/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000599;giorgio.emanuela@studenti.its.net;Diploma
+10600;Giorgis;Elisa;23/08/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000600;giorgis.elisa@studenti.its.net;Diploma
+10601;Miceli;Alessandro;24/08/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000601;miceli.alessandro@studenti.its.net;Diploma
+10602;Gabrielli;Pier Francesco;25/08/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000602;gabrielli.pierfrancesco@studenti.its.net;Diploma
+10603;Miceli;Simone;26/08/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000603;miceli.simone@studenti.its.net;Diploma
+10604;Milici;Emma;27/08/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000604;milici.emma@studenti.its.net;Diploma
+10605;Forchini;Pietro;28/08/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000605;forchini.pietro@studenti.its.net;Diploma
+10606;Manta;Leonardo;29/08/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000606;manta.leonardo@studenti.its.net;Diploma
+10607;Mosso;Davide;30/08/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000607;mosso.davide@studenti.its.net;Diploma
+10608;Fiore;Viola Francesca;31/08/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000608;fiore.violafrancesca@studenti.its.net;Diploma
+10609;Kchimi;Hanin;01/09/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000609;kchimi.hanin@studenti.its.net;Diploma
+10610;Leccese;Francesco;02/09/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000610;leccese.francesco@studenti.its.net;Diploma
+10611;Forchini;Iacopo;03/09/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000611;forchini.iacopo@studenti.its.net;Diploma
+10612;Paolillo;Viola;04/09/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000612;paolillo.viola@studenti.its.net;Diploma
+10613;Manta;Valerio;05/09/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000613;manta.valerio@studenti.its.net;Diploma
+10614;Maciulli;Emanuele;06/09/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000614;maciulli.emanuele@studenti.its.net;Diploma
+10615;Godino;Emanuela;07/09/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000615;godino.emanuela@studenti.its.net;Diploma
+10616;Dontu;Daniel;08/09/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000616;dontu.daniel@studenti.its.net;Diploma
+10617;Micone;Rebecca;09/09/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000617;micone.rebecca@studenti.its.net;Diploma
+10618;Gorrino;Sabrina;10/09/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000618;gorrino.sabrina@studenti.its.net;Diploma
+10619;Migliardi;Gioele;11/09/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000619;migliardi.gioele@studenti.its.net;Diploma
+10620;Mason;Alessandro;12/09/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000620;mason.alessandro@studenti.its.net;Diploma
+10621;Granata;Salvatore;13/09/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000621;granata.salvatore@studenti.its.net;Diploma
+10622;Manzato;Leonardo;14/09/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000622;manzato.leonardo@studenti.its.net;Diploma
+10623;Garoglio;Rebecca;15/09/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000623;garoglio.rebecca@studenti.its.net;Diploma
+10624;Greca;Giovanni;16/09/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000624;greca.giovanni@studenti.its.net;Diploma
+10625;Loggetta;Iris;17/09/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000625;loggetta.iris@studenti.its.net;Diploma
+10626;Pera;Alessandro;18/09/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000626;pera.alessandro@studenti.its.net;Diploma
+10627;Dontu;Isaim;19/09/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000627;dontu.isaim@studenti.its.net;Diploma
+10628;Mosnoi;Iulian;20/09/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000628;mosnoi.iulian@studenti.its.net;Diploma
+10629;Gryga;Marta;21/09/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000629;gryga.marta@studenti.its.net;Diploma
+10630;Gualchi;Gabriella;22/09/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000630;gualchi.gabriella@studenti.its.net;Diploma
+10631;Guzzon;Silvia;23/09/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000631;guzzon.silvia@studenti.its.net;Diploma
+10632;Gallo;Matteo;24/09/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000632;gallo.matteo@studenti.its.net;Diploma
+10633;Guala;Riccardo;25/09/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000633;guala.riccardo@studenti.its.net;Diploma
+10634;Monterosso;Matilde;26/09/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000634;monterosso.matilde@studenti.its.net;Diploma
+10635;Latorre;Lorenzo;27/09/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000635;latorre.lorenzo@studenti.its.net;Diploma
+10636;Muo';Giulia;28/09/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000636;muo.giulia@studenti.its.net;Diploma
+10637;Rossato;Simone;29/09/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000637;rossato.simone@studenti.its.net;Diploma
+10638;Nicastro;Cecilia;30/09/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000638;nicastro.cecilia@studenti.its.net;Diploma
+10639;Mussino;Matteo Antonio;01/10/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000639;mussino.matteoantonio@studenti.its.net;Laurea
+10640;Guala;Alessandro;02/10/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000640;guala.alessandro@studenti.its.net;Diploma
+10641;Miceli;Leonardo;03/10/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000641;miceli.leonardo@studenti.its.net;Diploma
+10642;Piacentino;Loris;04/10/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000642;piacentino.loris@studenti.its.net;Diploma
+10643;Nonnato;Edoardo;05/10/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000643;nonnato.edoardo@studenti.its.net;Diploma
+10644;Ic caselette;Noreply;06/10/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000644;iccaselette.noreply@studenti.its.net;Diploma
+10645;Ic caselette;Segreteria;07/10/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000645;iccaselette.segreteria@studenti.its.net;Diploma
+10646;Istituzionale;Posta;08/10/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000646;istituzionale.posta@studenti.its.net;Diploma
+10647;Mussino;Sara;09/10/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000647;mussino.sara@studenti.its.net;Diploma
+10648;Gardenal;Gemma;10/10/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000648;gardenal.gemma@studenti.its.net;Diploma
+10649;Savarino;Gabriel Rochel;11/10/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000649;savarino.gabrielrochel@studenti.its.net;Diploma
+10650;Pellizzaro;Alberto Francis;12/10/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000650;pellizzaro.albertofrancis@studenti.its.net;Diploma
+10651;Viale;Leonardo;13/10/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000651;viale.leonardo@studenti.its.net;Diploma
+10652;Pignataro;Matteo;14/10/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000652;pignataro.matteo@studenti.its.net;Diploma
+10653;Pacchiardo;Mattia;15/10/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000653;pacchiardo.mattia@studenti.its.net;Diploma
+10654;Rullo;Virginia;16/10/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000654;rullo.virginia@studenti.its.net;Diploma
+10655;Maurino;Alessio;17/10/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000655;maurino.alessio@studenti.its.net;Diploma
+10656;Muzzioli;Azzurra;18/10/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000656;muzzioli.azzurra@studenti.its.net;Diploma
+10657;Giacometto;Leo;19/10/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000657;giacometto.leo@studenti.its.net;Diploma
+10658;Porro;Aurora Isabella;20/10/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000658;porro.auroraisabella@studenti.its.net;Diploma
+10659;Rinciari;Noemi;21/10/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000659;rinciari.noemi@studenti.its.net;Diploma
+10660;Maglio;Arianna;22/10/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000660;maglio.arianna@studenti.its.net;Diploma
+10661;Iuliano;Nicola;23/10/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000661;iuliano.nicola@studenti.its.net;Diploma
+10662;La malfa;Gianni;24/10/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000662;lamalfa.gianni@studenti.its.net;Diploma
+10663;Nalesso;Andrea;25/10/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000663;nalesso.andrea@studenti.its.net;Diploma
+10664;Pozza;Emma;26/10/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000664;pozza.emma@studenti.its.net;Diploma
+10665;La russa;Anna Maria;27/10/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000665;larussa.annamaria@studenti.its.net;Diploma
+10666;Lauricella;Gioele;28/10/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000666;lauricella.gioele@studenti.its.net;Diploma
+10667;Laginestra;Maria Luisa;29/10/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000667;laginestra.marialuisa@studenti.its.net;Diploma
+10668;Lamorgese;Maria Felicia;30/10/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000668;lamorgese.mariafelicia@studenti.its.net;Diploma
+10669;Lando;Miriam;31/10/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000669;lando.miriam@studenti.its.net;Diploma
+10670;Modica;Carlo  Vittorio;01/11/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000670;modica.carlovittorio@studenti.its.net;Laurea
+10671;Pere;Michael Diego;02/11/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000671;pere.michaeldiego@studenti.its.net;Diploma
+10672;Monterosso;Piero Gabriele;03/11/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000672;monterosso.pierogabriele@studenti.its.net;Diploma
+10673;Maurino;Camilla;04/11/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000673;maurino.camilla@studenti.its.net;Diploma
+10674;Marvulli;Beatrice;05/11/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000674;marvulli.beatrice@studenti.its.net;Diploma
+10675;Paradiso;Matteo;06/11/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000675;paradiso.matteo@studenti.its.net;Diploma
+10676;Olaye;John;07/11/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000676;olaye.john@studenti.its.net;Diploma
+10677;Arra;Lorenzo;08/11/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000677;arra.lorenzo@studenti.its.net;Diploma
+10678;Piccinelli;Claudio;09/11/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000678;piccinelli.claudio@studenti.its.net;Diploma
+10679;Nigra;Noemi;10/11/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000679;nigra.noemi@studenti.its.net;Diploma
+10680;Garbin;Matteo;11/11/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000680;garbin.matteo@studenti.its.net;Diploma
+10681;Massimo;Edoardo;12/11/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000681;massimo.edoardo@studenti.its.net;Diploma
+10682;Policrisi;Samantha Natalia;13/11/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000682;policrisi.samanthanatalia@studenti.its.net;Diploma
+10683;Rizzetto;Giorgia;14/11/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000683;rizzetto.giorgia@studenti.its.net;Diploma
+10684;Paradiso;Simone;15/11/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000684;paradiso.simone@studenti.its.net;Diploma
+10685;Parodi;Lorenzo;16/11/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000685;parodi.lorenzo@studenti.its.net;Diploma
+10686;Quarta;Christian;17/11/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000686;quarta.christian@studenti.its.net;Diploma
+10687;Salvaia;Franck;18/11/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000687;salvaia.franck@studenti.its.net;Diploma
+10688;Mongiano;Sara;19/11/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000688;mongiano.sara@studenti.its.net;Diploma
+10689;Pera;Lucilla;20/11/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000689;pera.lucilla@studenti.its.net;Diploma
+10690;Migliorini;Sofia;21/11/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000690;migliorini.sofia@studenti.its.net;Diploma
+10691;Pocol;Davide Cristian;22/11/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000691;pocol.davidecristian@studenti.its.net;Diploma
+10692;Lombardo;Giulia;23/11/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000692;lombardo.giulia@studenti.its.net;Diploma
+10693;Graziano;Camilla;24/11/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000693;graziano.camilla@studenti.its.net;Diploma
+10694;Saporito;Chloe';25/11/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000694;saporito.chloe@studenti.its.net;Diploma
+10695;Laturra;Micaela;26/11/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000695;laturra.micaela@studenti.its.net;Diploma
+10696;Leotta;Gabriele;27/11/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000696;leotta.gabriele@studenti.its.net;Diploma
+10697;Liggi;Flavia;28/11/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000697;liggi.flavia@studenti.its.net;Diploma
+10698;Lombardo;Giorgia;29/11/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000698;lombardo.giorgia@studenti.its.net;Diploma
+10699;Ritucci;Andrea;30/11/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000699;ritucci.andrea@studenti.its.net;Diploma
+10700;Rezzani;Alberto;01/12/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000700;rezzani.alberto@studenti.its.net;Diploma
+10701;Viale;Ludovico Antonio;02/12/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000701;viale.ludovicoantonio@studenti.its.net;Diploma
+10702;Pellegrino;Luigi;03/12/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000702;pellegrino.luigi@studenti.its.net;Diploma
+10703;Lombardo;Sonia;04/12/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000703;lombardo.sonia@studenti.its.net;Diploma
+10704;Lucisano;Serafina;05/12/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000704;lucisano.serafina@studenti.its.net;Diploma
+10705;Maggio;Tiziana;06/12/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000705;maggio.tiziana@studenti.its.net;Diploma
+10706;Strepponi;Ludovica;07/12/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000706;strepponi.ludovica@studenti.its.net;Diploma
+10707;Gueli;Victoria;08/12/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000707;gueli.victoria@studenti.its.net;Diploma
+10708;Italiano;Mattia;09/12/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000708;italiano.mattia@studenti.its.net;Diploma
+10709;Lettieri;Diego;10/12/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000709;lettieri.diego@studenti.its.net;Diploma
+10710;Perino;Gaia;11/12/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000710;perino.gaia@studenti.its.net;Diploma
+10711;Olivetti;Francesca;12/12/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000711;olivetti.francesca@studenti.its.net;Diploma
+10712;Torresi;Silvia;13/12/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000712;torresi.silvia@studenti.its.net;Diploma
+10713;Pellizzaro;Federico Dennis;14/12/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000713;pellizzaro.federicodennis@studenti.its.net;Diploma
+10714;Magistro;Anna Maria;15/12/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000714;magistro.annamaria@studenti.its.net;Diploma
+10715;Pera;Samuel;16/12/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000715;pera.samuel@studenti.its.net;Diploma
+10716;Magnelli;Alessandra;17/12/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000716;magnelli.alessandra@studenti.its.net;Diploma
+10717;Maltese;Romina;18/12/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000717;maltese.romina@studenti.its.net;Diploma
+10718;Mazzolari;Gaia;19/12/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000718;mazzolari.gaia@studenti.its.net;Diploma
+10719;Marongiu;Paola;20/12/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000719;marongiu.paola@studenti.its.net;Diploma
+10720;Martorana;Nicola;21/12/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000720;martorana.nicola@studenti.its.net;Diploma
+10721;Maurone;Letizia;22/12/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000721;maurone.letizia@studenti.its.net;Diploma
+10722;Mercorillo;Valerio;23/12/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000722;mercorillo.valerio@studenti.its.net;Diploma
+10723;Miano;Marika;24/12/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000723;miano.marika@studenti.its.net;Diploma
+10724;Midiri;Flora;25/12/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000724;midiri.flora@studenti.its.net;Diploma
+10725;Milanesio;Antonella;26/12/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000725;milanesio.antonella@studenti.its.net;Diploma
+10726;Ghirelli;Mariasole;27/12/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000726;ghirelli.mariasole@studenti.its.net;Diploma
+10727;Malandrino;Cristian;28/12/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000727;malandrino.cristian@studenti.its.net;Diploma
+10728;Milioti;Stefania;29/12/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000728;milioti.stefania@studenti.its.net;Diploma
+10729;Militano;Annamaria;30/12/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000729;militano.annamaria@studenti.its.net;Diploma
+10730;Molinaro;Fabiana;31/12/2001;Torino;Via Cibrario, NN;10143;Torino;TO;3300000730;molinaro.fabiana@studenti.its.net;Diploma
+10731;Monte;Marina;01/01/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000731;monte.marina@studenti.its.net;Diploma
+10732;Monti;Cesare;02/01/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000732;monti.cesare@studenti.its.net;Diploma
+10733;Picco stocco;Lorenzo;03/01/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000733;piccostocco.lorenzo@studenti.its.net;Diploma
+10734;Tosku;Endriu;04/01/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000734;tosku.endriu@studenti.its.net;Diploma
+10735;Morello;Carla;05/01/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000735;morello.carla@studenti.its.net;Diploma
+10736;Mure';Valentina;06/01/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000736;mure.valentina@studenti.its.net;Diploma
+10737;Panebianco;Marta;07/01/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000737;panebianco.marta@studenti.its.net;Diploma
+10738;Muzio;Alex;08/01/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000738;muzio.alex@studenti.its.net;Diploma
+10739;Ratto;Tommaso;09/01/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000739;ratto.tommaso@studenti.its.net;Diploma
+10740;Macovei;Melissa Maria;10/01/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000740;macovei.melissamaria@studenti.its.net;Diploma
+10741;Paulet;Alin Petru;11/01/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000741;paulet.alinpetru@studenti.its.net;Diploma
+10742;Purcar;Dario Stefano;12/01/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000742;purcar.dariostefano@studenti.its.net;Laurea
+10743;Losurdo;Cloe;13/01/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000743;losurdo.cloe@studenti.its.net;Diploma
+10744;Pavalean;Claudiu;14/01/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000744;pavalean.claudiu@studenti.its.net;Diploma
+10745;Napoletano;Sonia C.;15/01/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000745;napoletano.soniac.@studenti.its.net;Diploma
+10746;Pili;Martina;16/01/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000746;pili.martina@studenti.its.net;Diploma
+10747;Nigra;Luca;17/01/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000747;nigra.luca@studenti.its.net;Diploma
+10748;Migliardi;Manrico;18/01/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000748;migliardi.manrico@studenti.its.net;Diploma
+10749;Ragusa;Alice;19/01/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000749;ragusa.alice@studenti.its.net;Diploma
+10750;Rossotto;Federico;20/01/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000750;rossotto.federico@studenti.its.net;Diploma
+10751;Reina;Alessandro;21/01/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000751;reina.alessandro@studenti.its.net;Diploma
+10752;Nicoletti;Lucia;22/01/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000752;nicoletti.lucia@studenti.its.net;Diploma
+10753;Rocchi;Christian;23/01/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000753;rocchi.christian@studenti.its.net;Diploma
+10754;Pocol;Sara Stefania;24/01/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000754;pocol.sarastefania@studenti.its.net;Diploma
+10755;Manfredi;Sara;25/01/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000755;manfredi.sara@studenti.its.net;Diploma
+10756;Matera;Lorenzo;26/01/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000756;matera.lorenzo@studenti.its.net;Diploma
+10757;Pellegrini;Elena;27/01/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000757;pellegrini.elena@studenti.its.net;Diploma
+10758;Olaye ruth;Frank;28/01/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000758;olayeruth.frank@studenti.its.net;Diploma
+10759;Saiu;Lorenzo;29/01/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000759;saiu.lorenzo@studenti.its.net;Diploma
+10760;Pacca;Carlotta;30/01/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000760;pacca.carlotta@studenti.its.net;Diploma
+10761;Paolillo;Alessandro;31/01/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000761;paolillo.alessandro@studenti.its.net;Diploma
+10762;Martinengo;Giulia;01/02/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000762;martinengo.giulia@studenti.its.net;Diploma
+10763;Meloni;Manuel;02/02/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000763;meloni.manuel@studenti.its.net;Diploma
+10764;Scheul;Anastasia;03/02/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000764;scheul.anastasia@studenti.its.net;Diploma
+10765;Pere;Angelo Leonardo;04/02/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000765;pere.angeloleonardo@studenti.its.net;Diploma
+10766;Milazzo;Viola;05/02/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000766;milazzo.viola@studenti.its.net;Diploma
+10767;Pellegrini;Valentina;06/02/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000767;pellegrini.valentina@studenti.its.net;Diploma
+10768;Parmoli;Samuele;07/02/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000768;parmoli.samuele@studenti.its.net;Diploma
+10769;Saiu;Lorenzo;08/02/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000769;saiu.lorenzo@studenti.its.net;Diploma
+10770;Rosa;Leonardo Mattia;09/02/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000770;rosa.leonardomattia@studenti.its.net;Diploma
+10771;Perri;Alessandro;10/02/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000771;perri.alessandro@studenti.its.net;Diploma
+10772;Rinaldi;Riccardo;11/02/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000772;rinaldi.riccardo@studenti.its.net;Diploma
+10773;Rosa;Noemi;12/02/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000773;rosa.noemi@studenti.its.net;Diploma
+10774;Russo;Sharon;13/02/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000774;russo.sharon@studenti.its.net;Diploma
+10775;Pacchiardo;Mattia;14/02/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000775;pacchiardo.mattia@studenti.its.net;Diploma
+10776;Piroscia;Sara;15/02/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000776;piroscia.sara@studenti.its.net;Diploma
+10777;Sagario;Gabriele;16/02/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000777;sagario.gabriele@studenti.its.net;Diploma
+10778;Saporito;Francesco Salvatore;17/02/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000778;saporito.francescosalvatore@studenti.its.net;Diploma
+10779;Savarino;Michele;18/02/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000779;savarino.michele@studenti.its.net;Diploma
+10780;Scheul;Elisabeta;19/02/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000780;scheul.elisabeta@studenti.its.net;Diploma
+10781;Riccio;Andrea;20/02/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000781;riccio.andrea@studenti.its.net;Diploma
+10782;Palladino;Gaia;21/02/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000782;palladino.gaia@studenti.its.net;Diploma
+10783;Rizzetto;Matteo;22/02/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000783;rizzetto.matteo@studenti.its.net;Diploma
+10784;Rullent;Samuele;23/02/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000784;rullent.samuele@studenti.its.net;Diploma
+10785;Restieri;Lorenzo;24/02/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000785;restieri.lorenzo@studenti.its.net;Diploma
+10786;Schipor;Matei;25/02/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000786;schipor.matei@studenti.its.net;Diploma
+10787;Petrucci;Ilaria;26/02/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000787;petrucci.ilaria@studenti.its.net;Diploma
+10788;Pace;Francesca;27/02/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000788;pace.francesca@studenti.its.net;Diploma
+10789;Sanfilippo tab�;Bianca;28/02/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000789;sanfilippotab�.bianca@studenti.its.net;Diploma
+10790;Pozza;Lorenzo;01/03/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000790;pozza.lorenzo@studenti.its.net;Diploma
+10791;Ruzza;Giulia;02/03/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000791;ruzza.giulia@studenti.its.net;Diploma
+10792;Scaglia;Leonardo;03/03/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000792;scaglia.leonardo@studenti.its.net;Diploma
+10793;Pere;Elena Antonia;04/03/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000793;pere.elenaantonia@studenti.its.net;Diploma
+10794;Raveica;Iris;05/03/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000794;raveica.iris@studenti.its.net;Diploma
+10795;Palumbo;Riccardo;06/03/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000795;palumbo.riccardo@studenti.its.net;Diploma
+10796;Pallotta;Ilaria;07/03/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000796;pallotta.ilaria@studenti.its.net;Diploma
+10797;Rosa;Aurora;08/03/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000797;rosa.aurora@studenti.its.net;Diploma
+10798;Panarelli;Samantha;09/03/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000798;panarelli.samantha@studenti.its.net;Diploma
+10799;Tadini;Vittorio;10/03/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000799;tadini.vittorio@studenti.its.net;Diploma
+10800;Losurdo;Emili;11/03/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000800;losurdo.emili@studenti.its.net;Diploma
+10801;Schiesaro;Mattia;12/03/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000801;schiesaro.mattia@studenti.its.net;Diploma
+10802;Paone;Sara;13/03/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000802;paone.sara@studenti.its.net;Diploma
+10803;Pazzaia;Monica;14/03/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000803;pazzaia.monica@studenti.its.net;Diploma
+10804;Santomartino;Anastasia;15/03/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000804;santomartino.anastasia@studenti.its.net;Diploma
+10805;Petrilio;Sofia;16/03/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000805;petrilio.sofia@studenti.its.net;Diploma
+10806;Scotta;Jolie;17/03/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000806;scotta.jolie@studenti.its.net;Diploma
+10807;Pellican�;Giovanna;18/03/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000807;pellican�.giovanna@studenti.its.net;Diploma
+10808;Polonioli;Alice;19/03/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000808;polonioli.alice@studenti.its.net;Diploma
+10809;Pelosi;Anna;20/03/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000809;pelosi.anna@studenti.its.net;Diploma
+10810;Perillo;Michelina;21/03/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000810;perillo.michelina@studenti.its.net;Diploma
+10811;Santovito;Nicolo';22/03/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000811;santovito.nicolo@studenti.its.net;Diploma
+10812;Panarese;Lisa;23/03/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000812;panarese.lisa@studenti.its.net;Diploma
+10813;Rivali;Morgan;24/03/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000813;rivali.morgan@studenti.its.net;Diploma
+10814;Perini;Cinzia;25/03/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000814;perini.cinzia@studenti.its.net;Diploma
+10815;Pantone;Noelia;26/03/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000815;pantone.noelia@studenti.its.net;Diploma
+10816;Piras;Sandra;27/03/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000816;piras.sandra@studenti.its.net;Diploma
+10817;Pisa;Beatrice;28/03/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000817;pisa.beatrice@studenti.its.net;Diploma
+10818;Rullent;Aurora;29/03/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000818;rullent.aurora@studenti.its.net;Diploma
+10819;Riccio;Martina;30/03/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000819;riccio.martina@studenti.its.net;Diploma
+10820;Rezzani;Alessandro;31/03/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000820;rezzani.alessandro@studenti.its.net;Diploma
+10821;Sardisco;Luce;01/04/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000821;sardisco.luce@studenti.its.net;Diploma
+10822;Sarracino;Alessandro;02/04/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000822;sarracino.alessandro@studenti.its.net;Diploma
+10823;Scolamiero;Alessia;03/04/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000823;scolamiero.alessia@studenti.its.net;Diploma
+10824;Scaglia;Matilde;04/04/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000824;scaglia.matilde@studenti.its.net;Diploma
+10825;Negro;Matteo;05/04/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000825;negro.matteo@studenti.its.net;Diploma
+10826;Riccomini;Nicolo';06/04/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000826;riccomini.nicolo@studenti.its.net;Diploma
+10827;Schipor;Iacob;07/04/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000827;schipor.iacob@studenti.its.net;Diploma
+10828;Poidomani;Chiara;08/04/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000828;poidomani.chiara@studenti.its.net;Diploma
+10829;Sanna;Pietro;09/04/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000829;sanna.pietro@studenti.its.net;Diploma
+10830;Raimondo;Adele;10/04/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000830;raimondo.adele@studenti.its.net;Diploma
+10831;Pozzo;Irene;11/04/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000831;pozzo.irene@studenti.its.net;Diploma
+10832;Scuderi;Andrea Celeste;12/04/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000832;scuderi.andreaceleste@studenti.its.net;Diploma
+10833;Savarino;Matteo Dante;13/04/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000833;savarino.matteodante@studenti.its.net;Diploma
+10834;Toffanello;Federico;14/04/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000834;toffanello.federico@studenti.its.net;Diploma
+10835;Sangiorgi;Sophia;15/04/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000835;sangiorgi.sophia@studenti.its.net;Diploma
+10836;Scaglia;Alessio;16/04/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000836;scaglia.alessio@studenti.its.net;Diploma
+10837;Puebla alonso;Margarita;17/04/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000837;pueblaalonso.margarita@studenti.its.net;Diploma
+10838;Scaratti;Claudio;18/04/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000838;scaratti.claudio@studenti.its.net;Diploma
+10839;Pugliese;Elena;19/04/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000839;pugliese.elena@studenti.its.net;Diploma
+10840;Punzo;Claudia;20/04/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000840;punzo.claudia@studenti.its.net;Diploma
+10841;Raimondo;Nadia;21/04/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000841;raimondo.nadia@studenti.its.net;Diploma
+10842;Rainone;Maria Alessandra;22/04/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000842;rainone.mariaalessandra@studenti.its.net;Diploma
+10843;Rampulla;Marta;23/04/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000843;rampulla.marta@studenti.its.net;Diploma
+10844;Rapa;Laura;24/04/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000844;rapa.laura@studenti.its.net;Diploma
+10845;Scaglia;Cristiano;25/04/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000845;scaglia.cristiano@studenti.its.net;Diploma
+10846;Rota;Aurora;26/04/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000846;rota.aurora@studenti.its.net;Diploma
+10847;Savarino;Ruben Bliss;27/04/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000847;savarino.rubenbliss@studenti.its.net;Diploma
+10848;Saurrat;Rubens Vittorio;28/04/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000848;saurrat.rubensvittorio@studenti.its.net;Diploma
+10849;Saiu;Emma;29/04/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000849;saiu.emma@studenti.its.net;Diploma
+10850;Rea;Teresa;30/04/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000850;rea.teresa@studenti.its.net;Diploma
+10851;Reale;Claudia;01/05/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000851;reale.claudia@studenti.its.net;Diploma
+10852;Spessa;Ginevra;02/05/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000852;spessa.ginevra@studenti.its.net;Diploma
+10853;Pacchiardo;Rachele;03/05/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000853;pacchiardo.rachele@studenti.its.net;Diploma
+10854;Pivato;Raul;04/05/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000854;pivato.raul@studenti.its.net;Diploma
+10855;Totolo;Emanuele;05/05/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000855;totolo.emanuele@studenti.its.net;Diploma
+10856;Bini;Rebecca;06/05/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000856;bini.rebecca@studenti.its.net;Diploma
+10857;Rinciari;Samuele;07/05/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000857;rinciari.samuele@studenti.its.net;Diploma
+10858;Rocchi;Alessandro;08/05/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000858;rocchi.alessandro@studenti.its.net;Diploma
+10859;Rot;Samuele;09/05/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000859;rot.samuele@studenti.its.net;Diploma
+10860;Signorile;Benedetta;10/05/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000860;signorile.benedetta@studenti.its.net;Diploma
+10861;Regaldo;Rita;11/05/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000861;regaldo.rita@studenti.its.net;Diploma
+10862;Tosku;Fatmir;12/05/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000862;tosku.fatmir@studenti.its.net;Diploma
+10863;Sanna;Alessio;13/05/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000863;sanna.alessio@studenti.its.net;Diploma
+10864;Stopazzola;Lorenzo;14/05/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000864;stopazzola.lorenzo@studenti.its.net;Diploma
+10865;Siciliano;Gaia;15/05/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000865;siciliano.gaia@studenti.its.net;Diploma
+10866;Simioli;Rebecca;16/05/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000866;simioli.rebecca@studenti.its.net;Diploma
+10867;Rot;Melissa;17/05/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000867;rot.melissa@studenti.its.net;Diploma
+10868;Trisolino;Edoardo;18/05/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000868;trisolino.edoardo@studenti.its.net;Diploma
+10869;Rossetti;Arianna;19/05/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000869;rossetti.arianna@studenti.its.net;Diploma
+10870;Salvamano;Chiara;20/05/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000870;salvamano.chiara@studenti.its.net;Diploma
+10871;Panarese;Matteo;21/05/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000871;panarese.matteo@studenti.its.net;Diploma
+10872;Sicca;Cecilia;22/05/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000872;sicca.cecilia@studenti.its.net;Diploma
+10873;Porzio;Cecilia;23/05/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000873;porzio.cecilia@studenti.its.net;Diploma
+10874;Saiu;Emma;24/05/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000874;saiu.emma@studenti.its.net;Diploma
+10875;Romano;Irene;25/05/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000875;romano.irene@studenti.its.net;Diploma
+10876;Villano;Mauro;26/05/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000876;villano.mauro@studenti.its.net;Diploma
+10877;Rossin;Monica;27/05/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000877;rossin.monica@studenti.its.net;Diploma
+10878;Parussa;Francesca;28/05/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000878;parussa.francesca@studenti.its.net;Diploma
+10879;Malco;Riccardo Paolo;29/05/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000879;malco.riccardopaolo@studenti.its.net;Diploma
+10880;Rosso;Adriana;30/05/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000880;rosso.adriana@studenti.its.net;Diploma
+10881;Rosso;Claudia;31/05/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000881;rosso.claudia@studenti.its.net;Diploma
+10882;Rota;Maria Vittoria;01/06/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000882;rota.mariavittoria@studenti.its.net;Diploma
+10883;Russo;Dora;02/06/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000883;russo.dora@studenti.its.net;Diploma
+10884;Tiozzo;Roberto;03/06/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000884;tiozzo.roberto@studenti.its.net;Diploma
+10885;Scolamiero;Marco;04/06/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000885;scolamiero.marco@studenti.its.net;Diploma
+10886;Sabia;Lucia;05/06/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000886;sabia.lucia@studenti.its.net;Diploma
+10887;Sanapo;Angelica;06/06/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000887;sanapo.angelica@studenti.its.net;Diploma
+10888;Orihuela fernandez;Romina;07/06/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000888;orihuelafernandez.romina@studenti.its.net;Diploma
+10889;Petracca;Ruben;08/06/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000889;petracca.ruben@studenti.its.net;Diploma
+10890;Spinelli;Luca;09/06/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000890;spinelli.luca@studenti.its.net;Diploma
+10891;Trisolino;Alice;10/06/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000891;trisolino.alice@studenti.its.net;Diploma
+10892;Urzica;Dalia;11/06/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000892;urzica.dalia@studenti.its.net;Diploma
+10893;Tartaglia ochoa;Francesco;12/06/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000893;tartagliaochoa.francesco@studenti.its.net;Diploma
+10894;Santaromita villa;Alessia;13/06/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000894;santaromitavilla.alessia@studenti.its.net;Diploma
+10895;Toffanello;Fabio;14/06/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000895;toffanello.fabio@studenti.its.net;Diploma
+10896;Raso;Elisa;15/06/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000896;raso.elisa@studenti.its.net;Diploma
+10897;Saporito;Simona;16/06/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000897;saporito.simona@studenti.its.net;Diploma
+10898;Scuola;Controllipon;17/06/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000898;scuola.controllipon@studenti.its.net;Diploma
+10899;Putignani;Alessandro;18/06/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000899;putignani.alessandro@studenti.its.net;Diploma
+10900;Trampoli;Gabriele;19/06/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000900;trampoli.gabriele@studenti.its.net;Diploma
+10901;Semeraro;Dora;20/06/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000901;semeraro.dora@studenti.its.net;Diploma
+10902;Serra;Anna;21/06/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000902;serra.anna@studenti.its.net;Diploma
+10903;Vigorita;Alessandro;22/06/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000903;vigorita.alessandro@studenti.its.net;Diploma
+10904;Traversio;Sveva;23/06/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000904;traversio.sveva@studenti.its.net;Diploma
+10905;Trogu;Aaron;24/06/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000905;trogu.aaron@studenti.its.net;Diploma
+10906;Viel;Greta;25/06/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000906;viel.greta@studenti.its.net;Diploma
+10907;Volosin;Rebecca;26/06/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000907;volosin.rebecca@studenti.its.net;Diploma
+10908;Villella;Emanuele;27/06/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000908;villella.emanuele@studenti.its.net;Diploma
+10909;Rosotti;Alberto;28/06/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000909;rosotti.alberto@studenti.its.net;Diploma
+10910;Romano;Manuel;29/06/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000910;romano.manuel@studenti.its.net;Diploma
+10911;Ruffiero;Carlotta Rosa;30/06/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000911;ruffiero.carlottarosa@studenti.its.net;Diploma
+10912;Utzeri;Arianna;01/07/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000912;utzeri.arianna@studenti.its.net;Diploma
+10913;Zelli;Elena;02/07/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000913;zelli.elena@studenti.its.net;Diploma
+10914;Serra;Marina;03/07/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000914;serra.marina@studenti.its.net;Diploma
+10915;Ruffiero;Federico Pietro;04/07/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000915;ruffiero.federicopietro@studenti.its.net;Diploma
+10916;Utzeri;Davide;05/07/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000916;utzeri.davide@studenti.its.net;Diploma
+10917;Severino;Elisabetta;06/07/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000917;severino.elisabetta@studenti.its.net;Diploma
+10918;Radini;Safiria;07/07/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000918;radini.safiria@studenti.its.net;Diploma
+10919;Torbidone;Greta;08/07/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000919;torbidone.greta@studenti.its.net;Diploma
+10920;Pellegrini;Valentina;09/07/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000920;pellegrini.valentina@studenti.its.net;Diploma
+10921;Sgherza;Angela;10/07/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000921;sgherza.angela@studenti.its.net;Diploma
+10922;Scolamiero;Roberto;11/07/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000922;scolamiero.roberto@studenti.its.net;Diploma
+10923;Rocchi;Gianmarco;12/07/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000923;rocchi.gianmarco@studenti.its.net;Diploma
+10924;Sicari;Marina;13/07/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000924;sicari.marina@studenti.its.net;Diploma
+10925;Simari;Sabrina;14/07/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000925;simari.sabrina@studenti.its.net;Diploma
+10926;Scalera;Vittoria;15/07/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000926;scalera.vittoria@studenti.its.net;Diploma
+10927;Infanzia;sez A;16/07/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000927;infanzia.seza@studenti.its.net;Diploma
+10928;Tuberga;Maya;17/07/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000928;tuberga.maya@studenti.its.net;Diploma
+10929;Steccanella;Andrea;18/07/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000929;steccanella.andrea@studenti.its.net;Diploma
+10930;Sitzia;Lucia;19/07/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000930;sitzia.lucia@studenti.its.net;Diploma
+10931;Vaccariello;Daniele;20/07/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000931;vaccariello.daniele@studenti.its.net;Diploma
+10932;Sottile;Silvia;21/07/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000932;sottile.silvia@studenti.its.net;Diploma
+10933;Spagnuolo;Lorella;22/07/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000933;spagnuolo.lorella@studenti.its.net;Diploma
+10934;Sperini;Silvia;23/07/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000934;sperini.silvia@studenti.its.net;Diploma
+10935;Stallone;Claudia;24/07/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000935;stallone.claudia@studenti.its.net;Diploma
+10936;Stefani;Ilaria;25/07/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000936;stefani.ilaria@studenti.its.net;Diploma
+10937;Strocco;Simona;26/07/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000937;strocco.simona@studenti.its.net;Diploma
+10938;Tabone;Graziana;27/07/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000938;tabone.graziana@studenti.its.net;Diploma
+10939;Solano;Alessandro;28/07/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000939;solano.alessandro@studenti.its.net;Diploma
+10940;Zanellato;Matteo;29/07/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000940;zanellato.matteo@studenti.its.net;Diploma
+10941;Utzeri;Andrea;30/07/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000941;utzeri.andrea@studenti.its.net;Diploma
+10942;Santomartino;Sebastian;31/07/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000942;santomartino.sebastian@studenti.its.net;Diploma
+10943;Stopazzola;Giada;01/08/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000943;stopazzola.giada@studenti.its.net;Diploma
+10944;Visetti;Simone;02/08/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000944;visetti.simone@studenti.its.net;Diploma
+10945;Scicolone;Gabriele;03/08/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000945;scicolone.gabriele@studenti.its.net;Diploma
+10946;Steccanella;Gabriele;04/08/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000946;steccanella.gabriele@studenti.its.net;Diploma
+10947;Rullo;Vittoria;05/08/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000947;rullo.vittoria@studenti.its.net;Diploma
+10948;Vaccariello;Annalisa;06/08/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000948;vaccariello.annalisa@studenti.its.net;Diploma
+10949;Tuberga;Ryan;07/08/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000949;tuberga.ryan@studenti.its.net;Diploma
+10950;Russo;Sophie;08/08/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000950;russo.sophie@studenti.its.net;Diploma
+10951;Saporito;Vittoria;09/08/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000951;saporito.vittoria@studenti.its.net;Diploma
+10952;Ruzza;Alessio;10/08/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000952;ruzza.alessio@studenti.its.net;Diploma
+10953;Spiga;Elisabeth;11/08/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000953;spiga.elisabeth@studenti.its.net;Diploma
+10954;Scalera;Ginevra;12/08/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000954;scalera.ginevra@studenti.its.net;Diploma
+10955;Urzica;Leonard Nicolo';13/08/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000955;urzica.leonardnicolo@studenti.its.net;Diploma
+10956;Tartaglia;Paolo;14/08/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000956;tartaglia.paolo@studenti.its.net;Diploma
+10957;Tat�;Antonio;15/08/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000957;tat�.antonio@studenti.its.net;Diploma
+10958;Toraldo;Paola;16/08/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000958;toraldo.paola@studenti.its.net;Diploma
+10959;Tudosescu;Jonathan;17/08/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000959;tudosescu.jonathan@studenti.its.net;Diploma
+10960;Saporito;Annalisa;18/08/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000960;saporito.annalisa@studenti.its.net;Diploma
+10961;Toson;Roberta;19/08/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000961;toson.roberta@studenti.its.net;Diploma
+10962;Tugnolo;Gessica;20/08/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000962;tugnolo.gessica@studenti.its.net;Diploma
+10963;Turco;Francesco;21/08/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000963;turco.francesco@studenti.its.net;Diploma
+10964;Turino;Francesco;22/08/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000964;turino.francesco@studenti.its.net;Diploma
+10965;Toffanello;Ilaria;23/08/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000965;toffanello.ilaria@studenti.its.net;Diploma
+10966;Scozzaro;Daniele;24/08/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000966;scozzaro.daniele@studenti.its.net;Diploma
+10967;Zanon;Melissa;25/08/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000967;zanon.melissa@studenti.its.net;Diploma
+10968;Vaccarella;Adelaide;26/08/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000968;vaccarella.adelaide@studenti.its.net;Diploma
+10969;Uricchio;Antonia;27/08/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000969;uricchio.antonia@studenti.its.net;Diploma
+10970;Tugnolo;Mattia;28/08/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000970;tugnolo.mattia@studenti.its.net;Diploma
+10971;Utente;prova;29/08/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000971;utente.prova@studenti.its.net;Diploma
+10972;Vair;Clizia;30/08/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000972;vair.clizia@studenti.its.net;Diploma
+10973;Zucco;Aurora;31/08/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000973;zucco.aurora@studenti.its.net;Diploma
+10974;Viel;Giorgia;01/09/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000974;viel.giorgia@studenti.its.net;Diploma
+10975;Wahd;Martina;02/09/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000975;wahd.martina@studenti.its.net;Diploma
+10976;Zugno;Chiara;03/09/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000976;zugno.chiara@studenti.its.net;Diploma
+10977;Schipor;Damian;04/09/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000977;schipor.damian@studenti.its.net;Diploma
+10978;Valentino;Nicol�;05/09/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000978;valentino.nicol�@studenti.its.net;Diploma
+10979;Varvello;Francesca;06/09/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000979;varvello.francesca@studenti.its.net;Diploma
+10980;Vozza;Chiara;07/09/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000980;vozza.chiara@studenti.its.net;Diploma
+10981;Zaramella;Denis;08/09/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000981;zaramella.denis@studenti.its.net;Diploma
+10982;Viviani;Alberto;09/09/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000982;viviani.alberto@studenti.its.net;Diploma
+10983;Santella;Giorgia;10/09/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000983;santella.giorgia@studenti.its.net;Diploma
+10984;Vayr;Giulia;11/09/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000984;vayr.giulia@studenti.its.net;Diploma
+10985;Tinaglia;Sofia;12/09/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000985;tinaglia.sofia@studenti.its.net;Diploma
+10986;Ventura;Lina;13/09/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000986;ventura.lina@studenti.its.net;Diploma
+10987;Vasii;Ana Maria;14/09/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000987;vasii.anamaria@studenti.its.net;Diploma
+10988;Vercellino;Irene;15/09/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000988;vercellino.irene@studenti.its.net;Diploma
+10989;Verduci;Stefania;16/09/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000989;verduci.stefania@studenti.its.net;Diploma
+10990;Toselli;Flavio;17/09/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000990;toselli.flavio@studenti.its.net;Diploma
+10991;Vinassa;Luca;18/09/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000991;vinassa.luca@studenti.its.net;Diploma
+10992;Tassone;Venere;19/09/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000992;tassone.venere@studenti.its.net;Diploma
+10993;Spinelli;Gaia;20/09/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000993;spinelli.gaia@studenti.its.net;Diploma
+10994;Vinci;Giuseppina;21/09/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000994;vinci.giuseppina@studenti.its.net;Diploma
+10995;Salatino;Beatrice;22/09/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000995;salatino.beatrice@studenti.its.net;Diploma
+10996;Wisdom;Gift;23/09/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000996;wisdom.gift@studenti.its.net;Diploma
+10997;Viola;Alessandro;24/09/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000997;viola.alessandro@studenti.its.net;Diploma
+10998;Scozzaro;Mattia;25/09/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000998;scozzaro.mattia@studenti.its.net;Diploma
+10999;Tiozzo;Rebecca;26/09/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300000999;tiozzo.rebecca@studenti.its.net;Diploma
+11000;Tarricone;Filippo;27/09/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001000;tarricone.filippo@studenti.its.net;Diploma
+11001;Zampa;Martina;28/09/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001001;zampa.martina@studenti.its.net;Diploma
+11002;Zammitti;Riccardo;29/09/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001002;zammitti.riccardo@studenti.its.net;Diploma
+11003;Vaccari;Moreno;30/09/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001003;vaccari.moreno@studenti.its.net;Diploma
+11004;Zampese;Matilde;01/10/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001004;zampese.matilde@studenti.its.net;Diploma
+11005;Tome';Kevin;02/10/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001005;tome.kevin@studenti.its.net;Diploma
+11006;Zurba;Stefano;03/10/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001006;zurba.stefano@studenti.its.net;Diploma
+11007;Vinella;Alessandra;04/10/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001007;vinella.alessandra@studenti.its.net;Diploma
+11008;Siciliano;Jacopo;05/10/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001008;siciliano.jacopo@studenti.its.net;Diploma
+11009;Tartaglia ochoa;Alessia;06/10/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001009;tartagliaochoa.alessia@studenti.its.net;Diploma
+11010;Vasii;Denisa Andreia;07/10/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001010;vasii.denisaandreia@studenti.its.net;Diploma
+11011;Zamboni;Dario;08/10/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001011;zamboni.dario@studenti.its.net;Diploma
+11012;Torbidone;Walter;09/10/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001012;torbidone.walter@studenti.its.net;Diploma
+11013;Vittoria;Annamaria;10/10/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001013;vittoria.annamaria@studenti.its.net;Diploma
+11014;Zangara;Simona;11/10/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001014;zangara.simona@studenti.its.net;Diploma
+11015;Wisdom;Daniel;12/10/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001015;wisdom.daniel@studenti.its.net;Diploma
+11016;Baglietto;Luca;13/10/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001016;baglietto.luca@studenti.its.it;Diploma
+11017;Bamber;James;14/10/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001017;bamber.james@studenti.its.it;Diploma
+11018;Lombardo;Alessandro;15/10/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001018;lombardo.alessandro@studenti.its.it;Diploma
+11019;Arcari;Matteo;16/10/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001019;arcari.matteo@studenti.its.it;Diploma
+11020;Vercellesi;Francesco;17/10/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001020;vercellesi.francesco@studenti.its.it;Diploma
+11021;Iannaccone;Matilde;18/10/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001021;iannaccone.matilde@studenti.its.it;Diploma
+11022;Masi;Glauco;19/10/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001022;masi.glauco@studenti.its.it;Diploma
+11023;Blandino;Federico;20/10/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001023;blandino.federico@studenti.its.it;Diploma
+11024;Farcas;Alessandro;21/10/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001024;farcas.alessandro@studenti.its.it;Diploma
+11025;Soldati;Elia;22/10/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001025;soldati.elia@studenti.its.it;Diploma
+11026;Tornaghi;Lavinia;23/10/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001026;tornaghi.lavinia@studenti.its.it;Diploma
+11027;Drago;Leonardo;24/10/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001027;drago.leonardo@studenti.its.it;Diploma
+11028;Di gregorio;Francesco Damiano;25/10/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001028;digregorio.francescodamiano@studenti.its.it;Diploma
+11029;Maraghi;Sofia;26/10/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001029;maraghi.sofia@studenti.its.it;Diploma
+11030;Ali;Maher;27/10/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001030;ali.maher@studenti.its.net;Diploma
+11031;Re;Matteo;28/10/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001031;re.matteo@studenti.its.net;Diploma
+11032;Dema;Alessandro;29/10/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001032;dema.alessandro@studenti.its.net;Diploma
+11033;Rania;Daniele;30/10/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001033;rania.daniele@studenti.its.net;Diploma
+11034;Mansoury;Nizar;31/10/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001034;mansoury.nizar@studenti.its.net;Diploma
+11035;Pagliuca;Mattia;01/11/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001035;pagliuca.mattia@studenti.its.net;Diploma
+11036;Morbelli;Simone;02/11/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001036;morbelli.simone@studenti.its.net;Diploma
+11037;Santangelo;Samuel;03/11/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001037;santangelo.samuel@studenti.its.net;Diploma
+11038;Magri;Alessandro;04/11/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001038;magri.alessandro@studenti.its.net;Diploma
+11039;Mirenzi;Alessandro;05/11/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001039;mirenzi.alessandro@studenti.its.net;Diploma
+11040;Caruso;Daniele;06/11/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001040;caruso.daniele@studenti.its.net;Diploma
+11041;Serra;Manuel;07/11/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001041;serra.manuel@studenti.its.net;Diploma
+11042;Orlando;Simone;08/11/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001042;orlando.simone@studenti.its.net;Diploma
+11043;Aragona;Angelo;09/11/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001043;aragona.angelo@studenti.its.net;Diploma
+11044;Destito;Giulia;10/11/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001044;destito.giulia@studenti.its.net;Diploma
+11045;Marchese;Andrea;11/11/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001045;marchese.andrea@studenti.its.net;Diploma
+11046;Viscuso;Simona;12/11/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001046;viscuso.simona@studenti.its.net;Diploma
+11047;Ferrari;Giacomo;13/11/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001047;ferrari.giacomo@studenti.its.net;Diploma
+11048;Salvaggio;Salvatore;14/11/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001048;salvaggio.salvatore@studenti.its.net;Diploma
+11049;Romanelli;Cristina;15/11/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001049;romanelli.cristina@studenti.its.net;Diploma
+11050;Arena;Daniela;16/11/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001050;arena.daniela@studenti.its.net;Diploma
+11051;Trapanitto;Gaetana;17/11/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001051;trapanitto.gaetana@studenti.its.net;Diploma
+11052;Richilchi;Caterina;18/11/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001052;richilchi.caterina@studenti.its.net;Diploma
+11053;Milidoni;Saverio;19/11/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001053;milidoni.saverio@studenti.its.net;Diploma
+11054;Derosa;Giovanni;20/11/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001054;derosa.giovanni@studenti.its.net;Diploma
+11055;Iannacone;Maria;21/11/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001055;iannacone.maria@studenti.its.net;Diploma
+11056;Mangone;Melissa;22/11/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001056;mangone.melissa@studenti.its.net;Diploma
+11057;Solito;Ornella;23/11/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001057;solito.ornella@studenti.its.net;Diploma
+11058;Lanzara;Giuseppe;24/11/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001058;lanzara.giuseppe@studenti.its.net;Diploma
+11059;Conigliaro;Ilaria;25/11/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001059;conigliaro.ilaria@studenti.its.net;Diploma
+11060;Graziano;Tiziano;26/11/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001060;graziano.tiziano@studenti.its.net;Diploma
+11061;Russo;Pasquale;27/11/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001061;russo.pasquale@studenti.its.net;Diploma
+11062;Petrolio;Basilio;28/11/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001062;petrolio.basilio@studenti.its.net;Diploma
+11063;Maruccio;Giuliana;29/11/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001063;maruccio.giuliana@studenti.its.net;Diploma
+11064;Sgroi;Giuseppe;30/11/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001064;sgroi.giuseppe@studenti.its.net;Diploma
+11065;Notarangelo;Maria;01/12/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001065;notarangelo.maria@studenti.its.net;Diploma
+11066;Perillo;Pasquale;02/12/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001066;perillo.pasquale@studenti.its.net;Diploma
+11067;Luzzi;Daniela;03/12/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001067;luzzi.daniela@studenti.its.net;Diploma
+11068;Andronico;Salvatore;04/12/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001068;andronico.salvatore@studenti.its.net;Diploma
+11069;Pulvirenti;Alessandro;05/12/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001069;pulvirenti.alessandro@studenti.its.net;Diploma
+11070;Puglisi;Rosario;06/12/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001070;puglisi.rosario@studenti.its.net;Diploma
+11071;Trovato;Sebastiano;07/12/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001071;trovato.sebastiano@studenti.its.net;Diploma
+11072;Carani;Dario Angelo;08/12/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001072;carani.darioangelo@studenti.its.net;Diploma
+11073;Pradotti;Diego;09/12/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001073;pradotti.diego@studenti.its.net;Diploma
+11074;Marino;Salvatore Pio;10/12/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001074;marino.salvatorepio@studenti.its.net;Diploma
+11075;Matteu;Luigi;11/12/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001075;matteu.luigi@studenti.its.net;Diploma
+11076;Centamore;Mattia;12/12/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001076;centamore.mattia@studenti.its.net;Diploma
+11077;Pagano;Gabriele;13/12/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001077;pagano.gabriele@studenti.its.net;Diploma
+11078;Finocchiaro;Walter;14/12/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001078;finocchiaro.walter@studenti.its.net;Diploma
+11079;Leotta;Alberto;15/12/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001079;leotta.alberto@studenti.its.net;Diploma
+11080;Crisa;Michele;16/12/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001080;crisa.michele@studenti.its.net;Diploma
+11081;Campione;Ilenia;17/12/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001081;campione.ilenia@studenti.its.net;Diploma
+11082;Trovato;Giovanni;18/12/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001082;trovato.giovanni@studenti.its.net;Diploma
+11083;Rapisarda;Danilo;19/12/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001083;rapisarda.danilo@studenti.its.net;Diploma
+11084;Zappala;Francesco;20/12/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001084;zappala.francesco@studenti.its.net;Diploma
+11085;Strano;Riccardo;21/12/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001085;strano.riccardo@studenti.its.net;Diploma
+11086;Contarino;Rachele;22/12/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001086;contarino.rachele@studenti.its.net;Diploma
+11087;Battiato;Mattia;23/12/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001087;battiato.mattia@studenti.its.net;Diploma
+11088;Pavone;Francesco;24/12/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001088;pavone.francesco@studenti.its.net;Diploma
+11089;Sarakula;Daniele;25/12/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001089;sarakula.daniele@studenti.its.net;Diploma
+11090;Di salvo;Christian;26/12/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001090;disalvo.christian@studenti.its.net;Diploma
+11091;Leotta;Flavio;27/12/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001091;leotta.flavio@studenti.its.net;Diploma
+11092;Petraschi;Simone;28/12/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001092;petraschi.simone@studenti.its.net;Diploma
+11093;Mamo;Feven Tilahun;29/12/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001093;mamo.feventilahun@studenti.its.net;Diploma
+11094;Amde;Redet Tsegaye;30/12/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001094;amde.redettsegaye@studenti.its.net;Diploma
+11095;Francioni;Jonathan;31/12/2002;Torino;Via Cibrario, NN;10143;Torino;TO;3300001095;francioni.jonathan@studenti.its.net;Diploma
+11096;Redai;Adonay Dawit;01/01/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001096;redai.adonaydawit@studenti.its.net;Diploma
+11097;Tarekegn;Helen Manaye;02/01/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001097;tarekegn.helenmanaye@studenti.its.net;Diploma
+11098;Kelil;Kelude Hadi;03/01/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001098;kelil.keludehadi@studenti.its.net;Diploma
+11099;Tarekegn;Samuel Manaye;04/01/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001099;tarekegn.samuelmanaye@studenti.its.net;Diploma
+11100;Feliche;Yonatan Yoseph;05/01/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001100;feliche.yonatanyoseph@studenti.its.net;Diploma
+11101;Nguse;Mikael Haylu;06/01/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001101;nguse.mikaelhaylu@studenti.its.net;Diploma
+11102;Atnafu;Neftalem Tamirat;07/01/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001102;atnafu.neftalemtamirat@studenti.its.net;Diploma
+11103;Zeray;Asena Yonas;08/01/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001103;zeray.asenayonas@studenti.its.net;Diploma
+11104;Bekele;Nardos Berhamu;09/01/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001104;bekele.nardosberhamu@studenti.its.net;Diploma
+11105;Gizaw;Abraham Asres;10/01/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001105;gizaw.abrahamasres@studenti.its.net;Diploma
+11106;Leka;Ruth Dagne;11/01/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001106;leka.ruthdagne@studenti.its.net;Diploma
+11107;Tsige;Enbakom Sisay;12/01/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001107;tsige.enbakomsisay@studenti.its.net;Diploma
+11108;Reday;Dina Dawit;13/01/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001108;reday.dinadawit@studenti.its.net;Diploma
+11109;Gebre;Angela;14/01/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001109;gebre.angela@studenti.its.net;Diploma
+11110;Amare;Amen Getnet;15/01/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001110;amare.amengetnet@studenti.its.net;Diploma
+11111;Hailemariam;Amanuel Worku;16/01/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001111;hailemariam.amanuelworku@studenti.its.net;Diploma
+11112;Tegegne;Tesfaye;17/01/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001112;tegegne.tesfaye@studenti.its.net;Diploma
+11113;Yehlawork;Rina Yared;18/01/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001113;yehlawork.rinayared@studenti.its.net;Diploma
+11114;Dario;Yoseph Abebe;19/01/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001114;dario.yosephabebe@studenti.its.net;Diploma
+11115;Michael;Messay Yared;20/01/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001115;michael.messayyared@studenti.its.net;Diploma
+11116;Woubeshet;Girum Fiseha;21/01/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001116;woubeshet.girumfiseha@studenti.its.net;Diploma
+11117;Daddi;Samuel Hunde;22/01/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001117;daddi.samuelhunde@studenti.its.net;Diploma
+11118;Michael;Hiruy Yared;23/01/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001118;michael.hiruyyared@studenti.its.net;Diploma
+11119;Stissi;Damiano Maria;24/01/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001119;stissi.damianomaria@studenti.its.net;Diploma
+11120;Moncinino;Salvatore;25/01/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001120;moncinino.salvatore@studenti.its.net;Diploma
+11121;Leocata;Daniele Alfredo;26/01/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001121;leocata.danielealfredo@studenti.its.net;Diploma
+11122;Diolica;Mattia;27/01/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001122;diolica.mattia@studenti.its.net;Diploma
+11123;Finocchiaro;Salvatore;28/01/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001123;finocchiaro.salvatore@studenti.its.net;Diploma
+11124;Verzi;Gianluca Nuyan;29/01/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001124;verzi.gianlucanuyan@studenti.its.net;Diploma
+11125;Maiello;Giuseppe;30/01/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001125;maiello.giuseppe@studenti.its.net;Diploma
+11126;Bassolino;Daniele Donato;31/01/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001126;bassolino.danieledonato@studenti.its.net;Diploma
+11127;Dong;Chong Wen;01/02/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001127;dong.chongwen@studenti.its.net;Diploma
+11128;Piscopo;Mattia;02/02/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001128;piscopo.mattia@studenti.its.net;Diploma
+11129;Laurenza;Alessandro;03/02/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001129;laurenza.alessandro@studenti.its.net;Diploma
+11130;Romano;Carmela;04/02/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001130;romano.carmela@studenti.its.net;Diploma
+11131;Lamontagna;Giuseppe;05/02/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001131;lamontagna.giuseppe@studenti.its.net;Diploma
+11132;Chioccarelli;Nicola;06/02/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001132;chioccarelli.nicola@studenti.its.net;Diploma
+11133;Maglione;Antonio;07/02/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001133;maglione.antonio@studenti.its.net;Diploma
+11134;Anastasio;Giovanmatteo;08/02/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001134;anastasio.giovanmatteo@studenti.its.net;Diploma
+11135;D'acunto;Andrea;09/02/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001135;dacunto.andrea@studenti.its.net;Diploma
+11136;Russo;Gianluigi;10/02/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001136;russo.gianluigi@studenti.its.net;Diploma
+11137;Adinolfi;Antonio;11/02/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001137;adinolfi.antonio@studenti.its.net;Diploma
+11138;Costanzo;Onorato Gabriele;12/02/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001138;costanzo.onoratogabriele@studenti.its.net;Diploma
+11139;Roselli;Francesco Pio;13/02/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001139;roselli.francescopio@studenti.its.net;Diploma
+11140;Ucciero;Giuseppe;14/02/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001140;ucciero.giuseppe@studenti.its.net;Diploma
+11141;D'auria;Enrico;15/02/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001141;dauria.enrico@studenti.its.net;Diploma
+11142;Cerbone;Gerardo;16/02/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001142;cerbone.gerardo@studenti.its.net;Diploma
+11143;Iavazzo;Giuseppe;17/02/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001143;iavazzo.giuseppe@studenti.its.net;Diploma
+11144;Del gaudio;Vincenzo;18/02/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001144;delgaudio.vincenzo@studenti.its.net;Diploma
+11145;Del mondo;Augusto;19/02/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001145;delmondo.augusto@studenti.its.net;Diploma
+11146;Cafaro dei riardi;Antonio;20/02/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001146;cafarodeiriardi.antonio@studenti.its.net;Diploma
+11147;Tuccillo;Francesco Pio;21/02/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001147;tuccillo.francescopio@studenti.its.net;Diploma
+11148;Fiorica;Marco;22/02/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001148;fiorica.marco@studenti.its.net;Diploma
+11149;Sutera sardo;Vincenzo;23/02/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001149;suterasardo.vincenzo@studenti.its.net;Diploma
+11150;Zheng;Steven;24/02/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001150;zheng.steven@studenti.its.net;Diploma
+11151;Fiannaca;Giovanni;25/02/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001151;fiannaca.giovanni@studenti.its.net;Diploma
+11152;Zirafa;Simone;26/02/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001152;zirafa.simone@studenti.its.net;Diploma
+11153;Bonsignore;Pasquale Savio;27/02/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001153;bonsignore.pasqualesavio@studenti.its.net;Diploma
+11154;Moscato;Francesco;28/02/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001154;moscato.francesco@studenti.its.net;Diploma
+11155;Ferrera;Calton;01/03/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001155;ferrera.calton@studenti.its.net;Diploma
+11156;Franco jaramillo;Mateo;02/03/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001156;francojaramillo.mateo@studenti.its.net;Diploma
+11157;Traina;Beatrice;03/03/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001157;traina.beatrice@studenti.its.net;Diploma
+11158;Noto campanella;Alfonso;04/03/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001158;notocampanella.alfonso@studenti.its.net;Diploma
+11159;Burgio;Manuel;05/03/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001159;burgio.manuel@studenti.its.net;Diploma
+11160;Sarchioto;Michele;06/03/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001160;sarchioto.michele@studenti.its.net;Diploma
+11161;Massaro;Carmen;07/03/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001161;massaro.carmen@studenti.its.net;Diploma
+11162;Reale;Mirko;08/03/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001162;reale.mirko@studenti.its.net;Diploma
+11163;Zhang;Tingfeng;09/03/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001163;zhang.tingfeng@studenti.its.net;Diploma
+11164;Patrucco;Valerio;10/03/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001164;patrucco.valerio@studenti.its.net;Diploma
+11165;Alberti;Michele;11/03/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001165;alberti.michele@studenti.its.net;Diploma
+11166;Lusso;Cecilia;12/03/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001166;lusso.cecilia@studenti.its.net;Diploma
+11167;Lualdi;Edo;13/03/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001167;lualdi.edo@studenti.its.net;Diploma
+11168;Pala;Alessandro;14/03/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001168;pala.alessandro@studenti.its.net;Diploma
+11169;Rai;Jatin;15/03/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001169;rai.jatin@studenti.its.net;Diploma
+11170;Ballico;Alessandro;16/03/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001170;ballico.alessandro@studenti.its.net;Diploma
+11171;Basso;Luca;17/03/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001171;basso.luca@studenti.its.net;Diploma
+11172;Falossi;Tiziano;18/03/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001172;falossi.tiziano@studenti.its.net;Diploma
+11173;Sbronzeri;Simone;19/03/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001173;sbronzeri.simone@studenti.its.net;Diploma
+11174;Nica;Gabriele;20/03/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001174;nica.gabriele@studenti.its.net;Diploma
+11175;Revolti;Gabriele;21/03/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001175;revolti.gabriele@studenti.its.net;Diploma
+11176;Fontana;Alessio;22/03/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001176;fontana.alessio@studenti.its.net;Diploma
+11177;Scascitelli;Edoardo;23/03/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001177;scascitelli.edoardo@studenti.its.net;Diploma
+11178;Friano;Karol;24/03/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001178;friano.karol@studenti.its.net;Diploma
+11179;Tassa;Manuel;25/03/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001179;tassa.manuel@studenti.its.net;Diploma
+11180;Fantini;Jacopo;26/03/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001180;fantini.jacopo@studenti.its.net;Diploma
+11181;Lisi;Alessandro;27/03/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001181;lisi.alessandro@studenti.its.net;Diploma
+11182;Papandrea;Samuele;28/03/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001182;papandrea.samuele@studenti.its.net;Diploma
+11183;Xhemolari;Eduard;29/03/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001183;xhemolari.eduard@studenti.its.net;Diploma
+11184;Maci;Marco;30/03/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001184;maci.marco@studenti.its.net;Diploma
+11185;Benassi;Riccardo;31/03/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001185;benassi.riccardo@studenti.its.net;Diploma
+11186;Quatrana;Simone;01/04/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001186;quatrana.simone@studenti.its.net;Diploma
+11187;De pino;Cristian;02/04/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001187;depino.cristian@studenti.its.net;Diploma
+11188;Macciocca;Alberto;03/04/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001188;macciocca.alberto@studenti.its.net;Diploma
+11189;Pelorossi;Cristiano;04/04/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001189;pelorossi.cristiano@studenti.its.net;Diploma
+11190;Giovannetti;Andrea;05/04/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001190;giovannetti.andrea@studenti.its.net;Diploma
+11191;Minotti;Diego;06/04/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001191;minotti.diego@studenti.its.net;Diploma
+11192;Di lauro;Francesco;07/04/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001192;dilauro.francesco@studenti.its.net;Diploma
+11193;Marcoccia;Danilo;08/04/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001193;marcoccia.danilo@studenti.its.net;Diploma
+11194;Fontana;Sara;09/04/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001194;fontana.sara@studenti.its.net;Diploma
+11195;Martinelli;Luca;10/04/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001195;martinelli.luca@studenti.its.net;Diploma
+11196;Leoni;Cristiano;11/04/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001196;leoni.cristiano@studenti.its.net;Diploma
+11197;Pica;Diego;12/04/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001197;pica.diego@studenti.its.net;Diploma
+11198;Frioni;Federico;13/04/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001198;frioni.federico@studenti.its.net;Diploma
+11199;Sangiovanni;Alessandro;14/04/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001199;sangiovanni.alessandro@studenti.its.net;Diploma
+11200;Di paola;Matteo;15/04/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001200;dipaola.matteo@studenti.its.net;Diploma
+11201;Misino;Francesco;16/04/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001201;misino.francesco@studenti.its.net;Diploma
+11202;Renzi;Gianluigi;17/04/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001202;renzi.gianluigi@studenti.its.net;Diploma
+11203;Gabutti;Federico;18/04/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001203;gabutti.federico@studenti.its.net;Diploma
+11204;Stamenkovski;Kevin;19/04/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001204;stamenkovski.kevin@studenti.its.net;Diploma
+11205;Basso;Marco;20/04/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001205;basso.marco@studenti.its.net;Diploma
+11206;Giacosa;Andrea;21/04/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001206;giacosa.andrea@studenti.its.net;Diploma
+11207;Boarino;Vanessa Azzurra;22/04/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001207;boarino.vanessaazzurra@studenti.its.net;Diploma
+11208;Boffa;Sathya;23/04/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001208;boffa.sathya@studenti.its.net;Diploma
+11209;Currado;Filippo;24/04/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001209;currado.filippo@studenti.its.net;Diploma
+11210;Pavese;Matteo;25/04/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001210;pavese.matteo@studenti.its.net;Diploma
+11211;Eirale;Emanuele;26/04/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001211;eirale.emanuele@studenti.its.net;Diploma
+11212;Giordano;Simone;27/04/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001212;giordano.simone@studenti.its.net;Diploma
+11213;Vignola;Arianna;28/04/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001213;vignola.arianna@studenti.its.net;Diploma
+11214;Masuello;Beatrice;29/04/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001214;masuello.beatrice@studenti.its.net;Diploma
+11215;Fontana;Edoardo;30/04/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001215;fontana.edoardo@studenti.its.net;Diploma
+11216;Revello;Leonardo;01/05/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001216;revello.leonardo@studenti.its.net;Diploma
+11217;Marenco;Lorenzo;02/05/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001217;marenco.lorenzo@studenti.its.net;Diploma
+11218;Silvestro;Matteo;03/05/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001218;silvestro.matteo@studenti.its.net;Diploma
+11219;Cocino;Gabriele;04/05/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001219;cocino.gabriele@studenti.its.net;Diploma
+11220;Carleo;Mauro;05/05/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001220;carleo.mauro@studenti.its.net;Diploma
+11221;Feciale;Petra;06/05/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001221;feciale.petra@studenti.its.net;Diploma
+11222;Rora;Gioele;07/05/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001222;rora.gioele@studenti.its.net;Diploma
+11223;Sigliano;Sofia;08/05/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001223;sigliano.sofia@studenti.its.net;Diploma
+11224;Morando;Pietro;09/05/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001224;morando.pietro@studenti.its.net;Diploma
+11225;Demidovich;Alexander;10/05/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001225;demidovich.alexander@studenti.its.net;Diploma
+11226;Cappellin;Alessandro;11/05/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001226;cappellin.alessandro@studenti.its.net;Diploma
+11227;Vaccarezza;Emanuele;12/05/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001227;vaccarezza.emanuele@studenti.its.net;Diploma
+11228;Zito;Simone;13/05/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001228;zito.simone@studenti.its.net;Diploma
+11229;Conte;Valerio;14/05/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001229;conte.valerio@studenti.its.net;Diploma
+11230;Marrasse;Badr;15/05/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001230;marrasse.badr@studenti.its.net;Diploma
+11231;Scola;Marco;16/05/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001231;scola.marco@studenti.its.net;Diploma
+11232;Iannelli;Matilde;17/05/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001232;iannelli.matilde@studenti.its.net;Diploma
+11233;Montano;Francesco;18/05/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001233;montano.francesco@studenti.its.net;Diploma
+11234;Munna;Giuseppe Davide;19/05/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001234;munna.giuseppedavide@studenti.its.net;Diploma
+11235;Cacciatore;Manuel;20/05/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001235;cacciatore.manuel@studenti.its.net;Diploma
+11236;Calvaruso;Riccardo;21/05/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001236;calvaruso.riccardo@studenti.its.net;Diploma
+11237;Mazzurco;Gabriele;22/05/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001237;mazzurco.gabriele@studenti.its.net;Diploma
+11238;Pirrone;Vincenzo;23/05/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001238;pirrone.vincenzo@studenti.its.net;Diploma
+11239;Liotta;Raimondo;24/05/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001239;liotta.raimondo@studenti.its.net;Diploma
+11240;La fata;Giuseppe Francesco;25/05/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001240;lafata.giuseppefrancesco@studenti.its.net;Diploma
+11241;Cruciata;Alexander;26/05/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001241;cruciata.alexander@studenti.its.net;Diploma
+11242;Vaccaro notte;Pietro Davide;27/05/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001242;vaccaronotte.pietrodavide@studenti.its.net;Diploma
+11243;Abate;Carla Rita;28/05/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001243;abate.carlarita@studenti.its.net;Diploma
+11244;Galioto;Giorgio;29/05/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001244;galioto.giorgio@studenti.its.net;Diploma
+11245;Ezzaym;Ali;30/05/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001245;ezzaym.ali@studenti.its.net;Diploma
+11246;Manzella;Vincenzo Emanuele;31/05/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001246;manzella.vincenzoemanuele@studenti.its.net;Diploma
+11247;Mannina;Davide;01/06/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001247;mannina.davide@studenti.its.net;Diploma
+11248;Romano;Gabriele;02/06/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001248;romano.gabriele@studenti.its.net;Diploma
+11249;Cusumano;Vincenzo;03/06/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001249;cusumano.vincenzo@studenti.its.net;Diploma
+11250;Cataldo;Fabio;04/06/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001250;cataldo.fabio@studenti.its.net;Diploma
+11251;Calderone;Fortunato;05/06/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001251;calderone.fortunato@studenti.its.net;Diploma
+11252;Raiano;Vanessa;06/06/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001252;raiano.vanessa@studenti.its.net;Diploma
+11253;Saullo;Filippo;07/06/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001253;saullo.filippo@studenti.its.net;Diploma
+11254;Pipitone;Alessandra;08/06/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001254;pipitone.alessandra@studenti.its.net;Diploma
+11255;Cusumano;Filippo Karol;09/06/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001255;cusumano.filippokarol@studenti.its.net;Diploma
+11256;Miciletto;Francesco;10/06/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001256;miciletto.francesco@studenti.its.net;Diploma
+11257;Vaccaro;Stefano;11/06/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001257;vaccaro.stefano@studenti.its.net;Diploma
+11258;Giuliani;Piero;12/06/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001258;giuliani.piero@studenti.its.net;Diploma
+11259;De stena;Laura;13/06/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001259;destena.laura@studenti.its.net;Diploma
+11260;Caruso;Giulia;14/06/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001260;caruso.giulia@studenti.its.net;Diploma
+11261;Cocco;Francesco;15/06/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001261;cocco.francesco@studenti.its.net;Diploma
+11262;Marchese;Giulio;16/06/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001262;marchese.giulio@studenti.its.net;Diploma
+11263;Marchesato;Mauro;17/06/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001263;marchesato.mauro@studenti.its.net;Diploma
+11264;Conciello;Murizio;18/06/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001264;conciello.murizio@studenti.its.net;Diploma
+11265;De blasi;Andrea;19/06/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001265;deblasi.andrea@studenti.its.net;Diploma
+11266;Di stefano;Lorena;20/06/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001266;distefano.lorena@studenti.its.net;Diploma
+11267;Balocco;Maria;21/06/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001267;balocco.maria@studenti.its.net;Diploma
+11268;Barlocco;Francesca;22/06/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001268;barlocco.francesca@studenti.its.net;Diploma
+11269;Casini;Giuliana;23/06/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001269;casini.giuliana@studenti.its.net;Diploma
+11270;Sampietro;Silvia;24/06/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001270;sampietro.silvia@studenti.its.net;Diploma
+11271;Cerrina;Simone;25/06/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001271;cerrina.simone@studenti.its.net;Diploma
+11272;Cesco;Francesco;26/06/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001272;cesco.francesco@studenti.its.net;Diploma
+11273;Alibrando;Roberto;27/06/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001273;alibrando.roberto@studenti.its.net;Diploma
+11274;Alibrandi;Roberta;28/06/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001274;alibrandi.roberta@studenti.its.net;Diploma
+11275;Cataldi;Andrea;29/06/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001275;cataldi.andrea@studenti.its.net;Diploma
+11276;Carli;Anna;30/06/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001276;carli.anna@studenti.its.net;Diploma
+11277;Carletto;Antonio;01/07/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001277;carletto.antonio@studenti.its.net;Diploma
+11278;Carlino;Lorena;02/07/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001278;carlino.lorena@studenti.its.net;Diploma
+11279;Carlini;Loretta;03/07/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001279;carlini.loretta@studenti.its.net;Diploma
+11280;Coluccio;Roberto;04/07/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001280;coluccio.roberto@studenti.its.net;Diploma
+11281;Gianfri;Francesco;05/07/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001281;gianfri.francesco@studenti.its.net;Diploma
+11282;Giacobbe;Alessandro;06/07/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001282;giacobbe.alessandro@studenti.its.net;Diploma
+11283;Cau;Valerio;07/07/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001283;cau.valerio@studenti.its.net;Diploma
+11284;Dattola;Andrea;08/07/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001284;dattola.andrea@studenti.its.net;Diploma
+11285;Dattilo;Roberta;09/07/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001285;dattilo.roberta@studenti.its.net;Diploma
+11286;Dorianello;Alessandra;10/07/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001286;dorianello.alessandra@studenti.its.net;Diploma
+11287;Miglio;Alessandro;11/07/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001287;miglio.alessandro@studenti.its.net;Diploma
+11288;Maglie;Andrea;12/07/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001288;maglie.andrea@studenti.its.net;Diploma
+11289;Moglie;Maria;13/07/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001289;moglie.maria@studenti.its.net;Diploma
+11290;Sturari;Alessandra;14/07/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001290;sturari.alessandra@studenti.its.net;Diploma
+11291;Sturello;Francesco;15/07/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001291;sturello.francesco@studenti.its.net;Diploma
+11292;Zaccone;Giuseppe;16/07/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001292;zaccone.giuseppe@studenti.its.net;Diploma
+11293;Zito;Roberto;17/07/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001293;zito.roberto@studenti.its.net;Diploma
+11294;Zucco;Alessandra;18/07/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001294;zucco.alessandra@studenti.its.net;Diploma
+11295;Zazzera;Francesca;19/07/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001295;zazzera.francesca@studenti.its.net;Diploma
+11296;Paolillo;Andrea;20/07/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001296;paolillo.andrea@studenti.its.net;Diploma
+11297;Paone;Alessandra;21/07/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001297;paone.alessandra@studenti.its.net;Diploma
+11298;Paoletti;Simone;22/07/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001298;paoletti.simone@studenti.its.net;Diploma
+11299;Pollo;Gennaro;23/07/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001299;pollo.gennaro@studenti.its.net;Diploma
+11300;Capra;Anna;24/07/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001300;capra.anna@studenti.its.net;Diploma
+11301;Cipro;Antonio;25/07/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001301;cipro.antonio@studenti.its.net;Diploma
+11302;Coppola;Simone;26/07/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001302;coppola.simone@studenti.its.net;Diploma
+11303;Chiapello;Andrea;27/07/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001303;chiapello.andrea@studenti.its.net;Diploma
+11304;Chieppa;Giacomo;28/07/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001304;chieppa.giacomo@studenti.its.net;Diploma
+11305;Cosco;Silvia;29/07/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001305;cosco.silvia@studenti.its.net;Diploma
+11306;Casco;Michele;30/07/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001306;casco.michele@studenti.its.net;Diploma
+11307;Ceppi;Paola;31/07/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001307;ceppi.paola@studenti.its.net;Diploma
+11308;Quazza;Mattia;01/08/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001308;quazza.mattia@studenti.its.net;Diploma
+11309;Querio;Simone;02/08/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001309;querio.simone@studenti.its.net;Diploma
+11310;Maiulati;Andrea;03/08/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001310;maiulati.andrea@studenti.its.net;Diploma
+11311;Mastello;Antonella;04/08/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001311;mastello.antonella@studenti.its.net;Diploma
+11312;Mostello;Giacomo;05/08/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001312;mostello.giacomo@studenti.its.net;Diploma
+11313;Mirenzi;Francesca;06/08/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001313;mirenzi.francesca@studenti.its.net;Diploma
+11314;Morbelli;Sofia;07/08/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001314;morbelli.sofia@studenti.its.net;Diploma
+11315;Lo presti;Paolo;08/08/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001315;lopresti.paolo@studenti.its.net;Diploma
+11316;Nizar;Antonella;09/08/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001316;nizar.antonella@studenti.its.net;Diploma
+11317;Macrì;Maurizio;10/08/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001317;macrì.maurizio@studenti.its.net;Diploma
+11318;Rania;Giacomo;11/08/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001318;rania.giacomo@studenti.its.net;Diploma
+11319;Valentino;Simone;12/08/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001319;valentino.simone@studenti.its.net;Diploma
+11320;Giacometti;Antonella;13/08/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001320;giacometti.antonella@studenti.its.net;Diploma
+11321;Antonelli;Ilaria;14/08/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001321;antonelli.ilaria@studenti.its.net;Diploma
+11322;Occhiello;Andrea;15/08/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001322;occhiello.andrea@studenti.its.net;Diploma
+11323;Ombrello;Ilaria;16/08/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001323;ombrello.ilaria@studenti.its.net;Diploma
+11324;Aragona;Paolo;17/08/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001324;aragona.paolo@studenti.its.net;Diploma
+11325;Ali;Paola;18/08/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001325;ali.paola@studenti.its.net;Diploma
+11326;Maffucci;Sofia;19/08/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001326;maffucci.sofia@studenti.its.net;Diploma
+11327;Conversano;Vito;20/08/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001327;conversano.vito@studenti.its.net;Diploma
+11328;Capistrano;Francesca;21/08/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001328;capistrano.francesca@studenti.its.net;Diploma
+11329;Cocci;Sofia;22/08/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001329;cocci.sofia@studenti.its.net;Diploma
+11330;Porti;Simone;23/08/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001330;porti.simone@studenti.its.net;Diploma
+11331;Palermo;Simone;24/08/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001331;palermo.simone@studenti.its.net;Diploma
+11332;Agostini;Andrea;25/08/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001332;agostini.andrea@studenti.its.net;Diploma
+11333;Balu;Florin Catalin;26/08/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001333;balu.florincatalin@studenti.its.net;Diploma
+11334;Battaglino;Luca;27/08/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001334;battaglino.luca@studenti.its.net;Diploma
+11335;Canciello;Eugenio;28/08/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001335;canciello.eugenio@studenti.its.net;Diploma
+11336;Cantamessa;Antimo;29/08/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001336;cantamessa.antimo@studenti.its.net;Diploma
+11337;Ceretti;Oscar;30/08/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001337;ceretti.oscar@studenti.its.net;Diploma
+11338;Cianci;Alessandro;31/08/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001338;cianci.alessandro@studenti.its.net;Diploma
+11339;Conflitti;Carlo;01/09/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001339;conflitti.carlo@studenti.its.net;Diploma
+11340;Corsi;Alessio Giulio;02/09/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001340;corsi.alessiogiulio@studenti.its.net;Diploma
+11341;De virgilio;Giuseppe;03/09/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001341;devirgilio.giuseppe@studenti.its.net;Diploma
+11342;Dellavecchia;Ludovico;04/09/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001342;dellavecchia.ludovico@studenti.its.net;Diploma
+11343;Favasuli;Francesco;05/09/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001343;favasuli.francesco@studenti.its.net;Diploma
+11344;Giatti;Alessio;06/09/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001344;giatti.alessio@studenti.its.net;Diploma
+11345;Grosso;Chiara;07/09/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001345;grosso.chiara@studenti.its.net;Diploma
+11346;Gueli;Alessandro;08/09/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001346;gueli.alessandro@studenti.its.net;Diploma
+11347;Lucchiari;Giorgio;09/09/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001347;lucchiari.giorgio@studenti.its.net;Diploma
+11348;Matta;Carolina;10/09/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001348;matta.carolina@studenti.its.net;Diploma
+11349;Montaldo;Luca;11/09/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001349;montaldo.luca@studenti.its.net;Diploma
+11350;Politi;Alessandro;12/09/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001350;politi.alessandro@studenti.its.net;Diploma
+11351;Robino;Mattia;13/09/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001351;robino.mattia@studenti.its.net;Diploma
+11352;Salaro;Fabio;14/09/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001352;salaro.fabio@studenti.its.net;Diploma
+11353;Schifaudo;Riccardo;15/09/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001353;schifaudo.riccardo@studenti.its.net;Diploma
+11354;Sorrentino;Angelo;16/09/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001354;sorrentino.angelo@studenti.its.net;Diploma
+11355;Tisone;Luca;17/09/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001355;tisone.luca@studenti.its.net;Diploma
+11356;Traverso;Giorgio-Maria;18/09/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001356;traverso.giorgiomaria@studenti.its.net;Diploma
+11357;Berardo;Martina;19/09/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001357;berardo.martina@studenti.its.net;Diploma
+11358;Cagliero;Marta Zoe;20/09/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001358;cagliero.marta zoe@studenti.its.net;Diploma
+11359;Campanelli;Mara;21/09/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001359;campanelli.mara@studenti.its.net;Diploma
+11360;Casareggio;Francesca;22/09/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001360;casareggio.francesca@studenti.its.net;Diploma
+11361;Cavaleri;Stefano;23/09/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001361;cavaleri.stefano@studenti.its.net;Diploma
+11362;Dacquino;Riccardo Maria;24/09/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001362;dacquino.riccardo maria@studenti.its.net;Diploma
+11363;De martino;Evelin;25/09/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001363;de martino.evelin@studenti.its.net;Diploma
+11364;Franza;Dieudonne;26/09/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001364;franza.dieudonne@studenti.its.net;Diploma
+11365;Gherman;Ionela;27/09/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001365;gherman.ionela@studenti.its.net;Diploma
+11366;Loche;Arianna;28/09/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001366;loche.arianna@studenti.its.net;Diploma
+11367;Magnani;Carlo Alberto;29/09/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001367;magnani.carlo alberto@studenti.its.net;Diploma
+11368;Merlo;Davide;30/09/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001368;merlo.davide@studenti.its.net;Diploma
+11369;Minelli;Marco;01/10/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001369;minelli.marco@studenti.its.net;Diploma
+11370;Palagonia;Sara;02/10/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001370;palagonia.sara@studenti.its.net;Diploma
+11371;Petralia mastrandrea;Dario;03/10/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001371;petralia mastrandrea.dario@studenti.its.net;Diploma
+11372;Plos;Andrea;04/10/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001372;plos.andrea@studenti.its.net;Diploma
+11373;Ravasio;Cecilia;05/10/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001373;ravasio.cecilia@studenti.its.net;Diploma
+11374;Rutigliano;Alessio;06/10/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001374;rutigliano.alessio@studenti.its.net;Diploma
+11375;Santonocito;Stefano;07/10/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001375;santonocito.stefano@studenti.its.net;Diploma
+11376;Scudeler;Federico;08/10/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001376;scudeler.federico@studenti.its.net;Diploma
+11377;Sebastiani;Giacomo Maria;09/10/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001377;sebastiani.giacomo maria@studenti.its.net;Diploma
+11378;Surace;Federico;10/10/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001378;surace.federico@studenti.its.net;Diploma
+11379;Teti;Matteo;11/10/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001379;teti.matteo@studenti.its.net;Diploma
+11380;Zamboni;Amedeo;12/10/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001380;zamboni.amedeo@studenti.its.net;Diploma
+11381;Scalzo;Valentino;13/10/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001381;scalzo.valentino@studenti.its.net;Diploma
+11382;Russo;Giuseppe;14/10/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001382;russo.giuseppe@studenti.its.net;Diploma
+11383;Raneri;Antonio;15/10/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001383;raneri.antonio@studenti.its.net;Diploma
+11384;Bologna;Elena;16/10/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001384;bologna.elena@studenti.its.net;Diploma
+11385;Lo gelfo;Francesca;17/10/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001385;logelfo.francesca@studenti.its.net;Diploma
+11386;Delilaj;Durim;18/10/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001386;delilaj.durim@studenti.its.net;Diploma
+11387;Fumuso;Chiara;19/10/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001387;fumuso.chiara@studenti.its.net;Diploma
+11388;Lipari;Mariarita;20/10/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001388;lipari.mariarita@studenti.its.net;Diploma
+11389;El mouket;Sami;21/10/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001389;elmouket.sami@studenti.its.net;Diploma
+11390;Pierro;Silvia;22/10/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001390;pierro.silvia@studenti.its.net;Diploma
+11391;Xu;Anqi;23/10/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001391;xu.anqi@studenti.its.net;Diploma
+11392;Pintescul;Patric;24/10/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001392;pintescul.patric@studenti.its.net;Diploma
+11393;Qiu;Michele;25/10/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001393;qiu.michele@studenti.its.net;Diploma
+11394;Eletr;Shehab;26/10/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001394;eletr.shehab@studenti.its.net;Diploma
+11395;Riso;Davide;27/10/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001395;riso.davide@studenti.its.net;Diploma
+11396;Giaccari;Giovanni;28/10/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001396;giaccari.giovanni@studenti.its.net;Diploma
+11397;Mauro;Francesco;29/10/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001397;mauro.francesco@studenti.its.net;Diploma
+11398;Protopapa;Davide;30/10/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001398;protopapa.davide@studenti.its.net;Diploma
+11399;Micheli;Cosimo;31/10/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001399;micheli.cosimo@studenti.its.net;Diploma
+11400;Urro;Alessandro;01/11/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001400;urro.alessandro@studenti.its.net;Diploma
+11401;Miccoli;Francesco;02/11/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001401;miccoli.francesco@studenti.its.net;Diploma
+11402;Carluccio;Simone;03/11/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001402;carluccio.simone@studenti.its.net;Diploma
+11403;Barnaba;Simone;04/11/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001403;barnaba.simone@studenti.its.net;Diploma
+11404;Marzo;Antonio;05/11/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001404;marzo.antonio@studenti.its.net;Diploma
+11405;Licchetta;Andrea;06/11/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001405;licchetta.andrea@studenti.its.net;Diploma
+11406;Morciano;Luca;07/11/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001406;morciano.luca@studenti.its.net;Diploma
+11407;Casanova;Filippo;08/11/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001407;casanova.filippo@studenti.its.net;Diploma
+11408;Lupariello;Nicola;09/11/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001408;lupariello.nicola@studenti.its.net;Diploma
+11409;Raguso;Serafino;10/11/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001409;raguso.serafino@studenti.its.net;Diploma
+11410;Petronella;Paolo;11/11/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001410;petronella.paolo@studenti.its.net;Diploma
+11411;Picerno;Giovanni;12/11/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001411;picerno.giovanni@studenti.its.net;Diploma
+11412;Milella;Renzo;13/11/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001412;milella.renzo@studenti.its.net;Diploma
+11413;Tragni;Angelo;14/11/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001413;tragni.angelo@studenti.its.net;Diploma
+11414;Nicola;Barretta;15/11/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001414;nicola.barretta@studenti.its.net;Diploma
+11415;Filippo;Bellini;16/11/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001415;filippo.bellini@studenti.its.net;Diploma
+11416;Vittorio;Legrottaglie;17/11/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001416;vittorio.legrottaglie@studenti.its.net;Diploma
+11417;Matteo;Ceretta;18/11/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001417;matteo.ceretta@studenti.its.net;Diploma
+11418;Zaccaria;Francescato;19/11/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001418;zaccaria.francescato@studenti.its.net;Diploma
+11419;Matteo;Piva;20/11/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001419;matteo.piva@studenti.its.net;Diploma
+11420;Christian;Guadagno;21/11/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001420;christian.guadagno@studenti.its.net;Diploma
+11421;Diego;Tocchetti;22/11/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001421;diego.tocchetti@studenti.its.net;Diploma
+11422;Joseph william;Cellini;23/11/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001422;josephwilliam.cellini@studenti.its.net;Diploma
+11423;Giulio rosario;Troia;24/11/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001423;giuliorosario.troia@studenti.its.net;Diploma
+11424;Luca;Monachello;25/11/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001424;luca.monachello@studenti.its.net;Diploma
+11425;Francesco;Centonze;26/11/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001425;francesco.centonze@studenti.its.net;Diploma
+11426;Leonardo;Cuviello;27/11/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001426;leonardo.cuviello@studenti.its.net;Diploma
+11427;Eric;Michelon;28/11/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001427;eric.michelon@studenti.its.net;Diploma
+11428;Riccardo;Alberti;29/11/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001428;riccardo.alberti@studenti.its.net;Diploma
+11429;Leon;Chen;30/11/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001429;leon.chen@studenti.its.net;Diploma
+11430;Martina;Baldini;01/12/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001430;martina.baldini@studenti.its.net;Diploma
+11431;Pietro;Amati;02/12/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001431;pietro.amati@studenti.its.net;Diploma
+11432;Flavio;Sambin;03/12/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001432;flavio.sambin@studenti.its.net;Diploma
+11433;Giulio;De Angelis;04/12/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001433;giulio.deangelis@studenti.its.net;Diploma
+11434;Matteo;Franzolin;05/12/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001434;matteo.franzolin@studenti.its.net;Diploma
+11435;Michele;Iovino;06/12/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001435;michele.iovino@studenti.its.net;Diploma
+11436;Roberta;Capobianco;07/12/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001436;roberta.capobianco@studenti.its.net;Diploma
+11437;Miriana;Solimine;08/12/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001437;miriana.solimine@studenti.its.net;Diploma
+11438;Riccardo;Balducchi;09/12/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001438;riccardo.balducchi@studenti.its.net;Diploma
+11439;Denis;Bleta;10/12/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001439;denis.bleta@studenti.its.net;Diploma
+11440;Luca;Usai;11/12/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001440;luca.usai@studenti.its.net;Diploma
+11441;Emilia;Girardin;12/12/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001441;emilia.girardin@studenti.its.net;Diploma
+11442;Maria;Sudiro;13/12/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001442;maria.sudiro@studenti.its.net;Diploma
+11443;Federico;Bosisio;14/12/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001443;federico.bosisio@studenti.its.net;Diploma
+11444;Daniele;Bonelli;15/12/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001444;daniele.bonelli@studenti.its.net;Diploma
+11445;Nicola;Tam;16/12/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001445;nicola.tam@studenti.its.net;Diploma
+11446;Simone;Matassa;17/12/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001446;simone.matassa@studenti.its.net;Diploma
+11447;Francesco;Giammari;18/12/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001447;francesco.giammari@studenti.its.net;Diploma
+11448;Marco;Simeone;19/12/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001448;marco.simeone@studenti.its.net;Diploma
+11449;Tommaso;Bombini;20/12/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001449;tommaso.bombini@studenti.its.net;Diploma
+11450;Roman;Korinovskyy;21/12/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001450;roman.korinovskyy@studenti.its.net;Diploma
+11451;Keizi;Mara;22/12/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001451;keizi.mara@studenti.its.net;Diploma
+11452;Erik;Giuliano;23/12/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001452;erik.giuliano@studenti.its.net;Diploma
+11453;Letizia lucia;Sala;24/12/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001453;letizialucia.sala@studenti.its.net;Diploma
+11454;Marco;Bitto;25/12/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001454;marco.bitto@studenti.its.net;Diploma
+11455;Alexander;Demidovich;26/12/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001455;alexander.demidovich@studenti.its.net;Diploma
+11456;Joshua karim;De Lorenzo;27/12/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001456;joshuakarim.delorenzo@studenti.its.net;Diploma
+11457;Cipro;Antonio;28/12/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001457;cipro.antonio@studenti.its.net;Diploma
+11458;Coppola;Simone;29/12/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001458;coppola.simone@studenti.its.net;Diploma
+11459;Chiapello;Andrea;30/12/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001459;chiapello.andrea@studenti.its.net;Diploma
+11460;Chieppa;Giacomo;31/12/2003;Torino;Via Cibrario, NN;10143;Torino;TO;3300001460;chieppa.giacomo@studenti.its.net;Diploma
+11461;Cosco;Silvia;01/01/2004;Torino;Via Cibrario, NN;10143;Torino;TO;3300001461;cosco.silvia@studenti.its.net;Diploma
+11462;Casco;Michele;02/01/2004;Torino;Via Cibrario, NN;10143;Torino;TO;3300001462;casco.michele@studenti.its.net;Diploma
+11463;Ceppi;Paola;03/01/2004;Torino;Via Cibrario, NN;10143;Torino;TO;3300001463;ceppi.paola@studenti.its.net;Diploma
+11464;Quazza;Mattia;04/01/2004;Torino;Via Cibrario, NN;10143;Torino;TO;3300001464;quazza.mattia@studenti.its.net;Diploma
+11465;Querio;Simone;05/01/2004;Torino;Via Cibrario, NN;10143;Torino;TO;3300001465;querio.simone@studenti.its.net;Diploma
+11466;Maiulati;Andrea;06/01/2004;Torino;Via Cibrario, NN;10143;Torino;TO;3300001466;maiulati.andrea@studenti.its.net;Diploma
+11467;Mastello;Antonella;07/01/2004;Torino;Via Cibrario, NN;10143;Torino;TO;3300001467;mastello.antonella@studenti.its.net;Diploma
+11468;Mostello;Giacomo;08/01/2004;Torino;Via Cibrario, NN;10143;Torino;TO;3300001468;mostello.giacomo@studenti.its.net;Diploma
+11469;Mirenzi;Francesca;09/01/2004;Torino;Via Cibrario, NN;10143;Torino;TO;3300001469;mirenzi.francesca@studenti.its.net;Diploma
+11470;Morbelli;Sofia;10/01/2004;Torino;Via Cibrario, NN;10143;Torino;TO;3300001470;morbelli.sofia@studenti.its.net;Diploma
+11471;Lo presti;Paolo;11/01/2004;Torino;Via Cibrario, NN;10143;Torino;TO;3300001471;lopresti.paolo@studenti.its.net;Diploma
+11472;Nizar;Antonella;12/01/2004;Torino;Via Cibrario, NN;10143;Torino;TO;3300001472;nizar.antonella@studenti.its.net;Diploma
+11473;Macr�;Maurizio;13/01/2004;Torino;Via Cibrario, NN;10143;Torino;TO;3300001473;macr�.maurizio@studenti.its.net;Diploma
+11474;Rania;Giacomo;14/01/2004;Torino;Via Cibrario, NN;10143;Torino;TO;3300001474;rania.giacomo@studenti.its.net;Diploma
+11475;Valentino;Simone;15/01/2004;Torino;Via Cibrario, NN;10143;Torino;TO;3300001475;valentino.simone@studenti.its.net;Diploma
+11476;Giacometti;Antonella;16/01/2004;Torino;Via Cibrario, NN;10143;Torino;TO;3300001476;giacometti.antonella@studenti.its.net;Diploma
+11477;Antonelli;Ilaria;17/01/2004;Torino;Via Cibrario, NN;10143;Torino;TO;3300001477;antonelli.ilaria@studenti.its.net;Diploma
+11478;Occhiello;Andrea;18/01/2004;Torino;Via Cibrario, NN;10143;Torino;TO;3300001478;occhiello.andrea@studenti.its.net;Diploma
+11479;Ombrello;Ilaria;19/01/2004;Torino;Via Cibrario, NN;10143;Torino;TO;3300001479;ombrello.ilaria@studenti.its.net;Diploma
+11480;Aragona;Paolo;20/01/2004;Torino;Via Cibrario, NN;10143;Torino;TO;3300001480;aragona.paolo@studenti.its.net;Diploma
+11481;Ali;Paola;21/01/2004;Torino;Via Cibrario, NN;10143;Torino;TO;3300001481;ali.paola@studenti.its.net;Diploma
+11482;Maffucci;Sofia;22/01/2004;Torino;Via Cibrario, NN;10143;Torino;TO;3300001482;maffucci.sofia@studenti.its.net;Diploma
+11483;Conversano;Vito;23/01/2004;Torino;Via Cibrario, NN;10143;Torino;TO;3300001483;conversano.vito@studenti.its.net;Diploma
+11484;Capistrano;Francesca;24/01/2004;Torino;Via Cibrario, NN;10143;Torino;TO;3300001484;capistrano.francesca@studenti.its.net;Diploma
+11485;Cocci;Sofia;25/01/2004;Torino;Via Cibrario, NN;10143;Torino;TO;3300001485;cocci.sofia@studenti.its.net;Diploma
+11486;Porti;Simone;26/01/2004;Torino;Via Cibrario, NN;10143;Torino;TO;3300001486;porti.simone@studenti.its.net;Diploma
+11487;Salerno;Simone;27/01/2004;Torino;Via Cibrario, NN;10143;Torino;TO;3300001487;salerno.simone@studenti.its.net;Diploma
+11488;Enzomaria;Saponara;28/01/2004;Torino;Via Cibrario, NN;10143;Torino;TO;3300001488;enzomaria.saponara@studenti.its.net;Diploma
+11489;Luka;Lacic;29/01/2004;Torino;Via Cibrario, NN;10143;Torino;TO;3300001489;luka.lacic@studenti.its.net;Diploma
+11490;Arjan;Zeka;30/01/2004;Torino;Via Cibrario, NN;10143;Torino;TO;3300001490;arjan.zeka@studenti.its.net;Diploma
+11491;Valentina;Vecchiato;31/01/2004;Torino;Via Cibrario, NN;10143;Torino;TO;3300001491;valentina.vecchiato@studenti.its.net;Diploma
+11492;Raffaele;Nardulli;01/02/2004;Torino;Via Cibrario, NN;10143;Torino;TO;3300001492;raffaele.nardulli@studenti.its.net;Diploma
+11493;Omar;Khaliss;02/02/2004;Torino;Via Cibrario, NN;10143;Torino;TO;3300001493;omar.khaliss@studenti.its.net;Diploma
+11494;Lorenzo;Vasile;03/02/2004;Torino;Via Cibrario, NN;10143;Torino;TO;3300001494;lorenzo.vasile@studenti.its.net;Diploma
+11495;Francesco;Corrado;04/02/2004;Torino;Via Cibrario, NN;10143;Torino;TO;3300001495;francesco.corrado@studenti.its.net;Diploma
+11496;Martina;Orsatti;05/02/2004;Torino;Via Cibrario, NN;10143;Torino;TO;3300001496;martina.orsatti@studenti.its.net;Diploma
+11497;Gabriele;Presti;06/02/2004;Torino;Via Cibrario, NN;10143;Torino;TO;3300001497;gabriele.presti@studenti.its.net;Diploma
+11498;Andrea;Zuccati;07/02/2004;Torino;Via Cibrario, NN;10143;Torino;TO;3300001498;andrea.zuccati@studenti.its.net;Diploma
+11499;Alessandro;Villa;08/02/2004;Torino;Via Cibrario, NN;10143;Torino;TO;3300001499;alessandro.villa@studenti.its.net;Diploma
+11500;Luca;Ena;09/02/2004;Torino;Via Cibrario, NN;10143;Torino;TO;3300001500;luca.ena@studenti.its.net;Diploma

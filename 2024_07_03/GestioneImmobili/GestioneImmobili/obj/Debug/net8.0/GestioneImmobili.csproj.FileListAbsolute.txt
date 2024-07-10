@@ -1,0 +1,15 @@
+Z:\C#\2024_07_03\GestioneImmobili\GestioneImmobili\bin\Debug\net8.0\GestioneImmobili.exe
+Z:\C#\2024_07_03\GestioneImmobili\GestioneImmobili\bin\Debug\net8.0\GestioneImmobili.deps.json
+Z:\C#\2024_07_03\GestioneImmobili\GestioneImmobili\bin\Debug\net8.0\GestioneImmobili.runtimeconfig.json
+Z:\C#\2024_07_03\GestioneImmobili\GestioneImmobili\bin\Debug\net8.0\GestioneImmobili.dll
+Z:\C#\2024_07_03\GestioneImmobili\GestioneImmobili\bin\Debug\net8.0\GestioneImmobili.pdb
+Z:\C#\2024_07_03\GestioneImmobili\GestioneImmobili\obj\Debug\net8.0\GestioneImmobili.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\2024_07_03\GestioneImmobili\GestioneImmobili\obj\Debug\net8.0\GestioneImmobili.AssemblyInfoInputs.cache
+Z:\C#\2024_07_03\GestioneImmobili\GestioneImmobili\obj\Debug\net8.0\GestioneImmobili.AssemblyInfo.cs
+Z:\C#\2024_07_03\GestioneImmobili\GestioneImmobili\obj\Debug\net8.0\GestioneImmobili.csproj.CoreCompileInputs.cache
+Z:\C#\2024_07_03\GestioneImmobili\GestioneImmobili\obj\Debug\net8.0\GestioneImmobili.sourcelink.json
+Z:\C#\2024_07_03\GestioneImmobili\GestioneImmobili\obj\Debug\net8.0\GestioneImmobili.dll
+Z:\C#\2024_07_03\GestioneImmobili\GestioneImmobili\obj\Debug\net8.0\refint\GestioneImmobili.dll
+Z:\C#\2024_07_03\GestioneImmobili\GestioneImmobili\obj\Debug\net8.0\GestioneImmobili.pdb
+Z:\C#\2024_07_03\GestioneImmobili\GestioneImmobili\obj\Debug\net8.0\GestioneImmobili.genruntimeconfig.cache
+Z:\C#\2024_07_03\GestioneImmobili\GestioneImmobili\obj\Debug\net8.0\ref\GestioneImmobili.dll
