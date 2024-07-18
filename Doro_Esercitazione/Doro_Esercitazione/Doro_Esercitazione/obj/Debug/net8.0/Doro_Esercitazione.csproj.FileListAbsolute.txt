@@ -1,0 +1,15 @@
+Z:\C#\Doro_Esercitazione\Doro_Esercitazione\Doro_Esercitazione\obj\Debug\net8.0\Doro_Esercitazione.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\Doro_Esercitazione\Doro_Esercitazione\Doro_Esercitazione\obj\Debug\net8.0\Doro_Esercitazione.AssemblyInfoInputs.cache
+Z:\C#\Doro_Esercitazione\Doro_Esercitazione\Doro_Esercitazione\obj\Debug\net8.0\Doro_Esercitazione.AssemblyInfo.cs
+Z:\C#\Doro_Esercitazione\Doro_Esercitazione\Doro_Esercitazione\obj\Debug\net8.0\Doro_Esercitazione.csproj.CoreCompileInputs.cache
+Z:\C#\Doro_Esercitazione\Doro_Esercitazione\Doro_Esercitazione\obj\Debug\net8.0\Doro_Esercitazione.sourcelink.json
+Z:\C#\Doro_Esercitazione\Doro_Esercitazione\Doro_Esercitazione\bin\Debug\net8.0\Doro_Esercitazione.exe
+Z:\C#\Doro_Esercitazione\Doro_Esercitazione\Doro_Esercitazione\bin\Debug\net8.0\Doro_Esercitazione.deps.json
+Z:\C#\Doro_Esercitazione\Doro_Esercitazione\Doro_Esercitazione\bin\Debug\net8.0\Doro_Esercitazione.runtimeconfig.json
+Z:\C#\Doro_Esercitazione\Doro_Esercitazione\Doro_Esercitazione\bin\Debug\net8.0\Doro_Esercitazione.dll
+Z:\C#\Doro_Esercitazione\Doro_Esercitazione\Doro_Esercitazione\bin\Debug\net8.0\Doro_Esercitazione.pdb
+Z:\C#\Doro_Esercitazione\Doro_Esercitazione\Doro_Esercitazione\obj\Debug\net8.0\Doro_Esercitazione.dll
+Z:\C#\Doro_Esercitazione\Doro_Esercitazione\Doro_Esercitazione\obj\Debug\net8.0\refint\Doro_Esercitazione.dll
+Z:\C#\Doro_Esercitazione\Doro_Esercitazione\Doro_Esercitazione\obj\Debug\net8.0\Doro_Esercitazione.pdb
+Z:\C#\Doro_Esercitazione\Doro_Esercitazione\Doro_Esercitazione\obj\Debug\net8.0\Doro_Esercitazione.genruntimeconfig.cache
+Z:\C#\Doro_Esercitazione\Doro_Esercitazione\Doro_Esercitazione\obj\Debug\net8.0\ref\Doro_Esercitazione.dll

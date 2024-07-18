@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\C#\\Doro_Esercitazione\\Doro_Esercitazione\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{768FC1D5-E629-4217-BEB4-D750496EB673}|Doro_Esercitazione\\Doro_Esercitazione.csproj|z:\\c#\\doro_esercitazione\\doro_esercitazione\\doro_esercitazione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768FC1D5-E629-4217-BEB4-D750496EB673}|Doro_Esercitazione\\Doro_Esercitazione.csproj|solutionrelative:doro_esercitazione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768FC1D5-E629-4217-BEB4-D750496EB673}|Doro_Esercitazione\\Doro_Esercitazione.csproj|z:\\c#\\doro_esercitazione\\doro_esercitazione\\doro_esercitazione\\ordine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768FC1D5-E629-4217-BEB4-D750496EB673}|Doro_Esercitazione\\Doro_Esercitazione.csproj|solutionrelative:doro_esercitazione\\ordine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768FC1D5-E629-4217-BEB4-D750496EB673}|Doro_Esercitazione\\Doro_Esercitazione.csproj|z:\\c#\\doro_esercitazione\\doro_esercitazione\\doro_esercitazione\\acquisto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768FC1D5-E629-4217-BEB4-D750496EB673}|Doro_Esercitazione\\Doro_Esercitazione.csproj|solutionrelative:doro_esercitazione\\acquisto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768FC1D5-E629-4217-BEB4-D750496EB673}|Doro_Esercitazione\\Doro_Esercitazione.csproj|z:\\c#\\doro_esercitazione\\doro_esercitazione\\doro_esercitazione\\venditoribiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768FC1D5-E629-4217-BEB4-D750496EB673}|Doro_Esercitazione\\Doro_Esercitazione.csproj|solutionrelative:doro_esercitazione\\venditoribiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768FC1D5-E629-4217-BEB4-D750496EB673}|Doro_Esercitazione\\Doro_Esercitazione.csproj|z:\\c#\\doro_esercitazione\\doro_esercitazione\\doro_esercitazione\\venditore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768FC1D5-E629-4217-BEB4-D750496EB673}|Doro_Esercitazione\\Doro_Esercitazione.csproj|solutionrelative:doro_esercitazione\\venditore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768FC1D5-E629-4217-BEB4-D750496EB673}|Doro_Esercitazione\\Doro_Esercitazione.csproj|z:\\c#\\doro_esercitazione\\doro_esercitazione\\doro_esercitazione\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768FC1D5-E629-4217-BEB4-D750496EB673}|Doro_Esercitazione\\Doro_Esercitazione.csproj|solutionrelative:doro_esercitazione\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768FC1D5-E629-4217-BEB4-D750496EB673}|Doro_Esercitazione\\Doro_Esercitazione.csproj|z:\\c#\\doro_esercitazione\\doro_esercitazione\\doro_esercitazione\\meccanicibiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768FC1D5-E629-4217-BEB4-D750496EB673}|Doro_Esercitazione\\Doro_Esercitazione.csproj|solutionrelative:doro_esercitazione\\meccanicibiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768FC1D5-E629-4217-BEB4-D750496EB673}|Doro_Esercitazione\\Doro_Esercitazione.csproj|z:\\c#\\doro_esercitazione\\doro_esercitazione\\doro_esercitazione\\ordinibiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768FC1D5-E629-4217-BEB4-D750496EB673}|Doro_Esercitazione\\Doro_Esercitazione.csproj|solutionrelative:doro_esercitazione\\ordinibiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768FC1D5-E629-4217-BEB4-D750496EB673}|Doro_Esercitazione\\Doro_Esercitazione.csproj|z:\\c#\\doro_esercitazione\\doro_esercitazione\\doro_esercitazione\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768FC1D5-E629-4217-BEB4-D750496EB673}|Doro_Esercitazione\\Doro_Esercitazione.csproj|solutionrelative:doro_esercitazione\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768FC1D5-E629-4217-BEB4-D750496EB673}|Doro_Esercitazione\\Doro_Esercitazione.csproj|z:\\c#\\doro_esercitazione\\doro_esercitazione\\doro_esercitazione\\meccanico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768FC1D5-E629-4217-BEB4-D750496EB673}|Doro_Esercitazione\\Doro_Esercitazione.csproj|solutionrelative:doro_esercitazione\\meccanico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768FC1D5-E629-4217-BEB4-D750496EB673}|Doro_Esercitazione\\Doro_Esercitazione.csproj|z:\\c#\\doro_esercitazione\\doro_esercitazione\\doro_esercitazione\\capoofficina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768FC1D5-E629-4217-BEB4-D750496EB673}|Doro_Esercitazione\\Doro_Esercitazione.csproj|solutionrelative:doro_esercitazione\\capoofficina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768FC1D5-E629-4217-BEB4-D750496EB673}|Doro_Esercitazione\\Doro_Esercitazione.csproj|z:\\c#\\doro_esercitazione\\doro_esercitazione\\doro_esercitazione\\responsabilevenditori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768FC1D5-E629-4217-BEB4-D750496EB673}|Doro_Esercitazione\\Doro_Esercitazione.csproj|solutionrelative:doro_esercitazione\\responsabilevenditori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768FC1D5-E629-4217-BEB4-D750496EB673}|Doro_Esercitazione\\Doro_Esercitazione.csproj|z:\\c#\\doro_esercitazione\\doro_esercitazione\\doro_esercitazione\\tipologia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768FC1D5-E629-4217-BEB4-D750496EB673}|Doro_Esercitazione\\Doro_Esercitazione.csproj|solutionrelative:doro_esercitazione\\tipologia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768FC1D5-E629-4217-BEB4-D750496EB673}|Doro_Esercitazione\\Doro_Esercitazione.csproj|z:\\c#\\doro_esercitazione\\doro_esercitazione\\doro_esercitazione\\settore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768FC1D5-E629-4217-BEB4-D750496EB673}|Doro_Esercitazione\\Doro_Esercitazione.csproj|solutionrelative:doro_esercitazione\\settore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VenditoriBiz.cs",
+              "DocumentMoniker": "Z:\\C#\\Doro_Esercitazione\\Doro_Esercitazione\\Doro_Esercitazione\\VenditoriBiz.cs",
+              "RelativeDocumentMoniker": "Doro_Esercitazione\\VenditoriBiz.cs",
+              "ToolTip": "Z:\\C#\\Doro_Esercitazione\\Doro_Esercitazione\\Doro_Esercitazione\\VenditoriBiz.cs",
+              "RelativeToolTip": "Doro_Esercitazione\\VenditoriBiz.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T14:08:23.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrdiniBiz.cs",
+              "DocumentMoniker": "Z:\\C#\\Doro_Esercitazione\\Doro_Esercitazione\\Doro_Esercitazione\\OrdiniBiz.cs",
+              "RelativeDocumentMoniker": "Doro_Esercitazione\\OrdiniBiz.cs",
+              "ToolTip": "Z:\\C#\\Doro_Esercitazione\\Doro_Esercitazione\\Doro_Esercitazione\\OrdiniBiz.cs",
+              "RelativeToolTip": "Doro_Esercitazione\\OrdiniBiz.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAcwE4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T13:58:47.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Acquisto.cs",
+              "DocumentMoniker": "Z:\\C#\\Doro_Esercitazione\\Doro_Esercitazione\\Doro_Esercitazione\\Acquisto.cs",
+              "RelativeDocumentMoniker": "Doro_Esercitazione\\Acquisto.cs",
+              "ToolTip": "Z:\\C#\\Doro_Esercitazione\\Doro_Esercitazione\\Doro_Esercitazione\\Acquisto.cs",
+              "RelativeToolTip": "Doro_Esercitazione\\Acquisto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T13:53:04.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ordine.cs",
+              "DocumentMoniker": "Z:\\C#\\Doro_Esercitazione\\Doro_Esercitazione\\Doro_Esercitazione\\Ordine.cs",
+              "RelativeDocumentMoniker": "Doro_Esercitazione\\Ordine.cs",
+              "ToolTip": "Z:\\C#\\Doro_Esercitazione\\Doro_Esercitazione\\Doro_Esercitazione\\Ordine.cs",
+              "RelativeToolTip": "Doro_Esercitazione\\Ordine.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T13:33:28.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Prodotto.cs",
+              "DocumentMoniker": "Z:\\C#\\Doro_Esercitazione\\Doro_Esercitazione\\Doro_Esercitazione\\Prodotto.cs",
+              "RelativeDocumentMoniker": "Doro_Esercitazione\\Prodotto.cs",
+              "ToolTip": "Z:\\C#\\Doro_Esercitazione\\Doro_Esercitazione\\Doro_Esercitazione\\Prodotto.cs",
+              "RelativeToolTip": "Doro_Esercitazione\\Prodotto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxUAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T13:24:43.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CapoOfficina.cs",
+              "DocumentMoniker": "Z:\\C#\\Doro_Esercitazione\\Doro_Esercitazione\\Doro_Esercitazione\\CapoOfficina.cs",
+              "RelativeDocumentMoniker": "Doro_Esercitazione\\CapoOfficina.cs",
+              "ToolTip": "Z:\\C#\\Doro_Esercitazione\\Doro_Esercitazione\\Doro_Esercitazione\\CapoOfficina.cs",
+              "RelativeToolTip": "Doro_Esercitazione\\CapoOfficina.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T13:22:26.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResponsabileVenditori.cs",
+              "DocumentMoniker": "Z:\\C#\\Doro_Esercitazione\\Doro_Esercitazione\\Doro_Esercitazione\\ResponsabileVenditori.cs",
+              "RelativeDocumentMoniker": "Doro_Esercitazione\\ResponsabileVenditori.cs",
+              "ToolTip": "Z:\\C#\\Doro_Esercitazione\\Doro_Esercitazione\\Doro_Esercitazione\\ResponsabileVenditori.cs",
+              "RelativeToolTip": "Doro_Esercitazione\\ResponsabileVenditori.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T13:18:54.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TIPOLOGIA.cs",
+              "DocumentMoniker": "Z:\\C#\\Doro_Esercitazione\\Doro_Esercitazione\\Doro_Esercitazione\\TIPOLOGIA.cs",
+              "RelativeDocumentMoniker": "Doro_Esercitazione\\TIPOLOGIA.cs",
+              "ToolTip": "Z:\\C#\\Doro_Esercitazione\\Doro_Esercitazione\\Doro_Esercitazione\\TIPOLOGIA.cs",
+              "RelativeToolTip": "Doro_Esercitazione\\TIPOLOGIA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T13:05:51.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Meccanico.cs",
+              "DocumentMoniker": "Z:\\C#\\Doro_Esercitazione\\Doro_Esercitazione\\Doro_Esercitazione\\Meccanico.cs",
+              "RelativeDocumentMoniker": "Doro_Esercitazione\\Meccanico.cs",
+              "ToolTip": "Z:\\C#\\Doro_Esercitazione\\Doro_Esercitazione\\Doro_Esercitazione\\Meccanico.cs",
+              "RelativeToolTip": "Doro_Esercitazione\\Meccanico.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T13:05:12.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SETTORE.cs",
+              "DocumentMoniker": "Z:\\C#\\Doro_Esercitazione\\Doro_Esercitazione\\Doro_Esercitazione\\SETTORE.cs",
+              "RelativeDocumentMoniker": "Doro_Esercitazione\\SETTORE.cs",
+              "ToolTip": "Z:\\C#\\Doro_Esercitazione\\Doro_Esercitazione\\Doro_Esercitazione\\SETTORE.cs",
+              "RelativeToolTip": "Doro_Esercitazione\\SETTORE.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T13:00:31.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Venditore.cs",
+              "DocumentMoniker": "Z:\\C#\\Doro_Esercitazione\\Doro_Esercitazione\\Doro_Esercitazione\\Venditore.cs",
+              "RelativeDocumentMoniker": "Doro_Esercitazione\\Venditore.cs",
+              "ToolTip": "Z:\\C#\\Doro_Esercitazione\\Doro_Esercitazione\\Doro_Esercitazione\\Venditore.cs",
+              "RelativeToolTip": "Doro_Esercitazione\\Venditore.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T12:59:11.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "Z:\\C#\\Doro_Esercitazione\\Doro_Esercitazione\\Doro_Esercitazione\\Persona.cs",
+              "RelativeDocumentMoniker": "Doro_Esercitazione\\Persona.cs",
+              "ToolTip": "Z:\\C#\\Doro_Esercitazione\\Doro_Esercitazione\\Doro_Esercitazione\\Persona.cs",
+              "RelativeToolTip": "Doro_Esercitazione\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T12:54:11.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\C#\\Doro_Esercitazione\\Doro_Esercitazione\\Doro_Esercitazione\\Program.cs",
+              "RelativeDocumentMoniker": "Doro_Esercitazione\\Program.cs",
+              "ToolTip": "Z:\\C#\\Doro_Esercitazione\\Doro_Esercitazione\\Doro_Esercitazione\\Program.cs",
+              "RelativeToolTip": "Doro_Esercitazione\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T12:53:38.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MeccaniciBiz.cs",
+              "DocumentMoniker": "Z:\\C#\\Doro_Esercitazione\\Doro_Esercitazione\\Doro_Esercitazione\\MeccaniciBiz.cs",
+              "RelativeDocumentMoniker": "Doro_Esercitazione\\MeccaniciBiz.cs",
+              "ToolTip": "Z:\\C#\\Doro_Esercitazione\\Doro_Esercitazione\\Doro_Esercitazione\\MeccaniciBiz.cs",
+              "RelativeToolTip": "Doro_Esercitazione\\MeccaniciBiz.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAjwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T15:17:23.603Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

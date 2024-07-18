@@ -42,8 +42,7 @@
               "RelativeToolTip": "StudentiITS\\ITSBiz.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAuwA4AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T15:22:29.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T15:22:29.549Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "StudentiITS\\Esame.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAlwBAAAABfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T15:14:27.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T15:14:27.569Z"
             },
             {
               "$type": "Document",
@@ -68,8 +66,7 @@
               "RelativeToolTip": "StudentiITS\\Materia.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAlwBQAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T15:11:45.772Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T15:11:45.772Z"
             },
             {
               "$type": "Document",
@@ -81,8 +78,7 @@
               "RelativeToolTip": "StudentiITS\\Studente.cs",
               "ViewState": "AQIAABUAAAAAAAAAAIA7wBwAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T15:05:05.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T15:05:05.866Z"
             },
             {
               "$type": "Document",
@@ -92,7 +88,7 @@
               "RelativeDocumentMoniker": "StudentiITS\\Program.cs",
               "ToolTip": "Z:\\C#\\2024_07_03\\StudentiITS\\StudentiITS\\Program.cs",
               "RelativeToolTip": "StudentiITS\\Program.cs",
-              "ViewState": "AQIAAEgAAAAAAAAAAIAwwFAAAAANAAAA",
+              "ViewState": "AQIAAFQAAAAAAAAAAIAwwFsAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-03T14:59:55.331Z",
               "EditorCaption": ""
