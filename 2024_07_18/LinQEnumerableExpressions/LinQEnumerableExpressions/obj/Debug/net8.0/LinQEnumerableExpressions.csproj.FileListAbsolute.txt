@@ -1,0 +1,15 @@
+Z:\C#\2024_07_18\LinQEnumerableExpressions\LinQEnumerableExpressions\bin\Debug\net8.0\LinQEnumerableExpressions.exe
+Z:\C#\2024_07_18\LinQEnumerableExpressions\LinQEnumerableExpressions\bin\Debug\net8.0\LinQEnumerableExpressions.deps.json
+Z:\C#\2024_07_18\LinQEnumerableExpressions\LinQEnumerableExpressions\bin\Debug\net8.0\LinQEnumerableExpressions.runtimeconfig.json
+Z:\C#\2024_07_18\LinQEnumerableExpressions\LinQEnumerableExpressions\bin\Debug\net8.0\LinQEnumerableExpressions.dll
+Z:\C#\2024_07_18\LinQEnumerableExpressions\LinQEnumerableExpressions\bin\Debug\net8.0\LinQEnumerableExpressions.pdb
+Z:\C#\2024_07_18\LinQEnumerableExpressions\LinQEnumerableExpressions\obj\Debug\net8.0\LinQEnumerableExpressions.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\2024_07_18\LinQEnumerableExpressions\LinQEnumerableExpressions\obj\Debug\net8.0\LinQEnumerableExpressions.AssemblyInfoInputs.cache
+Z:\C#\2024_07_18\LinQEnumerableExpressions\LinQEnumerableExpressions\obj\Debug\net8.0\LinQEnumerableExpressions.AssemblyInfo.cs
+Z:\C#\2024_07_18\LinQEnumerableExpressions\LinQEnumerableExpressions\obj\Debug\net8.0\LinQEnumerableExpressions.csproj.CoreCompileInputs.cache
+Z:\C#\2024_07_18\LinQEnumerableExpressions\LinQEnumerableExpressions\obj\Debug\net8.0\LinQEnumerableExpressions.sourcelink.json
+Z:\C#\2024_07_18\LinQEnumerableExpressions\LinQEnumerableExpressions\obj\Debug\net8.0\LinQEnumerableExpressions.dll
+Z:\C#\2024_07_18\LinQEnumerableExpressions\LinQEnumerableExpressions\obj\Debug\net8.0\refint\LinQEnumerableExpressions.dll
+Z:\C#\2024_07_18\LinQEnumerableExpressions\LinQEnumerableExpressions\obj\Debug\net8.0\LinQEnumerableExpressions.pdb
+Z:\C#\2024_07_18\LinQEnumerableExpressions\LinQEnumerableExpressions\obj\Debug\net8.0\LinQEnumerableExpressions.genruntimeconfig.cache
+Z:\C#\2024_07_18\LinQEnumerableExpressions\LinQEnumerableExpressions\obj\Debug\net8.0\ref\LinQEnumerableExpressions.dll

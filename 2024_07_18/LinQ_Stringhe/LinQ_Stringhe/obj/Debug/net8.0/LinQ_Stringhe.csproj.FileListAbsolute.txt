@@ -1,0 +1,15 @@
+Z:\C#\2024_07_18\LinQ_Stringhe\LinQ_Stringhe\bin\Debug\net8.0\LinQ_Stringhe.exe
+Z:\C#\2024_07_18\LinQ_Stringhe\LinQ_Stringhe\bin\Debug\net8.0\LinQ_Stringhe.deps.json
+Z:\C#\2024_07_18\LinQ_Stringhe\LinQ_Stringhe\bin\Debug\net8.0\LinQ_Stringhe.runtimeconfig.json
+Z:\C#\2024_07_18\LinQ_Stringhe\LinQ_Stringhe\bin\Debug\net8.0\LinQ_Stringhe.dll
+Z:\C#\2024_07_18\LinQ_Stringhe\LinQ_Stringhe\bin\Debug\net8.0\LinQ_Stringhe.pdb
+Z:\C#\2024_07_18\LinQ_Stringhe\LinQ_Stringhe\obj\Debug\net8.0\LinQ_Stringhe.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\2024_07_18\LinQ_Stringhe\LinQ_Stringhe\obj\Debug\net8.0\LinQ_Stringhe.AssemblyInfoInputs.cache
+Z:\C#\2024_07_18\LinQ_Stringhe\LinQ_Stringhe\obj\Debug\net8.0\LinQ_Stringhe.AssemblyInfo.cs
+Z:\C#\2024_07_18\LinQ_Stringhe\LinQ_Stringhe\obj\Debug\net8.0\LinQ_Stringhe.csproj.CoreCompileInputs.cache
+Z:\C#\2024_07_18\LinQ_Stringhe\LinQ_Stringhe\obj\Debug\net8.0\LinQ_Stringhe.sourcelink.json
+Z:\C#\2024_07_18\LinQ_Stringhe\LinQ_Stringhe\obj\Debug\net8.0\LinQ_Stringhe.dll
+Z:\C#\2024_07_18\LinQ_Stringhe\LinQ_Stringhe\obj\Debug\net8.0\refint\LinQ_Stringhe.dll
+Z:\C#\2024_07_18\LinQ_Stringhe\LinQ_Stringhe\obj\Debug\net8.0\LinQ_Stringhe.pdb
+Z:\C#\2024_07_18\LinQ_Stringhe\LinQ_Stringhe\obj\Debug\net8.0\LinQ_Stringhe.genruntimeconfig.cache
+Z:\C#\2024_07_18\LinQ_Stringhe\LinQ_Stringhe\obj\Debug\net8.0\ref\LinQ_Stringhe.dll

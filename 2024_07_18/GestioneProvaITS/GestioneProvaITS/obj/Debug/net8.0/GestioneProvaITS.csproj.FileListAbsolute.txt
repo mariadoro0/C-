@@ -1,0 +1,15 @@
+Z:\C#\2024_07_18\GestioneProvaITS\GestioneProvaITS\bin\Debug\net8.0\GestioneProvaITS.exe
+Z:\C#\2024_07_18\GestioneProvaITS\GestioneProvaITS\bin\Debug\net8.0\GestioneProvaITS.deps.json
+Z:\C#\2024_07_18\GestioneProvaITS\GestioneProvaITS\bin\Debug\net8.0\GestioneProvaITS.runtimeconfig.json
+Z:\C#\2024_07_18\GestioneProvaITS\GestioneProvaITS\bin\Debug\net8.0\GestioneProvaITS.dll
+Z:\C#\2024_07_18\GestioneProvaITS\GestioneProvaITS\bin\Debug\net8.0\GestioneProvaITS.pdb
+Z:\C#\2024_07_18\GestioneProvaITS\GestioneProvaITS\obj\Debug\net8.0\GestioneProvaITS.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\2024_07_18\GestioneProvaITS\GestioneProvaITS\obj\Debug\net8.0\GestioneProvaITS.AssemblyInfoInputs.cache
+Z:\C#\2024_07_18\GestioneProvaITS\GestioneProvaITS\obj\Debug\net8.0\GestioneProvaITS.AssemblyInfo.cs
+Z:\C#\2024_07_18\GestioneProvaITS\GestioneProvaITS\obj\Debug\net8.0\GestioneProvaITS.csproj.CoreCompileInputs.cache
+Z:\C#\2024_07_18\GestioneProvaITS\GestioneProvaITS\obj\Debug\net8.0\GestioneProvaITS.sourcelink.json
+Z:\C#\2024_07_18\GestioneProvaITS\GestioneProvaITS\obj\Debug\net8.0\GestioneProvaITS.dll
+Z:\C#\2024_07_18\GestioneProvaITS\GestioneProvaITS\obj\Debug\net8.0\refint\GestioneProvaITS.dll
+Z:\C#\2024_07_18\GestioneProvaITS\GestioneProvaITS\obj\Debug\net8.0\GestioneProvaITS.pdb
+Z:\C#\2024_07_18\GestioneProvaITS\GestioneProvaITS\obj\Debug\net8.0\GestioneProvaITS.genruntimeconfig.cache
+Z:\C#\2024_07_18\GestioneProvaITS\GestioneProvaITS\obj\Debug\net8.0\ref\GestioneProvaITS.dll

@@ -1,0 +1,15 @@
+Z:\C#\2024_07_18\ClientiLinq\ClientiLinq\bin\Debug\net8.0\ClientiLinq.exe
+Z:\C#\2024_07_18\ClientiLinq\ClientiLinq\bin\Debug\net8.0\ClientiLinq.deps.json
+Z:\C#\2024_07_18\ClientiLinq\ClientiLinq\bin\Debug\net8.0\ClientiLinq.runtimeconfig.json
+Z:\C#\2024_07_18\ClientiLinq\ClientiLinq\bin\Debug\net8.0\ClientiLinq.dll
+Z:\C#\2024_07_18\ClientiLinq\ClientiLinq\bin\Debug\net8.0\ClientiLinq.pdb
+Z:\C#\2024_07_18\ClientiLinq\ClientiLinq\obj\Debug\net8.0\ClientiLinq.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\2024_07_18\ClientiLinq\ClientiLinq\obj\Debug\net8.0\ClientiLinq.AssemblyInfoInputs.cache
+Z:\C#\2024_07_18\ClientiLinq\ClientiLinq\obj\Debug\net8.0\ClientiLinq.AssemblyInfo.cs
+Z:\C#\2024_07_18\ClientiLinq\ClientiLinq\obj\Debug\net8.0\ClientiLinq.csproj.CoreCompileInputs.cache
+Z:\C#\2024_07_18\ClientiLinq\ClientiLinq\obj\Debug\net8.0\ClientiLinq.sourcelink.json
+Z:\C#\2024_07_18\ClientiLinq\ClientiLinq\obj\Debug\net8.0\ClientiLinq.dll
+Z:\C#\2024_07_18\ClientiLinq\ClientiLinq\obj\Debug\net8.0\refint\ClientiLinq.dll
+Z:\C#\2024_07_18\ClientiLinq\ClientiLinq\obj\Debug\net8.0\ClientiLinq.pdb
+Z:\C#\2024_07_18\ClientiLinq\ClientiLinq\obj\Debug\net8.0\ClientiLinq.genruntimeconfig.cache
+Z:\C#\2024_07_18\ClientiLinq\ClientiLinq\obj\Debug\net8.0\ref\ClientiLinq.dll
