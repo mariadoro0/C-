@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Prestiti2.props" />
+</Project>

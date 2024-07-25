@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrestitiBiblioteca", "PrestitiBiblioteca\PrestitiBiblioteca.csproj", "{321EB0B5-E75B-4B16-84C6-100640FAA0DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{321EB0B5-E75B-4B16-84C6-100640FAA0DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{321EB0B5-E75B-4B16-84C6-100640FAA0DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{321EB0B5-E75B-4B16-84C6-100640FAA0DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{321EB0B5-E75B-4B16-84C6-100640FAA0DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC4A6D50-B83E-4B54-A2EC-3E914C15AEF1}
+	EndGlobalSection
+EndGlobal

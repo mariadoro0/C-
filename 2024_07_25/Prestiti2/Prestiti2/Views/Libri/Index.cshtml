@@ -1,0 +1,68 @@
+﻿@model IEnumerable<PrestitiBiblio.Models.Libro>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Elenco Libri</h1>
+
+<p>
+    <a asp-action="Create">
+        Aggiungi <i class="bi bi-plus-square"></i>
+    </a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Titolo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Autore)
+            </th>
+           
+            <th>
+                @Html.DisplayNameFor(model => model.Editore)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Classificazione)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Collocazione)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Copie)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Autore)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Titolo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Editore)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Classificazione)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Collocazione)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Copie)
+            </td>
+            <td>
+                    <a asp-action="Edit" asp-route-id="@item.Codice"><i class="bi bi-pen"></i></a> |
+                    <a asp-action="Details" asp-route-id="@item.Codice"><i class="bi bi-info-circle"></i></a> |
+                    <a asp-action="Delete" asp-route-id="@item.Codice"><i class="bi bi-trash"></i></a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
