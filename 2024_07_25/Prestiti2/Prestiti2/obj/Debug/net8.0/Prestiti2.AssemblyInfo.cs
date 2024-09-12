@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Prestiti2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+413383ede52a1c4c8aeb2ff8202eaeecca3833c1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99492231a5cf2723b9d355cdb4362d4ad69cb283")]
 [assembly: System.Reflection.AssemblyProductAttribute("Prestiti2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Prestiti2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

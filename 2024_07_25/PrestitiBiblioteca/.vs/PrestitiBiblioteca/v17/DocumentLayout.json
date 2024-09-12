@@ -56,7 +56,7 @@
               "RelativeDocumentMoniker": "PrestitiBiblioteca\\Program.cs",
               "ToolTip": "Z:\\C#\\2024_07_25\\PrestitiBiblioteca\\PrestitiBiblioteca\\Program.cs",
               "RelativeToolTip": "PrestitiBiblioteca\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-25T10:23:33.177Z",
               "EditorCaption": ""
@@ -71,8 +71,7 @@
               "RelativeToolTip": "PrestitiBiblioteca\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAB5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-25T10:21:59.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-25T10:21:59.771Z"
             },
             {
               "$type": "Document",
@@ -84,8 +83,7 @@
               "RelativeToolTip": "PrestitiBiblioteca\\Controllers\\LibriController.cs",
               "ViewState": "AQIAAHoAAAAAAAAAAAAAwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T10:20:12.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-25T10:20:12.408Z"
             },
             {
               "$type": "Document",
@@ -97,8 +95,7 @@
               "RelativeToolTip": "PrestitiBiblioteca\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T10:13:42.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-25T10:13:42.354Z"
             },
             {
               "$type": "Document",
@@ -110,8 +107,7 @@
               "RelativeToolTip": "PrestitiBiblioteca\\Models\\Libro.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T10:13:10.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-25T10:13:10.521Z"
             },
             {
               "$type": "Document",
@@ -123,8 +119,7 @@
               "RelativeToolTip": "PrestitiBiblioteca\\Models\\Prestito.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T10:13:03.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-25T10:13:03.11Z"
             },
             {
               "$type": "Document",
@@ -136,8 +131,7 @@
               "RelativeToolTip": "PrestitiBiblioteca\\Models\\Studente.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T10:11:57.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-25T10:11:57.446Z"
             },
             {
               "$type": "Document",
@@ -149,8 +143,7 @@
               "RelativeToolTip": "PrestitiBiblioteca\\Models\\PrestitiBibliotecaContext.cs",
               "ViewState": "AQIAACwAAAAAAAAAAAAuwDYAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T10:09:01.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-25T10:09:01.617Z"
             },
             {
               "$type": "Document",
@@ -162,8 +155,7 @@
               "RelativeToolTip": "PrestitiBiblioteca\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-25T09:52:05.502Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-25T09:52:05.502Z"
             }
           ]
         }
