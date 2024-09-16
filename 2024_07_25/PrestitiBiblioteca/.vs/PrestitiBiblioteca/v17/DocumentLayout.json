@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "Z:\\C#\\2024_07_25\\PrestitiBiblioteca\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{321EB0B5-E75B-4B16-84C6-100640FAA0DD}|PrestitiBiblioteca\\PrestitiBiblioteca.csproj|z:\\c#\\2024_07_25\\prestitibiblioteca\\prestitibiblioteca\\views\\libri\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{321EB0B5-E75B-4B16-84C6-100640FAA0DD}|PrestitiBiblioteca\\PrestitiBiblioteca.csproj|solutionrelative:prestitibiblioteca\\views\\libri\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{321EB0B5-E75B-4B16-84C6-100640FAA0DD}|PrestitiBiblioteca\\PrestitiBiblioteca.csproj|z:\\c#\\2024_07_25\\prestitibiblioteca\\prestitibiblioteca\\controllers\\libricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{321EB0B5-E75B-4B16-84C6-100640FAA0DD}|PrestitiBiblioteca\\PrestitiBiblioteca.csproj|solutionrelative:prestitibiblioteca\\controllers\\libricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{321EB0B5-E75B-4B16-84C6-100640FAA0DD}|PrestitiBiblioteca\\PrestitiBiblioteca.csproj|z:\\c#\\2024_07_25\\prestitibiblioteca\\prestitibiblioteca\\models\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{321EB0B5-E75B-4B16-84C6-100640FAA0DD}|PrestitiBiblioteca\\PrestitiBiblioteca.csproj|solutionrelative:prestitibiblioteca\\models\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{321EB0B5-E75B-4B16-84C6-100640FAA0DD}|PrestitiBiblioteca\\PrestitiBiblioteca.csproj|z:\\c#\\2024_07_25\\prestitibiblioteca\\prestitibiblioteca\\views\\libri\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{321EB0B5-E75B-4B16-84C6-100640FAA0DD}|PrestitiBiblioteca\\PrestitiBiblioteca.csproj|solutionrelative:prestitibiblioteca\\views\\libri\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{321EB0B5-E75B-4B16-84C6-100640FAA0DD}|PrestitiBiblioteca\\PrestitiBiblioteca.csproj|z:\\c#\\2024_07_25\\prestitibiblioteca\\prestitibiblioteca\\models\\prestito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{321EB0B5-E75B-4B16-84C6-100640FAA0DD}|PrestitiBiblioteca\\PrestitiBiblioteca.csproj|solutionrelative:prestitibiblioteca\\models\\prestito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{321EB0B5-E75B-4B16-84C6-100640FAA0DD}|PrestitiBiblioteca\\PrestitiBiblioteca.csproj|z:\\c#\\2024_07_25\\prestitibiblioteca\\prestitibiblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{321EB0B5-E75B-4B16-84C6-100640FAA0DD}|PrestitiBiblioteca\\PrestitiBiblioteca.csproj|solutionrelative:prestitibiblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,20 +39,8 @@
       "RelativeMoniker": "D:0:0:{321EB0B5-E75B-4B16-84C6-100640FAA0DD}|PrestitiBiblioteca\\PrestitiBiblioteca.csproj|solutionrelative:prestitibiblioteca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{321EB0B5-E75B-4B16-84C6-100640FAA0DD}|PrestitiBiblioteca\\PrestitiBiblioteca.csproj|z:\\c#\\2024_07_25\\prestitibiblioteca\\prestitibiblioteca\\controllers\\libricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{321EB0B5-E75B-4B16-84C6-100640FAA0DD}|PrestitiBiblioteca\\PrestitiBiblioteca.csproj|solutionrelative:prestitibiblioteca\\controllers\\libricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{321EB0B5-E75B-4B16-84C6-100640FAA0DD}|PrestitiBiblioteca\\PrestitiBiblioteca.csproj|z:\\c#\\2024_07_25\\prestitibiblioteca\\prestitibiblioteca\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{321EB0B5-E75B-4B16-84C6-100640FAA0DD}|PrestitiBiblioteca\\PrestitiBiblioteca.csproj|solutionrelative:prestitibiblioteca\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{321EB0B5-E75B-4B16-84C6-100640FAA0DD}|PrestitiBiblioteca\\PrestitiBiblioteca.csproj|z:\\c#\\2024_07_25\\prestitibiblioteca\\prestitibiblioteca\\models\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{321EB0B5-E75B-4B16-84C6-100640FAA0DD}|PrestitiBiblioteca\\PrestitiBiblioteca.csproj|solutionrelative:prestitibiblioteca\\models\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{321EB0B5-E75B-4B16-84C6-100640FAA0DD}|PrestitiBiblioteca\\PrestitiBiblioteca.csproj|z:\\c#\\2024_07_25\\prestitibiblioteca\\prestitibiblioteca\\models\\prestito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{321EB0B5-E75B-4B16-84C6-100640FAA0DD}|PrestitiBiblioteca\\PrestitiBiblioteca.csproj|solutionrelative:prestitibiblioteca\\models\\prestito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{321EB0B5-E75B-4B16-84C6-100640FAA0DD}|PrestitiBiblioteca\\PrestitiBiblioteca.csproj|z:\\c#\\2024_07_25\\prestitibiblioteca\\prestitibiblioteca\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,11 +54,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "Z:\\C#\\2024_07_25\\PrestitiBiblioteca\\PrestitiBiblioteca\\Views\\Libri\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PrestitiBiblioteca\\Views\\Libri\\Delete.cshtml",
+              "ToolTip": "Z:\\C#\\2024_07_25\\PrestitiBiblioteca\\PrestitiBiblioteca\\Views\\Libri\\Delete.cshtml",
+              "RelativeToolTip": "PrestitiBiblioteca\\Views\\Libri\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T12:45:40.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "Z:\\C#\\2024_07_25\\PrestitiBiblioteca\\PrestitiBiblioteca\\Views\\Libri\\Details.cshtml",
+              "RelativeDocumentMoniker": "PrestitiBiblioteca\\Views\\Libri\\Details.cshtml",
+              "ToolTip": "Z:\\C#\\2024_07_25\\PrestitiBiblioteca\\PrestitiBiblioteca\\Views\\Libri\\Details.cshtml",
+              "RelativeToolTip": "PrestitiBiblioteca\\Views\\Libri\\Details.cshtml",
+              "ViewState": "AQIAABkAAAAAZmZmZqYowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T12:45:23.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "Z:\\C#\\2024_07_25\\PrestitiBiblioteca\\PrestitiBiblioteca\\Program.cs",
               "RelativeDocumentMoniker": "PrestitiBiblioteca\\Program.cs",
@@ -63,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "Z:\\C#\\2024_07_25\\PrestitiBiblioteca\\PrestitiBiblioteca\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "PrestitiBiblioteca\\Views\\Shared\\_Layout.cshtml",
@@ -75,19 +109,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "LibriController.cs",
               "DocumentMoniker": "Z:\\C#\\2024_07_25\\PrestitiBiblioteca\\PrestitiBiblioteca\\Controllers\\LibriController.cs",
               "RelativeDocumentMoniker": "PrestitiBiblioteca\\Controllers\\LibriController.cs",
               "ToolTip": "Z:\\C#\\2024_07_25\\PrestitiBiblioteca\\PrestitiBiblioteca\\Controllers\\LibriController.cs",
               "RelativeToolTip": "PrestitiBiblioteca\\Controllers\\LibriController.cs",
-              "ViewState": "AQIAAHoAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "ViewState": "AQIAABgAAACAmZmZmRktwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T10:20:12.408Z"
+              "WhenOpened": "2024-07-25T10:20:12.408Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "HomeController.cs",
               "DocumentMoniker": "Z:\\C#\\2024_07_25\\PrestitiBiblioteca\\PrestitiBiblioteca\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "PrestitiBiblioteca\\Controllers\\HomeController.cs",
@@ -99,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Libro.cs",
               "DocumentMoniker": "Z:\\C#\\2024_07_25\\PrestitiBiblioteca\\PrestitiBiblioteca\\Models\\Libro.cs",
               "RelativeDocumentMoniker": "PrestitiBiblioteca\\Models\\Libro.cs",
@@ -111,31 +146,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Prestito.cs",
               "DocumentMoniker": "Z:\\C#\\2024_07_25\\PrestitiBiblioteca\\PrestitiBiblioteca\\Models\\Prestito.cs",
               "RelativeDocumentMoniker": "PrestitiBiblioteca\\Models\\Prestito.cs",
               "ToolTip": "Z:\\C#\\2024_07_25\\PrestitiBiblioteca\\PrestitiBiblioteca\\Models\\Prestito.cs",
               "RelativeToolTip": "PrestitiBiblioteca\\Models\\Prestito.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAANDMzMzPbvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T10:13:03.11Z"
+              "WhenOpened": "2024-07-25T10:13:03.11Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Studente.cs",
               "DocumentMoniker": "Z:\\C#\\2024_07_25\\PrestitiBiblioteca\\PrestitiBiblioteca\\Models\\Studente.cs",
               "RelativeDocumentMoniker": "PrestitiBiblioteca\\Models\\Studente.cs",
               "ToolTip": "Z:\\C#\\2024_07_25\\PrestitiBiblioteca\\PrestitiBiblioteca\\Models\\Studente.cs",
               "RelativeToolTip": "PrestitiBiblioteca\\Models\\Studente.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAxAAAA",
+              "ViewState": "AQIAAAUAAADQzMzMzMw3wAkAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T10:11:57.446Z"
+              "WhenOpened": "2024-07-25T10:11:57.446Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "PrestitiBibliotecaContext.cs",
               "DocumentMoniker": "Z:\\C#\\2024_07_25\\PrestitiBiblioteca\\PrestitiBiblioteca\\Models\\PrestitiBibliotecaContext.cs",
               "RelativeDocumentMoniker": "PrestitiBiblioteca\\Models\\PrestitiBibliotecaContext.cs",
@@ -147,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "Z:\\C#\\2024_07_25\\PrestitiBiblioteca\\PrestitiBiblioteca\\appsettings.json",
               "RelativeDocumentMoniker": "PrestitiBiblioteca\\appsettings.json",

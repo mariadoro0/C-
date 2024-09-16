@@ -1,0 +1,79 @@
+﻿@model PrestitiVideoteca.Models.Studente
+
+@{
+    ViewData["Title"] = "Details";
+    
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Studente</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Cognome)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Cognome)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Classe)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Classe)
+        </dd>
+    </dl>
+    <div>
+    <table class="table">
+    <thead>
+        <tr>
+            <th>
+                Titolo
+            </th>
+            <th>
+                Data Prestito
+            </th>
+            <th>
+                Data Restituzione
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+           var prestiti = (List<Prestito>)@ViewBag.Prestiti;
+        }
+    @foreach (var item in prestiti) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdFilmNavigation.Titolo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DataPrestito)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DataRestituzione)
+            </td>
+            </tr>
+    }
+    </tbody>
+</table>
+</div>
+</div>
+
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Matricola">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

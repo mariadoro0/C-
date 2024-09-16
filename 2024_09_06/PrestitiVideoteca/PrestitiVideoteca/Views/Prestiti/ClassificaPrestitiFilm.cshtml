@@ -1,0 +1,37 @@
+﻿@model IEnumerable<PrestitiVideoteca.Models.ClassificaFilmViewModel>
+
+@{
+    ViewData["Title"] = "ClassificaPrestitiFilm";
+}
+
+<h1>Classifica Prestiti</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Titolo
+            </th>
+            <th>
+                Numero prestiti
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Film.Titolo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NPrestiti)
+                </td>
+                
+
+            </tr>
+        }
+    </tbody>
+</table>
+<a asp-action="Index">Back to List</a>

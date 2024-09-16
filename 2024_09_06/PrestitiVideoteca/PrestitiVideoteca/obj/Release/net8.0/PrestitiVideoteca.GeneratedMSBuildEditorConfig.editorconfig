@@ -1,0 +1,131 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PrestitiVideoteca
+build_property.RootNamespace = PrestitiVideoteca
+build_property.ProjectDir = C:\Users\ICTS23-25.246\Desktop\2024_09_06 CSHARP\PrestitiVideoteca\PrestitiVideoteca\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ICTS23-25.246\Desktop\2024_09_06 CSHARP\PrestitiVideoteca\PrestitiVideoteca
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ICTS23-25.246/Desktop/2024_09_06 CSHARP/PrestitiVideoteca/PrestitiVideoteca/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.246/Desktop/2024_09_06 CSHARP/PrestitiVideoteca/PrestitiVideoteca/Views/Films/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.246/Desktop/2024_09_06 CSHARP/PrestitiVideoteca/PrestitiVideoteca/Views/Films/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.246/Desktop/2024_09_06 CSHARP/PrestitiVideoteca/PrestitiVideoteca/Views/Films/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.246/Desktop/2024_09_06 CSHARP/PrestitiVideoteca/PrestitiVideoteca/Views/Films/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.246/Desktop/2024_09_06 CSHARP/PrestitiVideoteca/PrestitiVideoteca/Views/Films/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.246/Desktop/2024_09_06 CSHARP/PrestitiVideoteca/PrestitiVideoteca/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.246/Desktop/2024_09_06 CSHARP/PrestitiVideoteca/PrestitiVideoteca/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.246/Desktop/2024_09_06 CSHARP/PrestitiVideoteca/PrestitiVideoteca/Views/Prestiti/ClassificaPrestitiFilm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc3RpdGlcQ2xhc3NpZmljYVByZXN0aXRpRmlsbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.246/Desktop/2024_09_06 CSHARP/PrestitiVideoteca/PrestitiVideoteca/Views/Prestiti/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc3RpdGlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.246/Desktop/2024_09_06 CSHARP/PrestitiVideoteca/PrestitiVideoteca/Views/Prestiti/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc3RpdGlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.246/Desktop/2024_09_06 CSHARP/PrestitiVideoteca/PrestitiVideoteca/Views/Prestiti/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc3RpdGlcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.246/Desktop/2024_09_06 CSHARP/PrestitiVideoteca/PrestitiVideoteca/Views/Prestiti/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc3RpdGlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.246/Desktop/2024_09_06 CSHARP/PrestitiVideoteca/PrestitiVideoteca/Views/Prestiti/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc3RpdGlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.246/Desktop/2024_09_06 CSHARP/PrestitiVideoteca/PrestitiVideoteca/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.246/Desktop/2024_09_06 CSHARP/PrestitiVideoteca/PrestitiVideoteca/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.246/Desktop/2024_09_06 CSHARP/PrestitiVideoteca/PrestitiVideoteca/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.246/Desktop/2024_09_06 CSHARP/PrestitiVideoteca/PrestitiVideoteca/Views/Studenti/ClassificaPrestitiStudenti.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudGlcQ2xhc3NpZmljYVByZXN0aXRpU3R1ZGVudGkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.246/Desktop/2024_09_06 CSHARP/PrestitiVideoteca/PrestitiVideoteca/Views/Studenti/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudGlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.246/Desktop/2024_09_06 CSHARP/PrestitiVideoteca/PrestitiVideoteca/Views/Studenti/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudGlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.246/Desktop/2024_09_06 CSHARP/PrestitiVideoteca/PrestitiVideoteca/Views/Studenti/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudGlcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.246/Desktop/2024_09_06 CSHARP/PrestitiVideoteca/PrestitiVideoteca/Views/Studenti/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudGlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.246/Desktop/2024_09_06 CSHARP/PrestitiVideoteca/PrestitiVideoteca/Views/Studenti/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudGlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.246/Desktop/2024_09_06 CSHARP/PrestitiVideoteca/PrestitiVideoteca/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.246/Desktop/2024_09_06 CSHARP/PrestitiVideoteca/PrestitiVideoteca/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.246/Desktop/2024_09_06 CSHARP/PrestitiVideoteca/PrestitiVideoteca/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-g8f4vqptd4

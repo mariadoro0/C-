@@ -1,0 +1,27 @@
+﻿@model IEnumerable<string>
+
+@{
+    ViewData["Title"] = "Autori";
+}
+
+<h1>Autori</h1>
+<p>
+    @{
+        var pattern = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+        for(int i = 0; i < pattern.Length; i++)
+        {
+            <h4><b>@pattern[i]</b></h4>
+            <ul>
+            @foreach(var item in Model)
+            {
+                if (item.StartsWith(pattern[i]))
+                {
+                        <li><a href="/Opere/Index?autore=@item">@item</a></li>
+                }
+            }
+                
+            </ul>
+        }
+        }
+</p>
+
