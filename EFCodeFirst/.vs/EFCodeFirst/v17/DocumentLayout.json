@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\EFCodeFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9A87FB-9489-4A98-A22A-44A3A8BE14FF}|EFCodeFirst\\EFCodeFirst.csproj|c:\\users\\icts23-25.246\\desktop\\2024_09_06 csharp\\efcodefirst\\efcodefirst\\models\\efcodefirstcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9A87FB-9489-4A98-A22A-44A3A8BE14FF}|EFCodeFirst\\EFCodeFirst.csproj|solutionrelative:efcodefirst\\models\\efcodefirstcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9A87FB-9489-4A98-A22A-44A3A8BE14FF}|EFCodeFirst\\EFCodeFirst.csproj|c:\\users\\icts23-25.246\\desktop\\2024_09_06 csharp\\efcodefirst\\efcodefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9A87FB-9489-4A98-A22A-44A3A8BE14FF}|EFCodeFirst\\EFCodeFirst.csproj|solutionrelative:efcodefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9A87FB-9489-4A98-A22A-44A3A8BE14FF}|EFCodeFirst\\EFCodeFirst.csproj|c:\\users\\icts23-25.246\\desktop\\2024_09_06 csharp\\efcodefirst\\efcodefirst\\controllers\\prodotticontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9A87FB-9489-4A98-A22A-44A3A8BE14FF}|EFCodeFirst\\EFCodeFirst.csproj|solutionrelative:efcodefirst\\controllers\\prodotticontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9A87FB-9489-4A98-A22A-44A3A8BE14FF}|EFCodeFirst\\EFCodeFirst.csproj|c:\\users\\icts23-25.246\\desktop\\2024_09_06 csharp\\efcodefirst\\efcodefirst\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B9A87FB-9489-4A98-A22A-44A3A8BE14FF}|EFCodeFirst\\EFCodeFirst.csproj|solutionrelative:efcodefirst\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9A87FB-9489-4A98-A22A-44A3A8BE14FF}|EFCodeFirst\\EFCodeFirst.csproj|c:\\users\\icts23-25.246\\desktop\\2024_09_06 csharp\\efcodefirst\\efcodefirst\\efcodefirst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9B9A87FB-9489-4A98-A22A-44A3A8BE14FF}|EFCodeFirst\\EFCodeFirst.csproj|solutionrelative:efcodefirst\\efcodefirst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9A87FB-9489-4A98-A22A-44A3A8BE14FF}|EFCodeFirst\\EFCodeFirst.csproj|c:\\users\\icts23-25.246\\desktop\\2024_09_06 csharp\\efcodefirst\\efcodefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B9A87FB-9489-4A98-A22A-44A3A8BE14FF}|EFCodeFirst\\EFCodeFirst.csproj|solutionrelative:efcodefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9A87FB-9489-4A98-A22A-44A3A8BE14FF}|EFCodeFirst\\EFCodeFirst.csproj|c:\\users\\icts23-25.246\\desktop\\2024_09_06 csharp\\efcodefirst\\efcodefirst\\models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9A87FB-9489-4A98-A22A-44A3A8BE14FF}|EFCodeFirst\\EFCodeFirst.csproj|solutionrelative:efcodefirst\\models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9A87FB-9489-4A98-A22A-44A3A8BE14FF}|EFCodeFirst\\EFCodeFirst.csproj|c:\\users\\icts23-25.246\\desktop\\2024_09_06 csharp\\efcodefirst\\efcodefirst\\migrations\\efcodefirstmigrations\\20240924143428_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9A87FB-9489-4A98-A22A-44A3A8BE14FF}|EFCodeFirst\\EFCodeFirst.csproj|solutionrelative:efcodefirst\\migrations\\efcodefirstmigrations\\20240924143428_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\EFCodeFirst\\EFCodeFirst\\Program.cs",
+              "RelativeDocumentMoniker": "EFCodeFirst\\Program.cs",
+              "ToolTip": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\EFCodeFirst\\EFCodeFirst\\Program.cs",
+              "RelativeToolTip": "EFCodeFirst\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T15:45:44.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\EFCodeFirst\\EFCodeFirst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EFCodeFirst\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\EFCodeFirst\\EFCodeFirst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EFCodeFirst\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T14:50:59.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdottiController.cs",
+              "DocumentMoniker": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\EFCodeFirst\\EFCodeFirst\\Controllers\\ProdottiController.cs",
+              "RelativeDocumentMoniker": "EFCodeFirst\\Controllers\\ProdottiController.cs",
+              "ToolTip": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\EFCodeFirst\\EFCodeFirst\\Controllers\\ProdottiController.cs",
+              "RelativeToolTip": "EFCodeFirst\\Controllers\\ProdottiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:48:33.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EFCodeFirst.csproj",
+              "DocumentMoniker": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\EFCodeFirst\\EFCodeFirst\\EFCodeFirst.csproj",
+              "RelativeDocumentMoniker": "EFCodeFirst\\EFCodeFirst.csproj",
+              "ToolTip": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\EFCodeFirst\\EFCodeFirst\\EFCodeFirst.csproj",
+              "RelativeToolTip": "EFCodeFirst\\EFCodeFirst.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-24T14:42:24.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240924143428_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\EFCodeFirst\\EFCodeFirst\\Migrations\\EFCodeFirstMigrations\\20240924143428_InitialCreate.cs",
+              "RelativeDocumentMoniker": "EFCodeFirst\\Migrations\\EFCodeFirstMigrations\\20240924143428_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\EFCodeFirst\\EFCodeFirst\\Migrations\\EFCodeFirstMigrations\\20240924143428_InitialCreate.cs",
+              "RelativeToolTip": "EFCodeFirst\\Migrations\\EFCodeFirstMigrations\\20240924143428_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:34:29.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EFCodeFirstContext.cs",
+              "DocumentMoniker": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\EFCodeFirst\\EFCodeFirst\\Models\\EFCodeFirstContext.cs",
+              "RelativeDocumentMoniker": "EFCodeFirst\\Models\\EFCodeFirstContext.cs",
+              "ToolTip": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\EFCodeFirst\\EFCodeFirst\\Models\\EFCodeFirstContext.cs",
+              "RelativeToolTip": "EFCodeFirst\\Models\\EFCodeFirstContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:31:07.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Prodotto.cs",
+              "DocumentMoniker": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\EFCodeFirst\\EFCodeFirst\\Models\\Prodotto.cs",
+              "RelativeDocumentMoniker": "EFCodeFirst\\Models\\Prodotto.cs",
+              "ToolTip": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\EFCodeFirst\\EFCodeFirst\\Models\\Prodotto.cs",
+              "RelativeToolTip": "EFCodeFirst\\Models\\Prodotto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:28:15.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\EFCodeFirst\\EFCodeFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "EFCodeFirst\\appsettings.json",
+              "ToolTip": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\EFCodeFirst\\EFCodeFirst\\appsettings.json",
+              "RelativeToolTip": "EFCodeFirst\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-24T14:24:56.782Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

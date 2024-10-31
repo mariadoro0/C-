@@ -1,0 +1,95 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PalazzoMadama
+build_property.RootNamespace = PalazzoMadama
+build_property.ProjectDir = C:\Users\ICTS23-25.246\Desktop\2024_09_06 CSHARP\PalazzoMadama\PalazzoMadama\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ICTS23-25.246\Desktop\2024_09_06 CSHARP\PalazzoMadama\PalazzoMadama
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ICTS23-25.246/Desktop/2024_09_06 CSHARP/PalazzoMadama/PalazzoMadama/Views/Autori/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b3JpXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.246/Desktop/2024_09_06 CSHARP/PalazzoMadama/PalazzoMadama/Views/Autori/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b3JpXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.246/Desktop/2024_09_06 CSHARP/PalazzoMadama/PalazzoMadama/Views/Autori/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b3JpXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.246/Desktop/2024_09_06 CSHARP/PalazzoMadama/PalazzoMadama/Views/Autori/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b3JpXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.246/Desktop/2024_09_06 CSHARP/PalazzoMadama/PalazzoMadama/Views/Autori/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b3JpXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.246/Desktop/2024_09_06 CSHARP/PalazzoMadama/PalazzoMadama/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.246/Desktop/2024_09_06 CSHARP/PalazzoMadama/PalazzoMadama/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.246/Desktop/2024_09_06 CSHARP/PalazzoMadama/PalazzoMadama/Views/Opere/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.246/Desktop/2024_09_06 CSHARP/PalazzoMadama/PalazzoMadama/Views/Opere/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.246/Desktop/2024_09_06 CSHARP/PalazzoMadama/PalazzoMadama/Views/Opere/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.246/Desktop/2024_09_06 CSHARP/PalazzoMadama/PalazzoMadama/Views/Opere/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.246/Desktop/2024_09_06 CSHARP/PalazzoMadama/PalazzoMadama/Views/Opere/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.246/Desktop/2024_09_06 CSHARP/PalazzoMadama/PalazzoMadama/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.246/Desktop/2024_09_06 CSHARP/PalazzoMadama/PalazzoMadama/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.246/Desktop/2024_09_06 CSHARP/PalazzoMadama/PalazzoMadama/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.246/Desktop/2024_09_06 CSHARP/PalazzoMadama/PalazzoMadama/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.246/Desktop/2024_09_06 CSHARP/PalazzoMadama/PalazzoMadama/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-3xolw944h0

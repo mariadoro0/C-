@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\AnagraficaAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F101-4D3B-4113-8F90-B88BFEA6677E}|AnagraficaAPI\\AnagraficaAPI.csproj|c:\\users\\icts23-25.246\\desktop\\2024_09_06 csharp\\anagraficaapi\\anagraficaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F101-4D3B-4113-8F90-B88BFEA6677E}|AnagraficaAPI\\AnagraficaAPI.csproj|solutionrelative:anagraficaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F101-4D3B-4113-8F90-B88BFEA6677E}|AnagraficaAPI\\AnagraficaAPI.csproj|c:\\users\\icts23-25.246\\desktop\\2024_09_06 csharp\\anagraficaapi\\anagraficaapi\\models\\anagraficacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F101-4D3B-4113-8F90-B88BFEA6677E}|AnagraficaAPI\\AnagraficaAPI.csproj|solutionrelative:anagraficaapi\\models\\anagraficacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F101-4D3B-4113-8F90-B88BFEA6677E}|AnagraficaAPI\\AnagraficaAPI.csproj|c:\\users\\icts23-25.246\\desktop\\2024_09_06 csharp\\anagraficaapi\\anagraficaapi\\controllers\\studenticontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F101-4D3B-4113-8F90-B88BFEA6677E}|AnagraficaAPI\\AnagraficaAPI.csproj|solutionrelative:anagraficaapi\\controllers\\studenticontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F101-4D3B-4113-8F90-B88BFEA6677E}|AnagraficaAPI\\AnagraficaAPI.csproj|c:\\users\\icts23-25.246\\desktop\\2024_09_06 csharp\\anagraficaapi\\anagraficaapi\\models\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F959F101-4D3B-4113-8F90-B88BFEA6677E}|AnagraficaAPI\\AnagraficaAPI.csproj|solutionrelative:anagraficaapi\\models\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F959F101-4D3B-4113-8F90-B88BFEA6677E}|AnagraficaAPI\\AnagraficaAPI.csproj|c:\\users\\icts23-25.246\\desktop\\2024_09_06 csharp\\anagraficaapi\\anagraficaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F959F101-4D3B-4113-8F90-B88BFEA6677E}|AnagraficaAPI\\AnagraficaAPI.csproj|solutionrelative:anagraficaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentiController.cs",
+              "DocumentMoniker": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\AnagraficaAPI\\AnagraficaAPI\\Controllers\\StudentiController.cs",
+              "RelativeDocumentMoniker": "AnagraficaAPI\\Controllers\\StudentiController.cs",
+              "ToolTip": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\AnagraficaAPI\\AnagraficaAPI\\Controllers\\StudentiController.cs",
+              "RelativeToolTip": "AnagraficaAPI\\Controllers\\StudentiController.cs",
+              "ViewState": "AQIAACMAAAAAmpmZmZkawB4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:28:21.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Studente.cs",
+              "DocumentMoniker": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\AnagraficaAPI\\AnagraficaAPI\\Models\\Studente.cs",
+              "RelativeDocumentMoniker": "AnagraficaAPI\\Models\\Studente.cs",
+              "ToolTip": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\AnagraficaAPI\\AnagraficaAPI\\Models\\Studente.cs",
+              "RelativeToolTip": "AnagraficaAPI\\Models\\Studente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:24:55.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\AnagraficaAPI\\AnagraficaAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AnagraficaAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\AnagraficaAPI\\AnagraficaAPI\\Program.cs",
+              "RelativeToolTip": "AnagraficaAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:48:22.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnagraficaContext.cs",
+              "DocumentMoniker": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\AnagraficaAPI\\AnagraficaAPI\\Models\\AnagraficaContext.cs",
+              "RelativeDocumentMoniker": "AnagraficaAPI\\Models\\AnagraficaContext.cs",
+              "ToolTip": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\AnagraficaAPI\\AnagraficaAPI\\Models\\AnagraficaContext.cs",
+              "RelativeToolTip": "AnagraficaAPI\\Models\\AnagraficaContext.cs",
+              "ViewState": "AQIAAAYAAABAMzMzMzMbwBkAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:46:04.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\AnagraficaAPI\\AnagraficaAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AnagraficaAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\AnagraficaAPI\\AnagraficaAPI\\appsettings.json",
+              "RelativeToolTip": "AnagraficaAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T14:42:03.207Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+﻿@model IEnumerable<Istat.Models.RegioneViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Denominazione)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RipartizioneGeografica)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NumeroProvince)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NumeroComuni)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SuperficieTotale)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PopolazioneMedia)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Denominazione)
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => item.RipartizioneGeografica)
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => item.NumeroProvince)
+            </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NumeroComuni)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SuperficieTotale)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PopolazioneMedia)
+                </td>
+            <td>
+              
+               |
+              
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

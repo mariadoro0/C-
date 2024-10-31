@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\CrudAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2596ACAC-86C5-4071-8714-0EBFA99FB2C3}|CrudAPI\\CrudAPI.csproj|c:\\users\\icts23-25.246\\desktop\\2024_09_06 csharp\\crudapi\\crudapi\\controllers\\studenticontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2596ACAC-86C5-4071-8714-0EBFA99FB2C3}|CrudAPI\\CrudAPI.csproj|solutionrelative:crudapi\\controllers\\studenticontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2596ACAC-86C5-4071-8714-0EBFA99FB2C3}|CrudAPI\\CrudAPI.csproj|c:\\users\\icts23-25.246\\desktop\\2024_09_06 csharp\\crudapi\\crudapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2596ACAC-86C5-4071-8714-0EBFA99FB2C3}|CrudAPI\\CrudAPI.csproj|solutionrelative:crudapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2596ACAC-86C5-4071-8714-0EBFA99FB2C3}|CrudAPI\\CrudAPI.csproj|c:\\users\\icts23-25.246\\desktop\\2024_09_06 csharp\\crudapi\\crudapi\\models\\crudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2596ACAC-86C5-4071-8714-0EBFA99FB2C3}|CrudAPI\\CrudAPI.csproj|solutionrelative:crudapi\\models\\crudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2596ACAC-86C5-4071-8714-0EBFA99FB2C3}|CrudAPI\\CrudAPI.csproj|c:\\users\\icts23-25.246\\desktop\\2024_09_06 csharp\\crudapi\\crudapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2596ACAC-86C5-4071-8714-0EBFA99FB2C3}|CrudAPI\\CrudAPI.csproj|solutionrelative:crudapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentiController.cs",
+              "DocumentMoniker": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\CrudAPI\\CrudAPI\\Controllers\\StudentiController.cs",
+              "RelativeDocumentMoniker": "CrudAPI\\Controllers\\StudentiController.cs",
+              "ToolTip": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\CrudAPI\\CrudAPI\\Controllers\\StudentiController.cs",
+              "RelativeToolTip": "CrudAPI\\Controllers\\StudentiController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADgvxwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:22:39.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CrudContext.cs",
+              "DocumentMoniker": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\CrudAPI\\CrudAPI\\Models\\CrudContext.cs",
+              "RelativeDocumentMoniker": "CrudAPI\\Models\\CrudContext.cs",
+              "ToolTip": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\CrudAPI\\CrudAPI\\Models\\CrudContext.cs",
+              "RelativeToolTip": "CrudAPI\\Models\\CrudContext.cs",
+              "ViewState": "AQIAAAYAAABAMzMzMzMbwBkAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:17:29.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\CrudAPI\\CrudAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "CrudAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\CrudAPI\\CrudAPI\\appsettings.json",
+              "RelativeToolTip": "CrudAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T16:16:20.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\CrudAPI\\CrudAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CrudAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\CrudAPI\\CrudAPI\\Program.cs",
+              "RelativeToolTip": "CrudAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:16:02.35Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

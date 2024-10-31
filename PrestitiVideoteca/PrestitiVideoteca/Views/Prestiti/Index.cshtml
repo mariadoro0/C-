@@ -1,0 +1,82 @@
+﻿@model IEnumerable<PrestitiVideoteca.Models.Prestito>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>@ViewBag.Header</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+    @if (ViewBag.IndexCheck == 1)
+    {
+        <a asp-action="IndexArchivio">Archivio</a>
+    }
+    else
+    {
+        <a asp-action="Index">Prestiti attivi</a>
+    }
+    <a asp-action="ClassificaPrestitiFilm">Visualizza classifica</a>
+</p>
+
+<div>
+    <form>
+    Ricerca per:<br />
+    Titolo: <input type="text" name="titolo" value="@ViewBag.Titolo" />
+    Cognome: <input type="text" name="regista" value="@ViewBag.Cognome" />
+        <input type="submit" value="Cerca" class="btn btn-primary" />
+    </form>
+</div>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.DataPrestito)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DataScadenza)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DataRestituzione)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdFilmNavigation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MatricolaNavigation)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.DataPrestito)
+            </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DataScadenza)
+                </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DataRestituzione)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdFilmNavigation.Titolo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MatricolaNavigation.Nominativo)
+            </td>
+            <td>
+                    @if (ViewBag.IndexCheck == 1)
+                    {
+                        <a asp-action="Restituzione" asp-route-id="@item.Id">Restituisci</a> 
+                    }
+                |
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\ScuoleItaliane\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{649DF639-C939-4AC0-BAFF-427C047EF141}|ScuoleItaliane\\ScuoleItaliane.csproj|c:\\users\\icts23-25.246\\desktop\\2024_09_06 csharp\\scuoleitaliane\\scuoleitaliane\\controllers\\scuolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649DF639-C939-4AC0-BAFF-427C047EF141}|ScuoleItaliane\\ScuoleItaliane.csproj|solutionrelative:scuoleitaliane\\controllers\\scuolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649DF639-C939-4AC0-BAFF-427C047EF141}|ScuoleItaliane\\ScuoleItaliane.csproj|c:\\users\\icts23-25.246\\desktop\\2024_09_06 csharp\\scuoleitaliane\\scuoleitaliane\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{649DF639-C939-4AC0-BAFF-427C047EF141}|ScuoleItaliane\\ScuoleItaliane.csproj|solutionrelative:scuoleitaliane\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649DF639-C939-4AC0-BAFF-427C047EF141}|ScuoleItaliane\\ScuoleItaliane.csproj|c:\\users\\icts23-25.246\\desktop\\2024_09_06 csharp\\scuoleitaliane\\scuoleitaliane\\views\\scuole\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{649DF639-C939-4AC0-BAFF-427C047EF141}|ScuoleItaliane\\ScuoleItaliane.csproj|solutionrelative:scuoleitaliane\\views\\scuole\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649DF639-C939-4AC0-BAFF-427C047EF141}|ScuoleItaliane\\ScuoleItaliane.csproj|c:\\users\\icts23-25.246\\desktop\\2024_09_06 csharp\\scuoleitaliane\\scuoleitaliane\\models\\comune.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649DF639-C939-4AC0-BAFF-427C047EF141}|ScuoleItaliane\\ScuoleItaliane.csproj|solutionrelative:scuoleitaliane\\models\\comune.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649DF639-C939-4AC0-BAFF-427C047EF141}|ScuoleItaliane\\ScuoleItaliane.csproj|c:\\users\\icts23-25.246\\desktop\\2024_09_06 csharp\\scuoleitaliane\\scuoleitaliane\\models\\scuoleitalianecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649DF639-C939-4AC0-BAFF-427C047EF141}|ScuoleItaliane\\ScuoleItaliane.csproj|solutionrelative:scuoleitaliane\\models\\scuoleitalianecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649DF639-C939-4AC0-BAFF-427C047EF141}|ScuoleItaliane\\ScuoleItaliane.csproj|c:\\users\\icts23-25.246\\desktop\\2024_09_06 csharp\\scuoleitaliane\\scuoleitaliane\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649DF639-C939-4AC0-BAFF-427C047EF141}|ScuoleItaliane\\ScuoleItaliane.csproj|solutionrelative:scuoleitaliane\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649DF639-C939-4AC0-BAFF-427C047EF141}|ScuoleItaliane\\ScuoleItaliane.csproj|c:\\users\\icts23-25.246\\desktop\\2024_09_06 csharp\\scuoleitaliane\\scuoleitaliane\\models\\regione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649DF639-C939-4AC0-BAFF-427C047EF141}|ScuoleItaliane\\ScuoleItaliane.csproj|solutionrelative:scuoleitaliane\\models\\regione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649DF639-C939-4AC0-BAFF-427C047EF141}|ScuoleItaliane\\ScuoleItaliane.csproj|c:\\users\\icts23-25.246\\desktop\\2024_09_06 csharp\\scuoleitaliane\\scuoleitaliane\\models\\provincia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649DF639-C939-4AC0-BAFF-427C047EF141}|ScuoleItaliane\\ScuoleItaliane.csproj|solutionrelative:scuoleitaliane\\models\\provincia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649DF639-C939-4AC0-BAFF-427C047EF141}|ScuoleItaliane\\ScuoleItaliane.csproj|c:\\users\\icts23-25.246\\desktop\\2024_09_06 csharp\\scuoleitaliane\\scuoleitaliane\\models\\scuola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649DF639-C939-4AC0-BAFF-427C047EF141}|ScuoleItaliane\\ScuoleItaliane.csproj|solutionrelative:scuoleitaliane\\models\\scuola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649DF639-C939-4AC0-BAFF-427C047EF141}|ScuoleItaliane\\ScuoleItaliane.csproj|c:\\users\\icts23-25.246\\desktop\\2024_09_06 csharp\\scuoleitaliane\\scuoleitaliane\\models\\tipologiascuola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649DF639-C939-4AC0-BAFF-427C047EF141}|ScuoleItaliane\\ScuoleItaliane.csproj|solutionrelative:scuoleitaliane\\models\\tipologiascuola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649DF639-C939-4AC0-BAFF-427C047EF141}|ScuoleItaliane\\ScuoleItaliane.csproj|c:\\users\\icts23-25.246\\desktop\\2024_09_06 csharp\\scuoleitaliane\\scuoleitaliane\\models\\zonaaltimetrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649DF639-C939-4AC0-BAFF-427C047EF141}|ScuoleItaliane\\ScuoleItaliane.csproj|solutionrelative:scuoleitaliane\\models\\zonaaltimetrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649DF639-C939-4AC0-BAFF-427C047EF141}|ScuoleItaliane\\ScuoleItaliane.csproj|c:\\users\\icts23-25.246\\desktop\\2024_09_06 csharp\\scuoleitaliane\\scuoleitaliane\\models\\zonamontana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649DF639-C939-4AC0-BAFF-427C047EF141}|ScuoleItaliane\\ScuoleItaliane.csproj|solutionrelative:scuoleitaliane\\models\\zonamontana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649DF639-C939-4AC0-BAFF-427C047EF141}|ScuoleItaliane\\ScuoleItaliane.csproj|c:\\users\\icts23-25.246\\desktop\\2024_09_06 csharp\\scuoleitaliane\\scuoleitaliane\\models\\ripartizionegeografica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649DF639-C939-4AC0-BAFF-427C047EF141}|ScuoleItaliane\\ScuoleItaliane.csproj|solutionrelative:scuoleitaliane\\models\\ripartizionegeografica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649DF639-C939-4AC0-BAFF-427C047EF141}|ScuoleItaliane\\ScuoleItaliane.csproj|c:\\users\\icts23-25.246\\desktop\\2024_09_06 csharp\\scuoleitaliane\\scuoleitaliane\\models\\istitutoriferimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649DF639-C939-4AC0-BAFF-427C047EF141}|ScuoleItaliane\\ScuoleItaliane.csproj|solutionrelative:scuoleitaliane\\models\\istitutoriferimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649DF639-C939-4AC0-BAFF-427C047EF141}|ScuoleItaliane\\ScuoleItaliane.csproj|c:\\users\\icts23-25.246\\desktop\\2024_09_06 csharp\\scuoleitaliane\\scuoleitaliane\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649DF639-C939-4AC0-BAFF-427C047EF141}|ScuoleItaliane\\ScuoleItaliane.csproj|solutionrelative:scuoleitaliane\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649DF639-C939-4AC0-BAFF-427C047EF141}|ScuoleItaliane\\ScuoleItaliane.csproj|c:\\users\\icts23-25.246\\desktop\\2024_09_06 csharp\\scuoleitaliane\\scuoleitaliane\\models\\caratteristicascuola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649DF639-C939-4AC0-BAFF-427C047EF141}|ScuoleItaliane\\ScuoleItaliane.csproj|solutionrelative:scuoleitaliane\\models\\caratteristicascuola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649DF639-C939-4AC0-BAFF-427C047EF141}|ScuoleItaliane\\ScuoleItaliane.csproj|c:\\users\\icts23-25.246\\desktop\\2024_09_06 csharp\\scuoleitaliane\\scuoleitaliane\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649DF639-C939-4AC0-BAFF-427C047EF141}|ScuoleItaliane\\ScuoleItaliane.csproj|solutionrelative:scuoleitaliane\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649DF639-C939-4AC0-BAFF-427C047EF141}|ScuoleItaliane\\ScuoleItaliane.csproj|c:\\users\\icts23-25.246\\desktop\\2024_09_06 csharp\\scuoleitaliane\\scuoleitaliane\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{649DF639-C939-4AC0-BAFF-427C047EF141}|ScuoleItaliane\\ScuoleItaliane.csproj|solutionrelative:scuoleitaliane\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RipartizioneGeografica.cs",
+              "DocumentMoniker": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\ScuoleItaliane\\ScuoleItaliane\\Models\\RipartizioneGeografica.cs",
+              "RelativeDocumentMoniker": "ScuoleItaliane\\Models\\RipartizioneGeografica.cs",
+              "ToolTip": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\ScuoleItaliane\\ScuoleItaliane\\Models\\RipartizioneGeografica.cs",
+              "RelativeToolTip": "ScuoleItaliane\\Models\\RipartizioneGeografica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:24:52.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IstitutoRiferimento.cs",
+              "DocumentMoniker": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\ScuoleItaliane\\ScuoleItaliane\\Models\\IstitutoRiferimento.cs",
+              "RelativeDocumentMoniker": "ScuoleItaliane\\Models\\IstitutoRiferimento.cs",
+              "ToolTip": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\ScuoleItaliane\\ScuoleItaliane\\Models\\IstitutoRiferimento.cs",
+              "RelativeToolTip": "ScuoleItaliane\\Models\\IstitutoRiferimento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:24:33.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\ScuoleItaliane\\ScuoleItaliane\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ScuoleItaliane\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\ScuoleItaliane\\ScuoleItaliane\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ScuoleItaliane\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:24:32.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CaratteristicaScuola.cs",
+              "DocumentMoniker": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\ScuoleItaliane\\ScuoleItaliane\\Models\\CaratteristicaScuola.cs",
+              "RelativeDocumentMoniker": "ScuoleItaliane\\Models\\CaratteristicaScuola.cs",
+              "ToolTip": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\ScuoleItaliane\\ScuoleItaliane\\Models\\CaratteristicaScuola.cs",
+              "RelativeToolTip": "ScuoleItaliane\\Models\\CaratteristicaScuola.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:24:00.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Regione.cs",
+              "DocumentMoniker": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\ScuoleItaliane\\ScuoleItaliane\\Models\\Regione.cs",
+              "RelativeDocumentMoniker": "ScuoleItaliane\\Models\\Regione.cs",
+              "ToolTip": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\ScuoleItaliane\\ScuoleItaliane\\Models\\Regione.cs",
+              "RelativeToolTip": "ScuoleItaliane\\Models\\Regione.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:18:27.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Comune.cs",
+              "DocumentMoniker": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\ScuoleItaliane\\ScuoleItaliane\\Models\\Comune.cs",
+              "RelativeDocumentMoniker": "ScuoleItaliane\\Models\\Comune.cs",
+              "ToolTip": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\ScuoleItaliane\\ScuoleItaliane\\Models\\Comune.cs",
+              "RelativeToolTip": "ScuoleItaliane\\Models\\Comune.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwCMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:40:23.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Provincia.cs",
+              "DocumentMoniker": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\ScuoleItaliane\\ScuoleItaliane\\Models\\Provincia.cs",
+              "RelativeDocumentMoniker": "ScuoleItaliane\\Models\\Provincia.cs",
+              "ToolTip": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\ScuoleItaliane\\ScuoleItaliane\\Models\\Provincia.cs",
+              "RelativeToolTip": "ScuoleItaliane\\Models\\Provincia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:39:16.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\ScuoleItaliane\\ScuoleItaliane\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ScuoleItaliane\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\ScuoleItaliane\\ScuoleItaliane\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ScuoleItaliane\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T13:25:25.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\ScuoleItaliane\\ScuoleItaliane\\Views\\Scuole\\Index.cshtml",
+              "RelativeDocumentMoniker": "ScuoleItaliane\\Views\\Scuole\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\ScuoleItaliane\\ScuoleItaliane\\Views\\Scuole\\Index.cshtml",
+              "RelativeToolTip": "ScuoleItaliane\\Views\\Scuole\\Index.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAFMAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T13:25:17.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\ScuoleItaliane\\ScuoleItaliane\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ScuoleItaliane\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\ScuoleItaliane\\ScuoleItaliane\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ScuoleItaliane\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:25:02.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScuoleController.cs",
+              "DocumentMoniker": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\ScuoleItaliane\\ScuoleItaliane\\Controllers\\ScuoleController.cs",
+              "RelativeDocumentMoniker": "ScuoleItaliane\\Controllers\\ScuoleController.cs",
+              "ToolTip": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\ScuoleItaliane\\ScuoleItaliane\\Controllers\\ScuoleController.cs",
+              "RelativeToolTip": "ScuoleItaliane\\Controllers\\ScuoleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:24:12.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScuoleItalianeContext.cs",
+              "DocumentMoniker": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\ScuoleItaliane\\ScuoleItaliane\\Models\\ScuoleItalianeContext.cs",
+              "RelativeDocumentMoniker": "ScuoleItaliane\\Models\\ScuoleItalianeContext.cs",
+              "ToolTip": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\ScuoleItaliane\\ScuoleItaliane\\Models\\ScuoleItalianeContext.cs",
+              "RelativeToolTip": "ScuoleItaliane\\Models\\ScuoleItalianeContext.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAiwG4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:16:05.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ZonaMontana.cs",
+              "DocumentMoniker": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\ScuoleItaliane\\ScuoleItaliane\\Models\\ZonaMontana.cs",
+              "RelativeDocumentMoniker": "ScuoleItaliane\\Models\\ZonaMontana.cs",
+              "ToolTip": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\ScuoleItaliane\\ScuoleItaliane\\Models\\ZonaMontana.cs",
+              "RelativeToolTip": "ScuoleItaliane\\Models\\ZonaMontana.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:26:54.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\ScuoleItaliane\\ScuoleItaliane\\appsettings.json",
+              "RelativeDocumentMoniker": "ScuoleItaliane\\appsettings.json",
+              "ToolTip": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\ScuoleItaliane\\ScuoleItaliane\\appsettings.json",
+              "RelativeToolTip": "ScuoleItaliane\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T13:05:57.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\ScuoleItaliane\\ScuoleItaliane\\Program.cs",
+              "RelativeDocumentMoniker": "ScuoleItaliane\\Program.cs",
+              "ToolTip": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\ScuoleItaliane\\ScuoleItaliane\\Program.cs",
+              "RelativeToolTip": "ScuoleItaliane\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:05:56.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Scuola.cs",
+              "DocumentMoniker": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\ScuoleItaliane\\ScuoleItaliane\\Models\\Scuola.cs",
+              "RelativeDocumentMoniker": "ScuoleItaliane\\Models\\Scuola.cs",
+              "ToolTip": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\ScuoleItaliane\\ScuoleItaliane\\Models\\Scuola.cs",
+              "RelativeToolTip": "ScuoleItaliane\\Models\\Scuola.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:25:01.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TipologiaScuola.cs",
+              "DocumentMoniker": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\ScuoleItaliane\\ScuoleItaliane\\Models\\TipologiaScuola.cs",
+              "RelativeDocumentMoniker": "ScuoleItaliane\\Models\\TipologiaScuola.cs",
+              "ToolTip": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\ScuoleItaliane\\ScuoleItaliane\\Models\\TipologiaScuola.cs",
+              "RelativeToolTip": "ScuoleItaliane\\Models\\TipologiaScuola.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:26:34.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ZonaAltimetrica.cs",
+              "DocumentMoniker": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\ScuoleItaliane\\ScuoleItaliane\\Models\\ZonaAltimetrica.cs",
+              "RelativeDocumentMoniker": "ScuoleItaliane\\Models\\ZonaAltimetrica.cs",
+              "ToolTip": "C:\\Users\\ICTS23-25.246\\Desktop\\2024_09_06 CSHARP\\ScuoleItaliane\\ScuoleItaliane\\Models\\ZonaAltimetrica.cs",
+              "RelativeToolTip": "ScuoleItaliane\\Models\\ZonaAltimetrica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:26:44.754Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

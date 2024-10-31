@@ -1,0 +1,6 @@
+@AnagraficaAPI_HostAddress = http://localhost:5027
+
+GET {{AnagraficaAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
